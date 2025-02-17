@@ -9,6 +9,7 @@ import { useEffect, useRef, useState } from "react";
 import DungeonHeader from "./_header/DungeonHeader";
 import MapSelector from "./MapSelector";
 import MapExpander from "./MapExpander";
+import Image from "next/image";
 
 
 
@@ -51,7 +52,7 @@ export default function DungeonMap({dungeon}) {
                 <MapSelector />
             <TransformWrapper>
                 <TransformComponent>
-                <img className="dungeonMap" src={currentMap?.icon}></img>
+                <Image alt={'Map of ' + dungeon.name} width={2000} height={1000} className="dungeonMap" src={currentMap?.icon}/>
                 </TransformComponent>
                 <DungeonComponentContainer>
                 </DungeonComponentContainer>

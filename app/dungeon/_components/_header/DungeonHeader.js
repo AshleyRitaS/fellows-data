@@ -1,4 +1,5 @@
 import { selectDungeonInfo } from "@/app/_state/_dungeon/dungeonSlice";
+import Image from "next/image";
 import { useSelector } from "react-redux";
 
 
@@ -12,7 +13,7 @@ export default function DungeonHeader() {
             <div className="headerTitle"><h1>{dungeonInfo.name.toUpperCase()}</h1><div className="fullSeparator"></div>
                 <div className="headerInfo"><span>{dungeonInfo.type}</span>&#183;<span><span className="timer"></span>{minutes}:{seconds}</span>&#183;<span>Kill Score: {dungeonInfo.score}</span></div>
             </div>
-            <div className="headerContent"><img className="headerImage" src={dungeonInfo.loadingScreen}></img></div>
+            <div className="headerContent"><Image alt={'Background art for '+ dungeonInfo.name} height={2000} width={2000} className="headerImage" src={dungeonInfo.loadingScreen}/></div>
         </div>
     )
 }

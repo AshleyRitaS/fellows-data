@@ -84,6 +84,7 @@ img.dungeonMap {
 
 .componentIcon img {
   max-width:20px;
+  max-height:20px;
   border-radius:50%;
   vertical-align: top;
   border-width: 2px;
@@ -103,6 +104,7 @@ img.dungeonMap {
 
 .currentEnemyView img {
   max-width: 100%;
+  height:auto;
 }
 
 .currentEnemyView .currentEnemyName {
@@ -287,6 +289,7 @@ img.dungeonMap {
 }
 .characterPortrait {
   width:30%;
+  height:auto;
   float:right;
 }
 
@@ -356,6 +359,7 @@ h3.abilityName {
 
 .iconContainer img {
   width:75px;
+  height:75px;
 }
 .abilityDiv {
   margin-left:auto;
@@ -427,6 +431,7 @@ h3.abilityName {
 
 .talentIcon img {
   width:60px;
+  height:60px;
   border: 2px solid #43bb4a
 }
 

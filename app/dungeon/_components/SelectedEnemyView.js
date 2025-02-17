@@ -3,6 +3,7 @@ import { useSelector, } from "react-redux"
 import { selectCurrentEnemy, selectCurrentEnemyID } from "@/app/_state/_dungeon/dungeonSlice"
 import Draggable from "react-draggable";
 import { useRef } from "react";
+import Image from "next/image";
 
 export default function SelectedEnemyView({draggable}) {
     const currentEnemy=useSelector(selectCurrentEnemy);
@@ -16,7 +17,7 @@ export default function SelectedEnemyView({draggable}) {
 
     var output = (
         <div ref={draggableRef} className="currentEnemyView">
-            <img src={currentEnemy?.icon}/>
+            <Image alt={'Portrait art of '+ currentEnemy?.name } width={200} height={200} src={currentEnemy?.icon}/>
             <div className="currentEnemyStats">
                 <h4 className="currentEnemyName">{currentEnemy?.name}</h4>
                 <p>Score: {currentEnemy?.score}</p>

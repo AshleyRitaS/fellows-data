@@ -1,3 +1,5 @@
+import Image from "next/image"
+
 export default function Ability({ability}) {
     function AbilityType({isUltimate, isActive}) {
         if (isUltimate) {
@@ -34,7 +36,7 @@ export default function Ability({ability}) {
             </div>
             <div className="thickSeparator"></div>
             
-            <span className="iconContainer"><img src={ability.icon}/></span>
+            <span className="iconContainer"><Image alt={'Icon art for '+ability.name} width={100} height={100} src={ability.icon}/></span>
             <div className="abilityText" dangerouslySetInnerHTML={{__html:ability.description || ''}}></div>
             
         </div>
