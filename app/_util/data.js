@@ -1,4 +1,5 @@
 import fs from 'fs';
+import path from 'path'
 import {cache} from 'react';
 
 const characterFile = 'data/characters.json'
@@ -8,7 +9,7 @@ export default (function() {
     var data = {};
 
     data.getCharacters = cache(async () => {
-        var raw = fs.readFileSync(characterFile);
+        var raw = fs.readFileSync(path.join(process.cwd(), characterFile));
         return JSON.parse(raw);
     })
 
@@ -20,7 +21,7 @@ export default (function() {
     })
 
     data.getDungeons = cache(async () => {
-        var raw = fs.readFileSync(dungeonFile);
+        var raw = fs.readFileSync(path.join(process.cwd(), dungeonFile));
         return JSON.parse(raw);
     })
 
