@@ -1,5 +1,5 @@
-const fullRectSpaceTest = {x:100000, y: 50000};
-const originOffsetTest = {x:-53000, y:-29000}
+const fullRectSpaceTest = {x:70000, y: 35000};
+const originOffsetTest = {x:-45000, y:-20000};
 function toLocalGrid(loc) {
     return {x:loc.y, y:-loc.x}
 }

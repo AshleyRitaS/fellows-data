@@ -495,12 +495,13 @@ h3.abilityName {
   width:100%;
   background-color: #020a10;
   position:absolute;
-  z-index: 9001;
+  z-index: 100000;
 }
 
 .navContainer {
   display: inline-block;
   margin-left:20px;
+  z-index: 100000;
 }
 
 .navHeader {
@@ -511,11 +512,13 @@ h3.abilityName {
 }
 
 .dropDownNav {
+  visibility: hidden;
   position:absolute;
   background-color: #020a10;
   min-width: 150px;
   border:#0c1c29 solid 1px;
-  filter:drop-shadow(2px 2px 3 #020a10)
+  filter:drop-shadow(2px 2px 3 #020a10);
+  z-index: 100000;
 }
 .navLink {
   display: block;
@@ -523,4 +526,29 @@ h3.abilityName {
 }
 .navLink:hover {
   background-color: #0c1c29;
+}
+
+.talentCost {
+  position:absolute;
+  display:inline-block;
+  border-radius: 50%;
+  border: 2px solid #43bb4a;
+  width:20px;
+  height:20px;
+  text-align: center;
+  left:-10px;
+  top:20px;
+  background-color: #021422;
+  vertical-align: middle;
+}
+
+.mainContent {
+  margin-top:2em;
+  text-align: center;
+  width:50%;
+  margin-left:auto;
+  margin-right:auto;
+}
+.mainContent p {
+  margin-top:1em;
 }
