@@ -20,7 +20,9 @@ export default function CurrentRouteView({draggable}) {
         <div ref={draggableRef} className="routeView">
             <h2>Route</h2>
             <RouteProgressBar />
+            <div>
             {pullElements}
+            </div>
             <button onClick={() => dispatch(newPull())}>New Pull</button>
         </div>
     )

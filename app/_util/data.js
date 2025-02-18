@@ -27,7 +27,9 @@ export default (function() {
 
     data.getDungeon = cache(async (id) => {
         const dungeons = await data.getDungeons();
-        return dungeons[id];
+        return dungeons.find(e=>{
+            return e.id.localeCompare(id, undefined, {sensitivity:'base'}) === 0;
+        });;
     })
 
     return data;

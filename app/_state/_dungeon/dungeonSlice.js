@@ -1,5 +1,7 @@
 import { createSlice } from "@reduxjs/toolkit";
 
+import LZString from 'lz-string'
+
 //Putting this here b/c I'm too stubborn to use TypeScript
 //
 // pull : [enemy1, enemy2]
@@ -100,11 +102,31 @@ export const dungeonSlice = createSlice({
                 state.currentMapID = action.payload;
                 state.selectedEnemyID = state.dungeon?.maps?.[state.currentMapID]?.components?.[0]?.id
             }
+        },
+        importPulls: (state, action) => {
+            var prefix = action.payload.substring(0,2);
+            var payload = action.payload.substring(2);
+            if (prefix === state.dungeon.prefix) {
+                var shortPulls = JSON.parse(LZString.decompressFromEncodedURIComponent(payload));
+                var pulls = [];
+                if (pulls) {
+                    try {
+                        shortPulls.forEach((e) => {
+                            pulls.push(e.map(id=> {
+                                return prefix + id;
+                            }))
+                        })
+                        state.pulls = pulls;
+                    } catch {
+                        console.log('importError');
+                    }
+                }
+            }
         }
     }
 })
 
-export const { initialize, newEnemy, pullEnemy, pullEnemySingle, newPull, changePull, deletePull, setMap} = dungeonSlice.actions;
+export const { importPulls, initialize, newEnemy, pullEnemy, pullEnemySingle, newPull, changePull, deletePull, setMap} = dungeonSlice.actions;
 
 var selectMapFunctions = {};
 export const createSelectMapByID = (id) => {
@@ -241,6 +263,20 @@ export const createSelectPullInfo = function(id, allMaps = true) {
 }
 
 
+export const selectSaveStateExport = function(state) {
+    var pulls = state.dungeon.pulls;
+    var compressedPulls = [];
+    pulls.forEach((e)=> {
+        compressedPulls.push(e.map((id) => {
+            var tmp = id.split('');
+            tmp.splice(0, 2)
+            return tmp.join('')
+        }))
+    })
+    var jsonString = JSON.stringify(compressedPulls);
+    var exportString = LZString.compressToEncodedURIComponent(jsonString);
+    return state.dungeon.dungeon.prefix + exportString;
+}
 
 var allPullInfo = [];
 export const selectAllPullInfo = function(state) {

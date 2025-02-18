@@ -2,6 +2,7 @@ import { Geist, Geist_Mono, EB_Garamond, Lato } from "next/font/google";
 import "./globals.css";
 import StoreProvider from "./_components/StoreProvider";
 import Head from "next/head";
+import NavBar from "./_components/NavBar";
 
 const garamondFont = EB_Garamond({
   variable: '--font-eb-garamond',
@@ -35,6 +36,7 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <body className={`${geistSans.variable} ${geistMono.variable}`}>
         <StoreProvider>
+          <NavBar />
           <div className="content">
             {children}
           </div>

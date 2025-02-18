@@ -126,7 +126,9 @@ img.dungeonMap {
 .routeView {
   display:inline-block;
   width:15%;
-  background-color: #020a10
+  background-color: #020a10;
+  max-height:500px;
+  overflow-y: scroll;
 }
 
 .pullComponent {
@@ -232,6 +234,10 @@ img.dungeonMap {
 
 .deleteButton {
   float:right;
+}
+
+.pullComponent {
+  font-size: small;
 }
 
 .pullComponent .pullStats {
@@ -455,4 +461,66 @@ h3.abilityName {
   width:400px;
   border:1px solid var(--foreground);
   margin:1px;
+}
+
+.modal {
+  position:absolute;
+  width:300px;
+  height:300px;
+  background-color: #0c1c29;
+  margin:auto;
+  left:0;
+  right:0;
+  top:0;
+  bottom:0;
+  padding: 10px;
+  z-index:9002;
+}
+
+.modalBackground {
+  position: fixed;
+  inset: 0px;
+  background-color: rgba(255, 255, 255, 0.75);
+  z-index:10000;
+}
+
+.import {
+  width:100%;
+  height:80%;
+  resize:none;
+  overflow: hidden;
+}
+
+.navBar {
+  width:100%;
+  background-color: #020a10;
+  position:absolute;
+  z-index: 9001;
+}
+
+.navContainer {
+  display: inline-block;
+  margin-left:20px;
+}
+
+.navHeader {
+  padding:1em;
+}
+.navHeader:hover {
+  background-color: #0c1c29;
+}
+
+.dropDownNav {
+  position:absolute;
+  background-color: #020a10;
+  min-width: 150px;
+  border:#0c1c29 solid 1px;
+  filter:drop-shadow(2px 2px 3 #020a10)
+}
+.navLink {
+  display: block;
+  padding:1em;
+}
+.navLink:hover {
+  background-color: #0c1c29;
 }

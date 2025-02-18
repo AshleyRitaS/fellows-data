@@ -10,6 +10,8 @@ import DungeonHeader from "./_header/DungeonHeader";
 import MapSelector from "./MapSelector";
 import MapExpander from "./MapExpander";
 import Image from "next/image";
+import RouteExport from "./_route/RouteExport";
+import RouteImport from "./_route/RouteImport";
 
 
 
@@ -48,8 +50,12 @@ export default function DungeonMap({dungeon}) {
         <div className="mapContainer" ref={containerRef}>
             <SelectedEnemyView draggable={expanded} />
             <div className="mapTransformWrapper">
-                <MapExpander action={expandAction}/>
                 <MapSelector />
+                <div className="expander">
+                    <MapExpander action={expandAction}/>
+                    <RouteExport />
+                    <RouteImport />
+                </div>
             <TransformWrapper>
                 <TransformComponent>
                 <Image alt={'Map of ' + dungeon.name} width={2000} height={1000} className="dungeonMap" src={currentMap?.icon}/>
@@ -60,5 +66,6 @@ export default function DungeonMap({dungeon}) {
             </div>
             <CurrentRouteView draggable={expanded} />
         </div>
+        <RouteExport />
         </>)
 }

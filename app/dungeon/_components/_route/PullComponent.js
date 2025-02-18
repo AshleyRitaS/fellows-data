@@ -16,7 +16,7 @@ export default function PullComponent({id}) {
     return (
         <>
             <div className={'pullComponent '+ (isSelected ? 'selectedPull' : '')} onClick={()=>dispatch(changePull(id))} >
-                <h3>Pull {id} <span className="deleteButton"><a href="#" onClick={(e) => {dispatch(deletePull(id)); e.stopPropagation()}}>[x]</a></span></h3>
+                <h3>Pull {Number(id)+1} <span className="deleteButton"><a href="#" onClick={(e) => {dispatch(deletePull(id)); e.stopPropagation()}}>[x]</a></span></h3>
                 <div className="pullStats"><p>Score: {pullInfo.score}</p><p>{scorePercent.toFixed(3)}%</p></div>
                 {enemies}
             </div>

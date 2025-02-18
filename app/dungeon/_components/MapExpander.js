@@ -1,5 +1,5 @@
 
 
 export default function({action}) {
-    return (<button className="expander" onClick={action}>Expand</button>)
+    return (<button  onClick={action}>Expand</button>)
 }
