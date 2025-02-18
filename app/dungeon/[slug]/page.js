@@ -3,7 +3,6 @@ import DungeonMap from '../_components/DungeonMap';
 
 export async function generateStaticParams() {
     var characters = await data.getDungeons();
-    console.log()
     var paths = characters.map((e)=> {
         return {params:{slug:e.id}}
     })

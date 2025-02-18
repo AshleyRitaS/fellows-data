@@ -11,7 +11,11 @@ export default function RouteExport() {
     var textRefURL = useRef();
 
     var getURL = function() {
-        return window.location.protocol + '//' + window.location.hostname +  window.location.pathname + '?route='+exportString;
+        try {
+            return window.location.protocol + '//' + window.location.hostname +  window.location.pathname + '?route='+exportString;
+        } catch {
+            
+        }
     }
 
     return (
