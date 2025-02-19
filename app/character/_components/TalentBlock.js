@@ -25,6 +25,8 @@ export default function ({talents, ref}) {
 
     return (
         <div className="talentBlock" ref={ref}>
+            <h2 className="talentTitle">Talents</h2>
+            <div className="fullSeparator"></div>
             {output}
         </div>
     )

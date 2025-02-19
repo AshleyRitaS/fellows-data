@@ -1,0 +1,8034 @@
+[
+    {
+        "name": "Spaulders of Cithrel",
+        "id": "Helena_FK_Shoulders",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Strength"
+            ],
+            "secondary": [
+                "CritChance",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Frostfang Cloak",
+        "id": "Helena_FK_Back",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Strength"
+            ],
+            "secondary": [
+                "CritChance",
+                "Spirit"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Handguards of Biting Frost",
+        "id": "Helena_FK_Hands",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Strength"
+            ],
+            "secondary": [
+                "Spirit",
+                "Haste"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Legplates of Draconic Might",
+        "id": "Helena_FK_Waist",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Strength"
+            ],
+            "secondary": [
+                "Expertise",
+                "Haste"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Commander's Locket",
+        "id": "Helena_FK_Neck",
+        "icon": "/images/Tex_TrophyIcons_105_b.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "Expertise",
+                "CritChance"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Ice Tempered Vambraces",
+        "id": "Helena_FK_Wrists",
+        "icon": "/images/Tex_bracers_11_b.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Strength"
+            ],
+            "secondary": [
+                "Expertise",
+                "Haste"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Ring of Fealty",
+        "id": "Helena_FK_Finger",
+        "icon": "/images/Tex_TrophyIcons_31_b.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "Haste",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Fur-Lined Mitre",
+        "id": "Helena_IC_Head",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Strength"
+            ],
+            "secondary": [
+                "CritChance",
+                "Haste"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Ice Floe Shroud",
+        "id": "Helena_IC_Back",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Strength"
+            ],
+            "secondary": [
+                "Spirit",
+                "CritChance"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Eldrin Bladesmith's Cuirass",
+        "id": "Helena_IC_Chest",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Strength"
+            ],
+            "secondary": [
+                "Expertise",
+                "Spirit"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Crystal Annealed Gauntlets",
+        "id": "Helena_IC_Hands",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Strength"
+            ],
+            "secondary": [
+                "Haste",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Tundra Greaves",
+        "id": "Helena_IC_Feet",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Strength"
+            ],
+            "secondary": [
+                "Expertise",
+                "CritChance"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Coldfire Talisman",
+        "id": "Helena_IC_Neck",
+        "icon": "/images/Tex_TrophyIcons_110_b.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "Expertise",
+                "Haste"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Seal of Eldrin Swiftness",
+        "id": "Helena_IC_Finger",
+        "icon": "/images/Tex_TrophyIcons_03_b.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "Haste",
+                "Spirit"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Faceplate of the Destroyer",
+        "id": "Helena_DR_Head",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Strength"
+            ],
+            "secondary": [
+                "Spirit",
+                "CritChance"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Sacrificial Drape",
+        "id": "Helena_DR_Back",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Strength"
+            ],
+            "secondary": [
+                "Haste",
+                "CritChance"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Executioner's Hauberk",
+        "id": "Helena_DR_Chest",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Strength"
+            ],
+            "secondary": [
+                "Haste",
+                "Spirit"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Grim Sollerets",
+        "id": "Helena_DR_Feet",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Strength"
+            ],
+            "secondary": [
+                "Spirit",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Imp Tooth Necklace",
+        "id": "Helena_DR_Neck",
+        "icon": "/images/Tex_TrophyIcons_19_b.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "CritChance",
+                "Spirit"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Bracers of Hatred",
+        "id": "Helena_DR_Wrists",
+        "icon": "/images/Tex_br_01_bg.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Strength"
+            ],
+            "secondary": [
+                "Haste",
+                "CritChance"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Sickle's Loop of Ardor",
+        "id": "Helena_DR_Finger",
+        "icon": "/images/Tex_TrophyIcons_28_b.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "Spirit",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Shoulderpads of Frenzy",
+        "id": "Helena_NP_Shoulders",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Strength"
+            ],
+            "secondary": [
+                "Expertise",
+                "Spirit"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Tribal Banner Cloak",
+        "id": "Helena_NP_Back",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Strength"
+            ],
+            "secondary": [
+                "Expertise",
+                "Haste"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Raider's Gauntlets",
+        "id": "Helena_NP_Hands",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Strength"
+            ],
+            "secondary": [
+                "CritChance",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Rampaging Legplates",
+        "id": "Helena_NP_Waist",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Strength"
+            ],
+            "secondary": [
+                "Haste",
+                "CritChance"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Rabid Berserker's Sollerets",
+        "id": "Helena_NP_Feet",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Strength"
+            ],
+            "secondary": [
+                "Spirit",
+                "Haste"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Torc of Banditry",
+        "id": "Helena_NP_Neck",
+        "icon": "/images/Tex_nk_04_bg.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "CritChance",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Scratched Cabochon Ring",
+        "id": "Helena_NP_Finger",
+        "icon": "/images/Tex_TrophyIcons_47_b.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "Spirit",
+                "Haste"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Pauldrons of Eight",
+        "id": "Helena_PR_Shoulders",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Strength"
+            ],
+            "secondary": [
+                "Spirit",
+                "CritChance"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Third Mate's Capelet",
+        "id": "Helena_PR_Back",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Strength"
+            ],
+            "secondary": [
+                "CritChance",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Cuirass of Pillaging",
+        "id": "Helena_PR_Chest",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Strength"
+            ],
+            "secondary": [
+                "CritChance",
+                "Haste"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Cannoneer's Soulpowder Handguards",
+        "id": "Helena_PR_Hands",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Strength"
+            ],
+            "secondary": [
+                "Expertise",
+                "Spirit"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Shoal Boots",
+        "id": "Helena_PR_Feet",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Strength"
+            ],
+            "secondary": [
+                "CritChance",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Chain-Shot Necklace",
+        "id": "Helena_PR_Neck",
+        "icon": "/images/Tex_TrophyIcons_64_b.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "Haste",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Doubloon Ring",
+        "id": "Helena_PR_Finger",
+        "icon": "/images/Tex_rings_02_b.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "Spirit",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Dredged Barbute",
+        "id": "Helena_SG_Head",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Strength"
+            ],
+            "secondary": [
+                "Expertise",
+                "Haste"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Black Spot Greatcloak",
+        "id": "Helena_SG_Back",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Strength"
+            ],
+            "secondary": [
+                "Spirit",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Salt-Pocked Legguards",
+        "id": "Helena_SG_Waist",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Strength"
+            ],
+            "secondary": [
+                "Spirit",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Drowned Captain's Boots",
+        "id": "Helena_SG_Feet",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Strength"
+            ],
+            "secondary": [
+                "Haste",
+                "Spirit"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Coral Lariat",
+        "id": "Helena_SG_Neck",
+        "icon": "/images/Tex_nk_05_bg.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "CritChance",
+                "Haste"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Ballast Wristguards",
+        "id": "Helena_SG_Wrists",
+        "icon": "/images/Tex_L_br_01_bg.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Strength"
+            ],
+            "secondary": [
+                "CritChance",
+                "Spirit"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Wave-Worn Signet Ring",
+        "id": "Helena_SG_Finger",
+        "icon": "/images/Tex_TrophyIcons_112_b.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "Expertise",
+                "CritChance"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Gravedigger's Spaulders",
+        "id": "Helena_DD_Shoulders",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Strength"
+            ],
+            "secondary": [
+                "Haste",
+                "CritChance"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Frayed Burial Shroud",
+        "id": "Helena_DD_Back",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Strength"
+            ],
+            "secondary": [
+                "Expertise",
+                "Spirit"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Battle-Ready Gauntlets",
+        "id": "Helena_DD_Hands",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Strength"
+            ],
+            "secondary": [
+                "Expertise",
+                "CritChance"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Sturdy Iron Tassets",
+        "id": "Helena_DD_Waist",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Strength"
+            ],
+            "secondary": [
+                "CritChance",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Dented Armguards",
+        "id": "Helena_DD_Wrists",
+        "icon": "/images/Tex_bracers_23_b.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Strength"
+            ],
+            "secondary": [
+                "Spirit",
+                "CritChance"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Fulgurite Pendant",
+        "id": "Helena_DD_Neck",
+        "icon": "/images/Tex_necklace_01_b.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "Spirit",
+                "Haste"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Glinting Spinel Band",
+        "id": "Helena_DD_Finger",
+        "icon": "/images/Tex_rn_02_bg.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "Haste",
+                "CritChance"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Runic Vanguard's Pauldrons",
+        "id": "Vigour_FK_Shoulders",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "CritChance",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Recruit's Standard Cloak",
+        "id": "Vigour_FK_Back",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "CritChance",
+                "Spirit"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Draconic Gauntlets",
+        "id": "Vigour_FK_Hands",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Spirit",
+                "Haste"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Sentinel Legguards",
+        "id": "Vigour_FK_Waist",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Expertise",
+                "Haste"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Pendant of Black Ice ",
+        "id": "Vigour_FK_Neck",
+        "icon": "/images/Tex_TrophyIcons_105_b.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "Expertise",
+                "CritChance"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Commander's Glacial Wristbands",
+        "id": "Vigour_FK_Wrists",
+        "icon": "/images/Tex_bracers_11_b.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Expertise",
+                "Haste"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Frost-Covered Seal",
+        "id": "Vigour_FK_Finger",
+        "icon": "/images/Tex_TrophyIcons_31_b.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "Haste",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Permafrost Helm",
+        "id": "Vigour_IC_Head",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "CritChance",
+                "Haste"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Capelet of the Magistrate",
+        "id": "Vigour_IC_Back",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Spirit",
+                "CritChance"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Dragonscale Raiment",
+        "id": "Vigour_IC_Chest",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Expertise",
+                "Spirit"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Gauntlets of Bitter Cold",
+        "id": "Vigour_IC_Hands",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Haste",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Sabatons of the Dragonpriest",
+        "id": "Vigour_IC_Feet",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Expertise",
+                "CritChance"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Glacial Sprite Festoon",
+        "id": "Vigour_IC_Neck",
+        "icon": "/images/Tex_TrophyIcons_110_b.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "Expertise",
+                "Haste"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Frostdrake Claw Loop",
+        "id": "Vigour_IC_Finger",
+        "icon": "/images/Tex_TrophyIcons_03_b.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "Haste",
+                "Spirit"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Stalwart Casque",
+        "id": "Vigour_DR_Head",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Spirit",
+                "CritChance"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Demonslayer's Cape",
+        "id": "Vigour_DR_Back",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Haste",
+                "CritChance"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Temple Guardian's Cassock",
+        "id": "Vigour_DR_Chest",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Haste",
+                "Spirit"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Consecrated Greaves",
+        "id": "Vigour_DR_Feet",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Spirit",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Warding Amulet",
+        "id": "Vigour_DR_Neck",
+        "icon": "/images/Tex_TrophyIcons_19_b.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "CritChance",
+                "Spirit"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Sacral Vambraces",
+        "id": "Vigour_DR_Wrists",
+        "icon": "/images/Tex_br_01_bg.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Haste",
+                "CritChance"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Bloodstone Band",
+        "id": "Vigour_DR_Finger",
+        "icon": "/images/Tex_TrophyIcons_28_b.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "Spirit",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Raider's Pauldrons",
+        "id": "Vigour_NP_Shoulders",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Expertise",
+                "Spirit"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Torn Tapestry Cloak",
+        "id": "Vigour_NP_Back",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Expertise",
+                "Haste"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Marauder's Handguards",
+        "id": "Vigour_NP_Hands",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "CritChance",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Boss's Fireproof Legplates",
+        "id": "Vigour_NP_Waist",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Haste",
+                "CritChance"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Scavenged Greaves",
+        "id": "Vigour_NP_Feet",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Spirit",
+                "Haste"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Invoker's Demonfire Chain",
+        "id": "Vigour_NP_Neck",
+        "icon": "/images/Tex_nk_04_bg.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "CritChance",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Hired Burglar's Ring",
+        "id": "Vigour_NP_Finger",
+        "icon": "/images/Tex_TrophyIcons_47_b.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "Spirit",
+                "Haste"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Waterlogged Shoulderpads",
+        "id": "Vigour_PR_Shoulders",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Spirit",
+                "CritChance"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Algae-Covered Shawl",
+        "id": "Vigour_PR_Back",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "CritChance",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Gold Glimmering Breastplate",
+        "id": "Vigour_PR_Chest",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "CritChance",
+                "Haste"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Exorcised Gauntlets",
+        "id": "Vigour_PR_Hands",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Expertise",
+                "Spirit"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Bedecked Sabatons",
+        "id": "Vigour_PR_Feet",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "CritChance",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Halyard Necklace",
+        "id": "Vigour_PR_Neck",
+        "icon": "/images/Tex_TrophyIcons_64_b.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "Haste",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Beguiling Ring",
+        "id": "Vigour_PR_Finger",
+        "icon": "/images/Tex_rings_02_b.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "Spirit",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Barnacled Mitre",
+        "id": "Vigour_SG_Head",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Expertise",
+                "Haste"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Shredded Topsail Cape",
+        "id": "Vigour_SG_Back",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Spirit",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Trawled Legplates",
+        "id": "Vigour_SG_Waist",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Spirit",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Tidepool Boots",
+        "id": "Vigour_SG_Feet",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Haste",
+                "Spirit"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Amulet of the Tides",
+        "id": "Vigour_SG_Neck",
+        "icon": "/images/Tex_nk_05_bg.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "CritChance",
+                "Haste"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Chitinous Bands",
+        "id": "Vigour_SG_Wrists",
+        "icon": "/images/Tex_L_br_01_bg.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "CritChance",
+                "Spirit"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Wavecaller's Signet",
+        "id": "Vigour_SG_Finger",
+        "icon": "/images/Tex_TrophyIcons_112_b.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "Expertise",
+                "CritChance"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Inscribed Plate Amice",
+        "id": "Vigour_DD_Shoulders",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Haste",
+                "CritChance"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Sun-Bleached Greatcloak",
+        "id": "Vigour_DD_Back",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Expertise",
+                "Spirit"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Unyielding Handguards",
+        "id": "Vigour_DD_Hands",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Expertise",
+                "CritChance"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Crusader's Gilt Legguards",
+        "id": "Vigour_DD_Waist",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "CritChance",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Rune-Etched Vambraces",
+        "id": "Vigour_DD_Wrists",
+        "icon": "/images/Tex_bracers_23_b.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Spirit",
+                "CritChance"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Glyphed Talisman",
+        "id": "Vigour_DD_Neck",
+        "icon": "/images/Tex_necklace_01_b.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "Spirit",
+                "Haste"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Ornamental Beetle Ring",
+        "id": "Vigour_DD_Finger",
+        "icon": "/images/Tex_rn_02_bg.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "Haste",
+                "CritChance"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Frost-Pitted Mantle",
+        "id": "Ink_FK_Shoulders",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Strength"
+            ],
+            "secondary": [
+                "CritChance",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Commander's Regal Drape",
+        "id": "Ink_FK_Back",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Strength"
+            ],
+            "secondary": [
+                "CritChance",
+                "Spirit"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Cold Iron Gauntlets",
+        "id": "Ink_FK_Hands",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Strength"
+            ],
+            "secondary": [
+                "Spirit",
+                "Haste"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Recruits Standard Tassets\t",
+        "id": "Ink_FK_Waist",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Strength"
+            ],
+            "secondary": [
+                "Expertise",
+                "Haste"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Bladed Talisman",
+        "id": "Ink_FK_Neck",
+        "icon": "/images/Tex_TrophyIcons_105_b.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "Expertise",
+                "CritChance"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Frost-Covered Bindings",
+        "id": "Ink_FK_Wrists",
+        "icon": "/images/Tex_bracers_11_b.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Strength"
+            ],
+            "secondary": [
+                "Expertise",
+                "Haste"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Cithrel's Loop ",
+        "id": "Ink_FK_Finger",
+        "icon": "/images/Tex_TrophyIcons_31_b.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "Haste",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Coldheart's Sallet",
+        "id": "Ink_IC_Head",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Strength"
+            ],
+            "secondary": [
+                "CritChance",
+                "Haste"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Frostwoven Greatcloak",
+        "id": "Ink_IC_Back",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Strength"
+            ],
+            "secondary": [
+                "Spirit",
+                "CritChance"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Frosted Iron Brigandine",
+        "id": "Ink_IC_Chest",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Strength"
+            ],
+            "secondary": [
+                "Expertise",
+                "Spirit"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Leather Lined Handguards",
+        "id": "Ink_IC_Hands",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Strength"
+            ],
+            "secondary": [
+                "Haste",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Well-Oiled Sollerets",
+        "id": "Ink_IC_Feet",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Strength"
+            ],
+            "secondary": [
+                "Expertise",
+                "CritChance"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Frostdrake Collar",
+        "id": "Ink_IC_Neck",
+        "icon": "/images/Tex_TrophyIcons_110_b.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "Expertise",
+                "Haste"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Hardened Glacial Ring",
+        "id": "Ink_IC_Finger",
+        "icon": "/images/Tex_TrophyIcons_03_b.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "Haste",
+                "Spirit"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Hellcaller's Fiery Visage",
+        "id": "Ink_DR_Head",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Strength"
+            ],
+            "secondary": [
+                "Spirit",
+                "CritChance"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Greatcloak of the Lost",
+        "id": "Ink_DR_Back",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Strength"
+            ],
+            "secondary": [
+                "Haste",
+                "CritChance"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Mancatcher's Roughened Chestplate",
+        "id": "Ink_DR_Chest",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Strength"
+            ],
+            "secondary": [
+                "Haste",
+                "Spirit"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Bloodsoaked Sabatons",
+        "id": "Ink_DR_Feet",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Strength"
+            ],
+            "secondary": [
+                "Spirit",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Profaned Pendant",
+        "id": "Ink_DR_Neck",
+        "icon": "/images/Tex_TrophyIcons_19_b.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "CritChance",
+                "Spirit"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Sacrificial Cuffs",
+        "id": "Ink_DR_Wrists",
+        "icon": "/images/Tex_br_01_bg.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Strength"
+            ],
+            "secondary": [
+                "Haste",
+                "CritChance"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Blood Ruby Seal",
+        "id": "Ink_DR_Finger",
+        "icon": "/images/Tex_TrophyIcons_28_b.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "Spirit",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Scavenged Spaulders",
+        "id": "Ink_NP_Shoulders",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Strength"
+            ],
+            "secondary": [
+                "Expertise",
+                "Spirit"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Oft-Mended Shroud",
+        "id": "Ink_NP_Back",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Strength"
+            ],
+            "secondary": [
+                "Expertise",
+                "Haste"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Dark-Dyed Grips",
+        "id": "Ink_NP_Hands",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Strength"
+            ],
+            "secondary": [
+                "CritChance",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Pillager's Legguards",
+        "id": "Ink_NP_Waist",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Strength"
+            ],
+            "secondary": [
+                "Haste",
+                "CritChance"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Road Worn Boots",
+        "id": "Ink_NP_Feet",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Strength"
+            ],
+            "secondary": [
+                "Spirit",
+                "Haste"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Rat Tooth Chain",
+        "id": "Ink_NP_Neck",
+        "icon": "/images/Tex_nk_04_bg.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "CritChance",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Looted Band",
+        "id": "Ink_NP_Finger",
+        "icon": "/images/Tex_TrophyIcons_47_b.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "Spirit",
+                "Haste"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Bonebleached Spaulders",
+        "id": "Ink_PR_Shoulders",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Strength"
+            ],
+            "secondary": [
+                "Spirit",
+                "CritChance"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Shawl of Spare Sails",
+        "id": "Ink_PR_Back",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Strength"
+            ],
+            "secondary": [
+                "CritChance",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Barnacled Brigandine",
+        "id": "Ink_PR_Chest",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Strength"
+            ],
+            "secondary": [
+                "CritChance",
+                "Haste"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Water-Tight Oiled Gloves",
+        "id": "Ink_PR_Hands",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Strength"
+            ],
+            "secondary": [
+                "Expertise",
+                "Spirit"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Salt-Stained Greaves",
+        "id": "Ink_PR_Feet",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Strength"
+            ],
+            "secondary": [
+                "CritChance",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Cursed Golden Torc",
+        "id": "Ink_PR_Neck",
+        "icon": "/images/Tex_TrophyIcons_64_b.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "Haste",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Salted Patina Loop",
+        "id": "Ink_PR_Finger",
+        "icon": "/images/Tex_rings_02_b.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "Spirit",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Dour Visage of the Drowned",
+        "id": "Ink_SG_Head",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Strength"
+            ],
+            "secondary": [
+                "Expertise",
+                "Haste"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Oilskin Cloak",
+        "id": "Ink_SG_Back",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Strength"
+            ],
+            "secondary": [
+                "Spirit",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Rusted Legplates",
+        "id": "Ink_SG_Waist",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Strength"
+            ],
+            "secondary": [
+                "Spirit",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Kelp-Encrusted Greaves",
+        "id": "Ink_SG_Feet",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Strength"
+            ],
+            "secondary": [
+                "Haste",
+                "Spirit"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Barnacled Talisman",
+        "id": "Ink_SG_Neck",
+        "icon": "/images/Tex_nk_05_bg.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "CritChance",
+                "Haste"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Split Ring Cuffs",
+        "id": "Ink_SG_Wrists",
+        "icon": "/images/Tex_L_br_01_bg.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Strength"
+            ],
+            "secondary": [
+                "CritChance",
+                "Spirit"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Salt-Stained Loop",
+        "id": "Ink_SG_Finger",
+        "icon": "/images/Tex_TrophyIcons_112_b.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "Expertise",
+                "CritChance"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Sanded Metal Epaulets",
+        "id": "Ink_DD_Shoulders",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Strength"
+            ],
+            "secondary": [
+                "Haste",
+                "CritChance"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Canvas Cloak",
+        "id": "Ink_DD_Back",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Strength"
+            ],
+            "secondary": [
+                "Expertise",
+                "Spirit"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Soldier's Grips\t",
+        "id": "Ink_DD_Hands",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Strength"
+            ],
+            "secondary": [
+                "Expertise",
+                "CritChance"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Once Possessed Legplates",
+        "id": "Ink_DD_Waist",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Strength"
+            ],
+            "secondary": [
+                "CritChance",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Searing Metal Bands",
+        "id": "Ink_DD_Wrists",
+        "icon": "/images/Tex_bracers_23_b.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Strength"
+            ],
+            "secondary": [
+                "Spirit",
+                "CritChance"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Barbarous Thorn Necklace",
+        "id": "Ink_DD_Neck",
+        "icon": "/images/Tex_necklace_01_b.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "Spirit",
+                "Haste"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Loop of Woven Wrappings",
+        "id": "Ink_DD_Finger",
+        "icon": "/images/Tex_rn_02_bg.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "Haste",
+                "CritChance"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Fervent Recruit's Epaulets",
+        "id": "Meiko_FK_Shoulders",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Agility"
+            ],
+            "secondary": [
+                "CritChance",
+                "Haste"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Drakewing Greatcloak",
+        "id": "Meiko_FK_Back",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Agility"
+            ],
+            "secondary": [
+                "CritChance",
+                "Spirit"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Tunic of the Ranger Commander",
+        "id": "Meiko_FK_Chest",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Agility"
+            ],
+            "secondary": [
+                "CritChance",
+                "Spirit"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Brazen Handguards",
+        "id": "Meiko_FK_Hands",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Agility"
+            ],
+            "secondary": [
+                "Haste",
+                "CritChance"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Mirror Image's Greaves",
+        "id": "Meiko_FK_Feet",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Agility"
+            ],
+            "secondary": [
+                "Spirit",
+                "Haste"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Frostdrake Scale Pendant",
+        "id": "Meiko_FK_Neck",
+        "icon": "/images/Tex_TrophyIcons_105_b.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "Expertise",
+                "CritChance"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Meltwater Band",
+        "id": "Meiko_FK_Finger",
+        "icon": "/images/Tex_TrophyIcons_31_b.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "Haste",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Regal Eldrin Hood",
+        "id": "Meiko_IC_Head",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Agility"
+            ],
+            "secondary": [
+                "Spirit",
+                "CritChance"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Snow-Capped Drape",
+        "id": "Meiko_IC_Back",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Agility"
+            ],
+            "secondary": [
+                "Spirit",
+                "CritChance"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Cinch of the Howling Winds",
+        "id": "Meiko_IC_Waist",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Agility"
+            ],
+            "secondary": [
+                "Expertise",
+                "Spirit"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Tundra Stalker's Treads",
+        "id": "Meiko_IC_Feet",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Agility"
+            ],
+            "secondary": [
+                "CritChance",
+                "Haste"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Torc of Prowess",
+        "id": "Meiko_IC_Neck",
+        "icon": "/images/Tex_TrophyIcons_110_b.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "Expertise",
+                "Haste"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Frostgrain Armguards",
+        "id": "Meiko_IC_Wrists",
+        "icon": "/images/Tex_fantom_br_bg.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Agility"
+            ],
+            "secondary": [
+                "Haste",
+                "Spirit"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Ring of the Winter Storm",
+        "id": "Meiko_IC_Finger",
+        "icon": "/images/Tex_TrophyIcons_03_b.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "Haste",
+                "Spirit"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Hellfire Coif",
+        "id": "Meiko_DR_Head",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Agility"
+            ],
+            "secondary": [
+                "CritChance",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Cloak of the Demon Lord",
+        "id": "Meiko_DR_Back",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Agility"
+            ],
+            "secondary": [
+                "Haste",
+                "CritChance"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Grips of the Wretched",
+        "id": "Meiko_DR_Hands",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Agility"
+            ],
+            "secondary": [
+                "Spirit",
+                "CritChance"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Furtive Scout's Cord",
+        "id": "Meiko_DR_Waist",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Agility"
+            ],
+            "secondary": [
+                "CritChance",
+                "Spirit"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Demonskin Boots",
+        "id": "Meiko_DR_Feet",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Agility"
+            ],
+            "secondary": [
+                "Expertise",
+                "Haste"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Sulfurized Festoon",
+        "id": "Meiko_DR_Neck",
+        "icon": "/images/Tex_TrophyIcons_19_b.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "CritChance",
+                "Spirit"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Ring of Unnatural Fire",
+        "id": "Meiko_DR_Finger",
+        "icon": "/images/Tex_TrophyIcons_28_b.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "Spirit",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Wanderer's Shoulderpads",
+        "id": "Meiko_NP_Shoulders",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Agility"
+            ],
+            "secondary": [
+                "Spirit",
+                "CritChance"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Cape of Lurking",
+        "id": "Meiko_NP_Back",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Agility"
+            ],
+            "secondary": [
+                "Expertise",
+                "Haste"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Bandit's Hauberk ",
+        "id": "Meiko_NP_Chest",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Agility"
+            ],
+            "secondary": [
+                "Expertise",
+                "Haste"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Brogg's Gloves of Pilfering",
+        "id": "Meiko_NP_Hands",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Agility"
+            ],
+            "secondary": [
+                "Expertise",
+                "Spirit"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Misappropriated Lariat of Power",
+        "id": "Meiko_NP_Neck",
+        "icon": "/images/Tex_nk_04_bg.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "CritChance",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Orcish Knave's Wristwraps",
+        "id": "Meiko_NP_Wrists",
+        "icon": "/images/Tex_ren_br_01_bg.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Agility"
+            ],
+            "secondary": [
+                "Haste",
+                "CritChance"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Signet of Unclear Origin",
+        "id": "Meiko_NP_Finger",
+        "icon": "/images/Tex_TrophyIcons_47_b.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "Spirit",
+                "Haste"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Scallywag's Headband",
+        "id": "Meiko_PR_Head",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Agility"
+            ],
+            "secondary": [
+                "Expertise",
+                "Haste"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Entwined Seaweed Cloak",
+        "id": "Meiko_PR_Back",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Agility"
+            ],
+            "secondary": [
+                "CritChance",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Bonebleached Legwraps",
+        "id": "Meiko_PR_Waist",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Agility"
+            ],
+            "secondary": [
+                "Haste",
+                "CritChance"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Old Salt's Trusty Greaves",
+        "id": "Meiko_PR_Feet",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Agility"
+            ],
+            "secondary": [
+                "Expertise",
+                "Spirit"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Necklace of Tangled Rigging",
+        "id": "Meiko_PR_Neck",
+        "icon": "/images/Tex_TrophyIcons_64_b.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "Haste",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Bracers of Slack Tide",
+        "id": "Meiko_PR_Wrists",
+        "icon": "/images/Tex_br_07_bg.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Agility"
+            ],
+            "secondary": [
+                "Spirit",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Chip of Bael'aurum",
+        "id": "Meiko_PR_Finger",
+        "icon": "/images/Tex_rings_02_b.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "Spirit",
+                "CritChance"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Batten Pauldrons",
+        "id": "Meiko_SG_Shoulders",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Agility"
+            ],
+            "secondary": [
+                "Haste",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Shroud of Tidal Silt",
+        "id": "Meiko_SG_Back",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Agility"
+            ],
+            "secondary": [
+                "Spirit",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Brackish Harness",
+        "id": "Meiko_SG_Chest",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Agility"
+            ],
+            "secondary": [
+                "Haste",
+                "Spirit"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Keelhaulers Gloves",
+        "id": "Meiko_SG_Hands",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Agility"
+            ],
+            "secondary": [
+                "Expertise",
+                "CritChance"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Azimuth Pendant",
+        "id": "Meiko_SG_Neck",
+        "icon": "/images/Tex_nk_05_bg.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "CritChance",
+                "Haste"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Wisp-Tarnished Cuffs",
+        "id": "Meiko_SG_Wrists",
+        "icon": "/images/Tex_L_br_01_bg.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Agility"
+            ],
+            "secondary": [
+                "CritChance",
+                "Haste"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Band of Unfathomable Depths",
+        "id": "Meiko_SG_Finger",
+        "icon": "/images/Tex_TrophyIcons_112_b.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "Expertise",
+                "CritChance"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Excavation Lookout's Grips",
+        "id": "Meiko_DD_Head",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Agility"
+            ],
+            "secondary": [
+                "Haste",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Crusader Longcloak",
+        "id": "Meiko_DD_Back",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Agility"
+            ],
+            "secondary": [
+                "Expertise",
+                "Spirit"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Boneworn Hauberk",
+        "id": "Meiko_DD_Chest",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Agility"
+            ],
+            "secondary": [
+                "CritChance",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Scout's Greaves",
+        "id": "Meiko_DD_Feet",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Agility"
+            ],
+            "secondary": [
+                "Spirit",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Exhumed Pendant",
+        "id": "Meiko_DD_Neck",
+        "icon": "/images/Tex_necklace_01_b.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "Spirit",
+                "Haste"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Scuffed Armguards",
+        "id": "Meiko_DD_Wrists",
+        "icon": "/images/Tex_bracers_23_b.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Agility"
+            ],
+            "secondary": [
+                "Haste",
+                "Spirit"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Mercurial Ring of Swiftness",
+        "id": "Meiko_DD_Finger",
+        "icon": "/images/Tex_rn_02_bg.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "Haste",
+                "CritChance"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Mara FK Shoulders Generic",
+        "id": "Mara_FK_Shoulders",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Agility"
+            ],
+            "secondary": [
+                "CritChance",
+                "Haste"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Mara FK Back Generic",
+        "id": "Mara_FK_Back",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Agility"
+            ],
+            "secondary": [
+                "CritChance",
+                "Spirit"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Mara FK Chest Generic",
+        "id": "Mara_FK_Chest",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Agility"
+            ],
+            "secondary": [
+                "CritChance",
+                "Spirit"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Mara FK Hands Generic",
+        "id": "Mara_FK_Hands",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Agility"
+            ],
+            "secondary": [
+                "Haste",
+                "CritChance"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Mara FK Feet Generic",
+        "id": "Mara_FK_Feet",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Agility"
+            ],
+            "secondary": [
+                "Spirit",
+                "Haste"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Mara FK Neck Generic",
+        "id": "Mara_FK_Neck",
+        "icon": "/images/Tex_TrophyIcons_105_b.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "Expertise",
+                "CritChance"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Mara FK Finger Generic",
+        "id": "Mara_FK_Finger",
+        "icon": "/images/Tex_TrophyIcons_31_b.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "Haste",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Mara IC Head Generic",
+        "id": "Mara_IC_Head",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Agility"
+            ],
+            "secondary": [
+                "Spirit",
+                "CritChance"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Mara IC Back Generic",
+        "id": "Mara_IC_Back",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Agility"
+            ],
+            "secondary": [
+                "Spirit",
+                "CritChance"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Mara IC Waist Generic",
+        "id": "Mara_IC_Waist",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Agility"
+            ],
+            "secondary": [
+                "Expertise",
+                "Spirit"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Mara IC Feet Generic",
+        "id": "Mara_IC_Feet",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Agility"
+            ],
+            "secondary": [
+                "CritChance",
+                "Haste"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Mara IC Neck Generic",
+        "id": "Mara_IC_Neck",
+        "icon": "/images/Tex_TrophyIcons_110_b.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "Expertise",
+                "Haste"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Mara IC Wrists Generic",
+        "id": "Mara_IC_Wrists",
+        "icon": "/images/Tex_fantom_br_bg.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Agility"
+            ],
+            "secondary": [
+                "Haste",
+                "Spirit"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Mara IC Finger Generic",
+        "id": "Mara_IC_Finger",
+        "icon": "/images/Tex_TrophyIcons_03_b.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "Haste",
+                "Spirit"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Mara DR Head Generic",
+        "id": "Mara_DR_Head",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Agility"
+            ],
+            "secondary": [
+                "CritChance",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Mara DR Back Generic",
+        "id": "Mara_DR_Back",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Agility"
+            ],
+            "secondary": [
+                "Haste",
+                "CritChance"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Mara DR Hands Generic",
+        "id": "Mara_DR_Hands",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Agility"
+            ],
+            "secondary": [
+                "Spirit",
+                "CritChance"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Mara DR Waist Generic",
+        "id": "Mara_DR_Waist",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Agility"
+            ],
+            "secondary": [
+                "CritChance",
+                "Spirit"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Mara DR Feet Generic",
+        "id": "Mara_DR_Feet",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Agility"
+            ],
+            "secondary": [
+                "Expertise",
+                "Haste"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Mara DR Neck Generic",
+        "id": "Mara_DR_Neck",
+        "icon": "/images/Tex_TrophyIcons_19_b.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "CritChance",
+                "Spirit"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Mara DR Finger Generic",
+        "id": "Mara_DR_Finger",
+        "icon": "/images/Tex_TrophyIcons_28_b.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "Spirit",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Mara NP Shoulders Generic",
+        "id": "Mara_NP_Shoulders",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Agility"
+            ],
+            "secondary": [
+                "Spirit",
+                "CritChance"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Mara NP Back Generic",
+        "id": "Mara_NP_Back",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Agility"
+            ],
+            "secondary": [
+                "Expertise",
+                "Haste"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Mara NP Chest Generic",
+        "id": "Mara_NP_Chest",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Agility"
+            ],
+            "secondary": [
+                "Expertise",
+                "Haste"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Mara NP Hands Generic",
+        "id": "Mara_NP_Hands",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Agility"
+            ],
+            "secondary": [
+                "Expertise",
+                "Spirit"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Mara NP Neck Generic",
+        "id": "Mara_NP_Neck",
+        "icon": "/images/Tex_nk_04_bg.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "CritChance",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Mara NP Wrists Generic",
+        "id": "Mara_NP_Wrists",
+        "icon": "/images/Tex_ren_br_01_bg.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Agility"
+            ],
+            "secondary": [
+                "Haste",
+                "CritChance"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Mara NP Finger Generic",
+        "id": "Mara_NP_Finger",
+        "icon": "/images/Tex_TrophyIcons_47_b.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "Spirit",
+                "Haste"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Mara PR Head Generic",
+        "id": "Mara_PR_Head",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Agility"
+            ],
+            "secondary": [
+                "Expertise",
+                "Haste"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Mara PR Back Generic",
+        "id": "Mara_PR_Back",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Agility"
+            ],
+            "secondary": [
+                "CritChance",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Mara PR Waist Generic",
+        "id": "Mara_PR_Waist",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Agility"
+            ],
+            "secondary": [
+                "Haste",
+                "CritChance"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Mara PR Feet Generic",
+        "id": "Mara_PR_Feet",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Agility"
+            ],
+            "secondary": [
+                "Expertise",
+                "Spirit"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Mara PR Neck Generic",
+        "id": "Mara_PR_Neck",
+        "icon": "/images/Tex_TrophyIcons_64_b.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "Haste",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Mara PR Wrists Generic",
+        "id": "Mara_PR_Wrists",
+        "icon": "/images/Tex_br_07_bg.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Agility"
+            ],
+            "secondary": [
+                "Spirit",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Mara PR Finger Generic",
+        "id": "Mara_PR_Finger",
+        "icon": "/images/Tex_rings_02_b.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "Spirit",
+                "CritChance"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Mara SG Shoulders Generic",
+        "id": "Mara_SG_Shoulders",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Agility"
+            ],
+            "secondary": [
+                "Haste",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Mara SG Back Generic",
+        "id": "Mara_SG_Back",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Agility"
+            ],
+            "secondary": [
+                "Spirit",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Mara SG Chest Generic",
+        "id": "Mara_SG_Chest",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Agility"
+            ],
+            "secondary": [
+                "Haste",
+                "Spirit"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Mara SG Hands Generic",
+        "id": "Mara_SG_Hands",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Agility"
+            ],
+            "secondary": [
+                "Expertise",
+                "CritChance"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Mara SG Neck Generic",
+        "id": "Mara_SG_Neck",
+        "icon": "/images/Tex_nk_05_bg.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "CritChance",
+                "Haste"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Mara SG Wrists Generic",
+        "id": "Mara_SG_Wrists",
+        "icon": "/images/Tex_L_br_01_bg.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Agility"
+            ],
+            "secondary": [
+                "CritChance",
+                "Haste"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Mara SG Finger Generic",
+        "id": "Mara_SG_Finger",
+        "icon": "/images/Tex_TrophyIcons_112_b.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "Expertise",
+                "CritChance"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Mara DD Head Generic",
+        "id": "Mara_DD_Head",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Agility"
+            ],
+            "secondary": [
+                "Haste",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Mara DD Back Generic",
+        "id": "Mara_DD_Back",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Agility"
+            ],
+            "secondary": [
+                "Expertise",
+                "Spirit"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Mara DD Chest Generic",
+        "id": "Mara_DD_Chest",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Agility"
+            ],
+            "secondary": [
+                "CritChance",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Mara DD Feet Generic",
+        "id": "Mara_DD_Feet",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Agility"
+            ],
+            "secondary": [
+                "Spirit",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Mara DD Neck Generic",
+        "id": "Mara_DD_Neck",
+        "icon": "/images/Tex_necklace_01_b.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "Spirit",
+                "Haste"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Mara DD Wrists Generic",
+        "id": "Mara_DD_Wrists",
+        "icon": "/images/Tex_bracers_23_b.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Agility"
+            ],
+            "secondary": [
+                "Haste",
+                "Spirit"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Mara DD Finger Generic",
+        "id": "Mara_DD_Finger",
+        "icon": "/images/Tex_rn_02_bg.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "Haste",
+                "CritChance"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Noor's Frozen Shoulderpads",
+        "id": "Sylvie_FK_Shoulders",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "CritChance",
+                "Haste"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Frostdrake Pennant Cloak",
+        "id": "Sylvie_FK_Back",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "CritChance",
+                "Spirit"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Frost-Infused Dragonhide",
+        "id": "Sylvie_FK_Chest",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "CritChance",
+                "Spirit"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Grips of the Glacial Spring",
+        "id": "Sylvie_FK_Hands",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Haste",
+                "CritChance"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Eldrin Initiate's Greaves",
+        "id": "Sylvie_FK_Feet",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Spirit",
+                "Haste"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Elemental Guardian's Chain",
+        "id": "Sylvie_FK_Neck",
+        "icon": "/images/Tex_TrophyIcons_105_b.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "Expertise",
+                "CritChance"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Gemmed Band of Violet Fire",
+        "id": "Sylvie_FK_Finger",
+        "icon": "/images/Tex_TrophyIcons_31_b.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "Haste",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Icicled Circlet",
+        "id": "Sylvie_IC_Head",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Spirit",
+                "CritChance"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Lichen-Coated Shawl",
+        "id": "Sylvie_IC_Back",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Spirit",
+                "CritChance"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Cavern Legguards",
+        "id": "Sylvie_IC_Waist",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Expertise",
+                "Spirit"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Footwraps of the Dragon's Fervor",
+        "id": "Sylvie_IC_Feet",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "CritChance",
+                "Haste"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Firn Pendant",
+        "id": "Sylvie_IC_Neck",
+        "icon": "/images/Tex_TrophyIcons_110_b.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "Expertise",
+                "Haste"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Duelist's Runed Bracers",
+        "id": "Sylvie_IC_Wrists",
+        "icon": "/images/Tex_fantom_br_bg.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Haste",
+                "Spirit"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Hailstone Band",
+        "id": "Sylvie_IC_Finger",
+        "icon": "/images/Tex_TrophyIcons_03_b.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "Haste",
+                "Spirit"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Prophet's Hood of Ceremony",
+        "id": "Sylvie_DR_Head",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "CritChance",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Hardened Fur Shroud",
+        "id": "Sylvie_DR_Back",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Haste",
+                "CritChance"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Bloodbound Wristwraps",
+        "id": "Sylvie_DR_Hands",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Spirit",
+                "CritChance"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Cinch of the Bonecarver",
+        "id": "Sylvie_DR_Waist",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "CritChance",
+                "Spirit"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Demonic Herbalist's Boots",
+        "id": "Sylvie_DR_Feet",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Expertise",
+                "Haste"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Feathered Collar",
+        "id": "Sylvie_DR_Neck",
+        "icon": "/images/Tex_TrophyIcons_19_b.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "CritChance",
+                "Spirit"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Execration Ring",
+        "id": "Sylvie_DR_Finger",
+        "icon": "/images/Tex_TrophyIcons_28_b.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "Spirit",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Mantle of the Shadow Stalker",
+        "id": "Sylvie_NP_Shoulders",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Spirit",
+                "CritChance"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Cloak of Unidentifiable Pelts",
+        "id": "Sylvie_NP_Back",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Expertise",
+                "Haste"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Trapper's Sheared Furs",
+        "id": "Sylvie_NP_Chest",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Expertise",
+                "Haste"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Mancatcher's Mitts",
+        "id": "Sylvie_NP_Hands",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Expertise",
+                "Spirit"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Dire Rattail Talisman",
+        "id": "Sylvie_NP_Neck",
+        "icon": "/images/Tex_nk_04_bg.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "CritChance",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Scrap-Leather Bindings",
+        "id": "Sylvie_NP_Wrists",
+        "icon": "/images/Tex_ren_br_01_bg.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Haste",
+                "CritChance"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Etched Forest Band",
+        "id": "Sylvie_NP_Finger",
+        "icon": "/images/Tex_TrophyIcons_47_b.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "Spirit",
+                "Haste"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Riptide Coronet",
+        "id": "Sylvie_PR_Head",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Expertise",
+                "Haste"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Seagrass Drape",
+        "id": "Sylvie_PR_Back",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "CritChance",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Sharkskin Clasp",
+        "id": "Sylvie_PR_Waist",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Haste",
+                "CritChance"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Jungle Stalker Footwraps",
+        "id": "Sylvie_PR_Feet",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Expertise",
+                "Spirit"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Whelk Pendant",
+        "id": "Sylvie_PR_Neck",
+        "icon": "/images/Tex_TrophyIcons_64_b.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "Haste",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Cutthroat Cuffs",
+        "id": "Sylvie_PR_Wrists",
+        "icon": "/images/Tex_br_07_bg.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Spirit",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Sharktooth Band",
+        "id": "Sylvie_PR_Finger",
+        "icon": "/images/Tex_rings_02_b.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "Spirit",
+                "CritChance"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Saltworn Pauldrons",
+        "id": "Sylvie_SG_Shoulders",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Haste",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Frayed Net Cape",
+        "id": "Sylvie_SG_Back",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Spirit",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Oilskin Tunic",
+        "id": "Sylvie_SG_Chest",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Haste",
+                "Spirit"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Briny Claws",
+        "id": "Sylvie_SG_Hands",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Expertise",
+                "CritChance"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Elemental's Festoon",
+        "id": "Sylvie_SG_Neck",
+        "icon": "/images/Tex_nk_05_bg.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "CritChance",
+                "Haste"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Wild Bindings",
+        "id": "Sylvie_SG_Wrists",
+        "icon": "/images/Tex_L_br_01_bg.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "CritChance",
+                "Haste"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Freshwater Pearl Ring",
+        "id": "Sylvie_SG_Finger",
+        "icon": "/images/Tex_TrophyIcons_112_b.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "Expertise",
+                "CritChance"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Thorned Circlet",
+        "id": "Sylvie_DD_Head",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Haste",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Reed-Woven Cloak",
+        "id": "Sylvie_DD_Back",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Expertise",
+                "Spirit"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Root-Stitched Hide",
+        "id": "Sylvie_DD_Chest",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "CritChance",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Nomad's Boots",
+        "id": "Sylvie_DD_Feet",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Spirit",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Rootbound Amulet",
+        "id": "Sylvie_DD_Neck",
+        "icon": "/images/Tex_necklace_01_b.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "Spirit",
+                "Haste"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Lasher-Vine Wristwraps",
+        "id": "Sylvie_DD_Wrists",
+        "icon": "/images/Tex_bracers_23_b.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Haste",
+                "Spirit"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Sintered Quartz Seal",
+        "id": "Sylvie_DD_Finger",
+        "icon": "/images/Tex_rn_02_bg.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "Haste",
+                "CritChance"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Fur Trim Cloak",
+        "id": "Rime_FK_Back",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "CritChance",
+                "Spirit"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Illusionist's Surcoat",
+        "id": "Rime_FK_Chest",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Expertise",
+                "Haste"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Scribe Leggings",
+        "id": "Rime_FK_Waist",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "CritChance",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Polar Treads",
+        "id": "Rime_FK_Feet",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Spirit",
+                "Haste"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Crystallized Amulet",
+        "id": "Rime_FK_Neck",
+        "icon": "/images/Tex_TrophyIcons_105_b.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "Expertise",
+                "CritChance"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Frostbitten Bindings",
+        "id": "Rime_FK_Wrists",
+        "icon": "/images/Tex_bracers_11_b.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Expertise",
+                "CritChance"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Ring of the Elemental Corruptor",
+        "id": "Rime_FK_Finger",
+        "icon": "/images/Tex_TrophyIcons_31_b.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "Haste",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Scholar's Headscarf",
+        "id": "Rime_IC_Head",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Spirit",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Magistrate's Amice",
+        "id": "Rime_IC_Shoulders",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Haste",
+                "Spirit"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Cape of Frozen Waters",
+        "id": "Rime_IC_Back",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Spirit",
+                "CritChance"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Wintry Handwraps",
+        "id": "Rime_IC_Hands",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "CritChance",
+                "Spirit"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Frostdrake Summoner's Boots",
+        "id": "Rime_IC_Feet",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Haste",
+                "Spirit"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Frozen Shardling Necklace",
+        "id": "Rime_IC_Neck",
+        "icon": "/images/Tex_TrophyIcons_110_b.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "Expertise",
+                "Haste"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Moraine Ring",
+        "id": "Rime_IC_Finger",
+        "icon": "/images/Tex_TrophyIcons_03_b.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "Haste",
+                "Spirit"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Shawl of Infernal Rites",
+        "id": "Rime_DR_Back",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Haste",
+                "CritChance"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Ritualist's Gown",
+        "id": "Rime_DR_Chest",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "CritChance",
+                "Haste"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Sash of Allocution",
+        "id": "Rime_DR_Waist",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Expertise",
+                "Haste"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Moar'Gore's Bloodstained Footwraps",
+        "id": "Rime_DR_Feet",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Expertise",
+                "Spirit"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Sacrificial Initiate's Lariat",
+        "id": "Rime_DR_Neck",
+        "icon": "/images/Tex_TrophyIcons_19_b.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "CritChance",
+                "Spirit"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Oracle Wristwraps",
+        "id": "Rime_DR_Wrists",
+        "icon": "/images/Tex_br_01_bg.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Haste",
+                "CritChance"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Loop of Shed Demonskin",
+        "id": "Rime_DR_Finger",
+        "icon": "/images/Tex_TrophyIcons_28_b.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "Spirit",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Shaman's Mask of Renewal",
+        "id": "Rime_NP_Head",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Spirit",
+                "CritChance"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Mantle of the Profane",
+        "id": "Rime_NP_Shoulders",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "CritChance",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Patchwork Rat Fur Cape",
+        "id": "Rime_NP_Back",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Haste",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Grasp of the Invoker",
+        "id": "Rime_NP_Hands",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Haste",
+                "CritChance"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Mystic's Purloined Talisman",
+        "id": "Rime_NP_Neck",
+        "icon": "/images/Tex_nk_04_bg.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "CritChance",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Vandals Bracers",
+        "id": "Rime_NP_Wrists",
+        "icon": "/images/Tex_ren_br_01_bg.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Expertise",
+                "Spirit"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Absconder's Jeweled Loop",
+        "id": "Rime_NP_Finger",
+        "icon": "/images/Tex_TrophyIcons_47_b.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "Spirit",
+                "Haste"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Headscarf of the First Mate",
+        "id": "Rime_PR_Head",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Haste",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Belaying Pin Ring",
+        "id": "Rime_PR_Back",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "CritChance",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Gloves of Deceptive Narrows",
+        "id": "Rime_PR_Hands",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "CritChance",
+                "Haste"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Seafarer's Bindings",
+        "id": "Rime_PR_Waist",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Spirit",
+                "Haste"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Landfall Treads",
+        "id": "Rime_PR_Feet",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Expertise",
+                "Spirit"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Soulpowder Crystal Pendant",
+        "id": "Rime_PR_Neck",
+        "icon": "/images/Tex_TrophyIcons_64_b.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "Haste",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Gemstone Ring",
+        "id": "Rime_PR_Finger",
+        "icon": "/images/Tex_rings_02_b.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "Spirit",
+                "CritChance"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Sunbleached Pauldrons",
+        "id": "Rime_SG_Shoulders",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "CritChance",
+                "Haste"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Torn Sailcloth Drape",
+        "id": "Rime_SG_Back",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Spirit",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Kelp-Woven Doublet",
+        "id": "Rime_SG_Chest",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Haste",
+                "Spirit"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Bosun's Mitts",
+        "id": "Rime_SG_Hands",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Spirit",
+                "CritChance"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Ancient Mariner's Necklace",
+        "id": "Rime_SG_Neck",
+        "icon": "/images/Tex_nk_05_bg.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "CritChance",
+                "Haste"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Bracers of Collapsing Waves",
+        "id": "Rime_SG_Wrists",
+        "icon": "/images/Tex_L_br_01_bg.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "CritChance",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Seal of the Geomancer",
+        "id": "Rime_SG_Finger",
+        "icon": "/images/Tex_TrophyIcons_112_b.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "Expertise",
+                "CritChance"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Necromancer's Pauldrons",
+        "id": "Rime_DD_Shoulders",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Spirit",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Desert Acolyte's Shroud\t",
+        "id": "Rime_DD_Back",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Expertise",
+                "Spirit"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Soul-Stitched Sarong",
+        "id": "Rime_DD_Waist",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Haste",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Tombwalker's Sandals",
+        "id": "Rime_DD_Feet",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Haste",
+                "CritChance"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Oasis Amulet of Spirit",
+        "id": "Rime_DD_Neck",
+        "icon": "/images/Tex_necklace_01_b.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "Spirit",
+                "Haste"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Funerary Wraps",
+        "id": "Rime_DD_Wrists",
+        "icon": "/images/Tex_bracers_23_b.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Spirit",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Esoteric Seal of Haste",
+        "id": "Rime_DD_Finger",
+        "icon": "/images/Tex_rn_02_bg.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "Haste",
+                "CritChance"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Rune-Embroidered Shawl",
+        "id": "Ardeos_FK_Back",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "CritChance",
+                "Spirit"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Frostdrake Cultist's Robe",
+        "id": "Ardeos_FK_Chest",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Expertise",
+                "Haste"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Arcane Sash",
+        "id": "Ardeos_FK_Waist",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "CritChance",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Eldrin Noble's Boots",
+        "id": "Ardeos_FK_Feet",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Spirit",
+                "Haste"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Frost-Imbued Dragon Torc",
+        "id": "Ardeos_FK_Neck",
+        "icon": "/images/Tex_TrophyIcons_105_b.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "Expertise",
+                "CritChance"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Bands of Spindrift",
+        "id": "Ardeos_FK_Wrists",
+        "icon": "/images/Tex_bracers_11_b.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Expertise",
+                "CritChance"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Frazil Band",
+        "id": "Ardeos_FK_Finger",
+        "icon": "/images/Tex_TrophyIcons_31_b.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "Haste",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Scribe Headband",
+        "id": "Ardeos_IC_Head",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Spirit",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Mantle of the Frostdrake",
+        "id": "Ardeos_IC_Shoulders",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Haste",
+                "Spirit"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Icefall Cloak",
+        "id": "Ardeos_IC_Back",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Spirit",
+                "CritChance"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Erudite Gloves",
+        "id": "Ardeos_IC_Hands",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "CritChance",
+                "Spirit"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Permafrost Slippers",
+        "id": "Ardeos_IC_Feet",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Haste",
+                "Spirit"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Frost-Gripped Locket",
+        "id": "Ardeos_IC_Neck",
+        "icon": "/images/Tex_TrophyIcons_110_b.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "Expertise",
+                "Haste"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Magistrate's Signet Ring",
+        "id": "Ardeos_IC_Finger",
+        "icon": "/images/Tex_TrophyIcons_03_b.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "Haste",
+                "Spirit"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Prophet's Cloak of the Firebrand",
+        "id": "Ardeos_DR_Back",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Haste",
+                "CritChance"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Ez'Rath's Ceremonial Vestments",
+        "id": "Ardeos_DR_Chest",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "CritChance",
+                "Haste"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Hellcaller Legwraps",
+        "id": "Ardeos_DR_Waist",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Expertise",
+                "Haste"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Hellfire Scorched Sandals",
+        "id": "Ardeos_DR_Feet",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Expertise",
+                "Spirit"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Bloodrite Chain",
+        "id": "Ardeos_DR_Neck",
+        "icon": "/images/Tex_TrophyIcons_19_b.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "CritChance",
+                "Spirit"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Infernal Bracers",
+        "id": "Ardeos_DR_Wrists",
+        "icon": "/images/Tex_br_01_bg.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Haste",
+                "CritChance"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Demon Claw Ring",
+        "id": "Ardeos_DR_Finger",
+        "icon": "/images/Tex_TrophyIcons_28_b.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "Spirit",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Arsonist's Mask",
+        "id": "Ardeos_NP_Head",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Spirit",
+                "CritChance"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Mantle of Living Flame",
+        "id": "Ardeos_NP_Shoulders",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "CritChance",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Cape of the Relentless Looter",
+        "id": "Ardeos_NP_Back",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Haste",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Ashstained Handwraps",
+        "id": "Ardeos_NP_Hands",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Haste",
+                "CritChance"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Sautoir of Demonic Flame",
+        "id": "Ardeos_NP_Neck",
+        "icon": "/images/Tex_nk_04_bg.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "CritChance",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Singed Cuffs",
+        "id": "Ardeos_NP_Wrists",
+        "icon": "/images/Tex_ren_br_01_bg.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Expertise",
+                "Spirit"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Innocuous Gold Ring",
+        "id": "Ardeos_NP_Finger",
+        "icon": "/images/Tex_TrophyIcons_47_b.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "Spirit",
+                "Haste"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Moth-Eaten Cap",
+        "id": "Ardeos_PR_Head",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Haste",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Wind Torn Cape",
+        "id": "Ardeos_PR_Back",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "CritChance",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Tattered Gloves of Brine",
+        "id": "Ardeos_PR_Hands",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "CritChance",
+                "Haste"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Soulpowder Sash",
+        "id": "Ardeos_PR_Waist",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Spirit",
+                "Haste"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Officer's Decorous Boots",
+        "id": "Ardeos_PR_Feet",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Expertise",
+                "Spirit"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Seasalt Necklace",
+        "id": "Ardeos_PR_Neck",
+        "icon": "/images/Tex_TrophyIcons_64_b.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "Haste",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Katrine's Seal of Verve",
+        "id": "Ardeos_PR_Finger",
+        "icon": "/images/Tex_rings_02_b.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "Spirit",
+                "CritChance"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Spectral Captain's Epaulets",
+        "id": "Ardeos_SG_Shoulders",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "CritChance",
+                "Haste"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Headsail Scrap Cloak",
+        "id": "Ardeos_SG_Back",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Spirit",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Helmsman's Doublet",
+        "id": "Ardeos_SG_Chest",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Haste",
+                "Spirit"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Threadbare Grips",
+        "id": "Ardeos_SG_Hands",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Spirit",
+                "CritChance"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Drowned Deckhand's Locket",
+        "id": "Ardeos_SG_Neck",
+        "icon": "/images/Tex_nk_05_bg.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "CritChance",
+                "Haste"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Incorporeal Armguards",
+        "id": "Ardeos_SG_Wrists",
+        "icon": "/images/Tex_L_br_01_bg.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "CritChance",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Sea Glass Ring",
+        "id": "Ardeos_SG_Finger",
+        "icon": "/images/Tex_TrophyIcons_112_b.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "Expertise",
+                "CritChance"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Bonebleached Amice",
+        "id": "Ardeos_DD_Shoulders",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Spirit",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Dust Storm Cloak",
+        "id": "Ardeos_DD_Back",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Expertise",
+                "Spirit"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Adept's Clasp",
+        "id": "Ardeos_DD_Waist",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Haste",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Set Tags Item Database  Paul Depre",
+        "id": "Ardeos_DD_Feet",
+        "icon": "/images/Tex_Gem_61.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Haste",
+                "CritChance"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Soul Infuser's Pendant",
+        "id": "Ardeos_DD_Neck",
+        "icon": "/images/Tex_necklace_01_b.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "Spirit",
+                "Haste"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Conjurer's Wraps",
+        "id": "Ardeos_DD_Wrists",
+        "icon": "/images/Tex_bracers_23_b.png",
+        "stats": {
+            "primary": [
+                "Stamina",
+                "Intellect"
+            ],
+            "secondary": [
+                "Spirit",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Signet of the Desert Sun",
+        "id": "Ardeos_DD_Finger",
+        "icon": "/images/Tex_rn_02_bg.png",
+        "stats": {
+            "primary": [
+                "Stamina"
+            ],
+            "secondary": [
+                "Haste",
+                "CritChance"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Troll's Blood Potion",
+        "id": "Health_Relic_Strength",
+        "icon": "/images/Tex_WitchCraftIcons_88_b.png",
+        "stats": {
+            "primary": [
+                "Strength"
+            ],
+            "secondary": [
+                "Expertise",
+                "Haste"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Troll's Blood Potion",
+        "id": "Health_Relic_Intellect",
+        "icon": "/images/Tex_WitchCraftIcons_88_b.png",
+        "stats": {
+            "primary": [
+                "Intellect"
+            ],
+            "secondary": [
+                "Expertise",
+                "Haste"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Troll's Blood Potion",
+        "id": "Health_Relic_Agility",
+        "icon": "/images/Tex_WitchCraftIcons_88_b.png",
+        "stats": {
+            "primary": [
+                "Agility"
+            ],
+            "secondary": [
+                "Expertise",
+                "Haste"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Vial of Moonlight",
+        "id": "Mana_Relic_Intellect",
+        "icon": "/images/T_Nhance_RPG_Icons_ManaCup.png",
+        "stats": {
+            "primary": [
+                "Intellect"
+            ],
+            "secondary": [
+                "Spirit",
+                "CritChance"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Ancient Wardstone",
+        "id": "Dispel_Relic_Intellect",
+        "icon": "/images/T_Nhance_RPG_Icons_DeathLantern.png",
+        "stats": {
+            "primary": [
+                "Intellect"
+            ],
+            "secondary": [
+                "Spirit",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Shards of the Entralled Elemental",
+        "id": "Power_Relic_Strength",
+        "icon": "/images/Tex_shard_b_04.png",
+        "stats": {
+            "primary": [
+                "Strength"
+            ],
+            "secondary": [
+                "Expertise",
+                "Haste"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Shards of the Entralled Elemental",
+        "id": "Power_Relic_Intellect",
+        "icon": "/images/Tex_shard_b_04.png",
+        "stats": {
+            "primary": [
+                "Intellect"
+            ],
+            "secondary": [
+                "Expertise",
+                "Haste"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Shards of the Entralled Elemental",
+        "id": "Power_Relic_Agility",
+        "icon": "/images/Tex_shard_b_04.png",
+        "stats": {
+            "primary": [
+                "Agility"
+            ],
+            "secondary": [
+                "Expertise",
+                "Haste"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Chieftan's Wardrums",
+        "id": "MoveSpeed_Relic_Strength",
+        "icon": "/images/Tex_mi_b_02.png",
+        "stats": {
+            "primary": [
+                "Strength"
+            ],
+            "secondary": [
+                "CritChance",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Chieftan's Wardrums",
+        "id": "MoveSpeed_Relic_Intellect",
+        "icon": "/images/Tex_mi_b_02.png",
+        "stats": {
+            "primary": [
+                "Intellect"
+            ],
+            "secondary": [
+                "CritChance",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Chieftan's Wardrums",
+        "id": "MoveSpeed_Relic_Agility",
+        "icon": "/images/Tex_mi_b_02.png",
+        "stats": {
+            "primary": [
+                "Agility"
+            ],
+            "secondary": [
+                "CritChance",
+                "Expertise"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Ez'roth's Grimmoire",
+        "id": "BattleRes_Relic_Strength",
+        "icon": "/images/Tex_book_02_b.png",
+        "stats": {
+            "primary": [
+                "Strength"
+            ],
+            "secondary": [
+                "Haste",
+                "Spirit"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Ez'roth's Grimmoire",
+        "id": "BattleRes_Relic_Intellect",
+        "icon": "/images/Tex_book_02_b.png",
+        "stats": {
+            "primary": [
+                "Intellect"
+            ],
+            "secondary": [
+                "Haste",
+                "Spirit"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Ez'roth's Grimmoire",
+        "id": "BattleRes_Relic_Agility",
+        "icon": "/images/Tex_book_02_b.png",
+        "stats": {
+            "primary": [
+                "Agility"
+            ],
+            "secondary": [
+                "Haste",
+                "Spirit"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Captain's Crooked Dice",
+        "id": "DamageReduction_Relic_Strength",
+        "icon": "/images/Tex_dice_b_01.png",
+        "stats": {
+            "primary": [
+                "Strength"
+            ],
+            "secondary": [
+                "Expertise",
+                "Haste"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "name": "Captain's Crooked Dice",
+        "id": "DamageReduction_Relic_Agility",
+        "icon": "/images/Tex_dice_b_01.png",
+        "stats": {
+            "primary": [
+                "Agility"
+            ],
+            "secondary": [
+                "Expertise",
+                "Haste"
+            ]
+        },
+        "sets": [
+            {},
+            {},
+            {}
+        ]
+    }
+]

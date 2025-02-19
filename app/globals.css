@@ -260,7 +260,7 @@ img.dungeonMap {
 
 .expand {
   position:absolute;
-  top:0;
+  top:51px;
   bottom:0;
   left:0;
   right:0;
@@ -461,6 +461,11 @@ h3.abilityName {
   width:400px;
   border:1px solid var(--foreground);
   margin:1px;
+}
+
+.talentTitle {
+  margin-top:-10px;
+  text-align: center;
 }
 
 .modal {

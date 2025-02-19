@@ -645,6 +645,59 @@
             {
                 "isActive": true,
                 "isUltimate": false,
+                "name": "Glacial Blast",
+                "description": "Hurl a a mass of ice at target enemy, dealing <span class=\"rtwarning\">542% Intellect</span> damage.",
+                "levelLearned": 0,
+                "icon": "/images/Rime_AbilityIcon_01.png",
+                "other": {},
+                "cooldown": 0,
+                "cost": 2,
+                "range": 4000,
+                "resourceName": "Winter Orbs",
+                "id": 1039
+            },
+            {
+                "isActive": true,
+                "isUltimate": false,
+                "name": "Frost Bolt",
+                "description": "Hurl a bolt of water and frost at target enemy, dealing <span class=\"rtwarning\">73% Intellect </span> damage.<br/>Generates 3 <span class=\"rtmana\">Anima</span> ",
+                "levelLearned": 0,
+                "icon": "/images/Tex_SpellBook06_46.png",
+                "other": {},
+                "cooldown": 0,
+                "cost": 0,
+                "range": 4000,
+                "id": 1040
+            },
+            {
+                "isActive": true,
+                "isUltimate": false,
+                "name": "Freezing Torrent",
+                "description": "Flay your target with a beam of frost energy, dealing <span class=\"rtwarning\">324% Intellect</span> damage over 2 seconds while channeling.<br/>Generates <span class=\"rtmana\">1 Anima</span> per tick up to <span class=\"rtmana\">6 Anima</span> when fully channeled.",
+                "levelLearned": 0,
+                "icon": "/images/T_Nhance_RPG_Icons_IceLaser.png",
+                "other": {},
+                "cooldown": 10,
+                "cost": 0,
+                "range": 4000,
+                "id": 1041
+            },
+            {
+                "isActive": true,
+                "isUltimate": false,
+                "name": "Bursting Ice",
+                "description": "Conjures an icy crystal inside a target that periodically erupts, dealing <span class=\"rtwarning\">330% Intellect</span> damage to the target and nearby enemies over 3 seconds.<br/><span class=\"rtabsorb\">Bursting Ice</span> generates <span class=\"rtmana\">1 Anima</span> per enemy hit up to a maximum of <span class=\"rtmana\">3 Anima</span> each tick.",
+                "levelLearned": 0,
+                "icon": "/images/T_Nhance_RPG_Elements_12.png",
+                "other": {},
+                "cooldown": 15,
+                "cost": 0,
+                "range": 4000,
+                "id": 1042
+            },
+            {
+                "isActive": true,
+                "isUltimate": false,
                 "name": "Frost Ward",
                 "description": "You take <span class=\"rtabsorb\">40% reduced damage</span> for 4 seconds.",
                 "levelLearned": 3,
@@ -784,7 +837,7 @@
                 "cost": 100,
                 "range": 0,
                 "resourceName": "Spirit",
-                "id": 1051
+                "id": 1055
             },
             {
                 "isActive": true,
@@ -798,7 +851,7 @@
                 "cost": 0,
                 "range": 4000,
                 "resourceName": "Mana",
-                "id": 1039
+                "id": 1043
             },
             {
                 "isActive": true,
@@ -812,7 +865,7 @@
                 "cost": 28,
                 "range": 0,
                 "resourceName": "Mana",
-                "id": 1040
+                "id": 1044
             },
             {
                 "isActive": true,
@@ -826,7 +879,7 @@
                 "cost": 63,
                 "range": 4000,
                 "resourceName": "Mana",
-                "id": 1041
+                "id": 1045
             },
             {
                 "isActive": true,
@@ -840,7 +893,7 @@
                 "cost": 112,
                 "range": 4000,
                 "resourceName": "Mana",
-                "id": 1042
+                "id": 1046
             },
             {
                 "isActive": true,
@@ -854,7 +907,7 @@
                 "cost": 13,
                 "range": 0,
                 "resourceName": "Mana",
-                "id": 1044
+                "id": 1048
             },
             {
                 "isActive": true,
@@ -868,7 +921,7 @@
                 "cost": 1,
                 "range": 4000,
                 "resourceName": "Radiant Rune",
-                "id": 1045
+                "id": 1049
             },
             {
                 "isActive": true,
@@ -882,7 +935,7 @@
                 "cost": 1,
                 "range": 4000,
                 "resourceName": "Radiant Rune",
-                "id": 1046
+                "id": 1050
             },
             {
                 "isActive": true,
@@ -896,7 +949,7 @@
                 "cost": 1,
                 "range": 4000,
                 "resourceName": "Radiant Rune",
-                "id": 1047
+                "id": 1051
             },
             {
                 "isActive": true,
@@ -910,7 +963,7 @@
                 "cost": 0,
                 "range": 0,
                 "resourceName": "Radiant Runes",
-                "id": 1043
+                "id": 1047
             },
             {
                 "isActive": true,
@@ -926,7 +979,7 @@
                 "charges": 2,
                 "chargeCD": 0,
                 "resourceName": "Mana",
-                "id": 1050
+                "id": 1054
             },
             {
                 "isActive": true,
@@ -939,7 +992,7 @@
                 "cooldown": 60,
                 "cost": 0,
                 "range": 0,
-                "id": 1049
+                "id": 1053
             },
             {
                 "isActive": true,
@@ -953,7 +1006,7 @@
                 "cost": 18,
                 "range": 0,
                 "resourceName": "Mana",
-                "id": 1048
+                "id": 1052
             }
         ],
         "name": "Vigour",
@@ -1054,7 +1107,7 @@
                 "cooldown": 0,
                 "cost": 0,
                 "range": 0,
-                "id": 1064
+                "id": 1068
             },
             {
                 "isActive": true,
@@ -1068,7 +1121,7 @@
                 "cost": 0,
                 "range": 0,
                 "resourceName": "Fury",
-                "id": 1052
+                "id": 1056
             },
             {
                 "isActive": true,
@@ -1081,7 +1134,7 @@
                 "cooldown": 0,
                 "cost": 0,
                 "range": 0,
-                "id": 1053
+                "id": 1057
             },
             {
                 "isActive": true,
@@ -1094,7 +1147,7 @@
                 "cooldown": 0,
                 "cost": 0,
                 "range": 0,
-                "id": 1054
+                "id": 1058
             },
             {
                 "isActive": true,
@@ -1108,7 +1161,7 @@
                 "cost": 0,
                 "range": 0,
                 "resourceName": "Fury",
-                "id": 1055
+                "id": 1059
             },
             {
                 "isActive": true,
@@ -1121,7 +1174,7 @@
                 "cooldown": 0,
                 "cost": 0,
                 "range": 0,
-                "id": 1057
+                "id": 1061
             },
             {
                 "isActive": true,
@@ -1134,7 +1187,7 @@
                 "cooldown": 0,
                 "cost": 0,
                 "range": 0,
-                "id": 1058
+                "id": 1062
             },
             {
                 "isActive": true,
@@ -1147,7 +1200,7 @@
                 "cooldown": 0,
                 "cost": 0,
                 "range": 0,
-                "id": 1059
+                "id": 1063
             },
             {
                 "isActive": true,
@@ -1161,7 +1214,7 @@
                 "cost": 0,
                 "range": 0,
                 "resourceName": "Lightning",
-                "id": 1060
+                "id": 1064
             },
             {
                 "isActive": true,
@@ -1175,7 +1228,7 @@
                 "cost": 0,
                 "range": 0,
                 "resourceName": "Fury",
-                "id": 1056
+                "id": 1060
             },
             {
                 "isActive": true,
@@ -1188,7 +1241,7 @@
                 "cooldown": 0,
                 "cost": 0,
                 "range": 0,
-                "id": 1065
+                "id": 1069
             },
             {
                 "isActive": true,
@@ -1201,7 +1254,7 @@
                 "cooldown": 0,
                 "cost": 0,
                 "range": 0,
-                "id": 1063
+                "id": 1067
             },
             {
                 "isActive": true,
@@ -1214,7 +1267,7 @@
                 "cooldown": 0,
                 "cost": 0,
                 "range": 0,
-                "id": 1062
+                "id": 1066
             },
             {
                 "isActive": true,
@@ -1227,7 +1280,7 @@
                 "cooldown": 0,
                 "cost": 0,
                 "range": 0,
-                "id": 1061
+                "id": 1065
             }
         ],
         "name": "Tariq",
@@ -1321,7 +1374,7 @@
                 "cost": 0,
                 "range": 0,
                 "resourceName": "Spirit",
-                "id": 1079
+                "id": 1083
             },
             {
                 "isActive": true,
@@ -1334,7 +1387,7 @@
                 "cooldown": 0,
                 "cost": 0,
                 "range": 0,
-                "id": 1066
+                "id": 1070
             },
             {
                 "isActive": true,
@@ -1347,7 +1400,7 @@
                 "cooldown": 0,
                 "cost": 0,
                 "range": 0,
-                "id": 1067
+                "id": 1071
             },
             {
                 "isActive": true,
@@ -1360,7 +1413,7 @@
                 "cooldown": 0,
                 "cost": 0,
                 "range": 0,
-                "id": 1068
+                "id": 1072
             },
             {
                 "isActive": true,
@@ -1374,7 +1427,7 @@
                 "cost": 0,
                 "range": 0,
                 "resourceName": "Combo Spenders",
-                "id": 1069
+                "id": 1073
             },
             {
                 "isActive": true,
@@ -1387,7 +1440,7 @@
                 "cooldown": 0,
                 "cost": 0,
                 "range": 0,
-                "id": 1070
+                "id": 1074
             },
             {
                 "isActive": true,
@@ -1402,7 +1455,7 @@
                 "range": 0,
                 "charges": 0,
                 "chargeCD": 0,
-                "id": 1071
+                "id": 1075
             },
             {
                 "isActive": true,
@@ -1415,7 +1468,7 @@
                 "cooldown": 0,
                 "cost": 0,
                 "range": 0,
-                "id": 1072
+                "id": 1076
             },
             {
                 "isActive": true,
@@ -1430,7 +1483,7 @@
                 "range": 0,
                 "charges": 0,
                 "chargeCD": 0,
-                "id": 1074
+                "id": 1078
             },
             {
                 "isActive": true,
@@ -1443,7 +1496,7 @@
                 "cooldown": 0,
                 "cost": 0,
                 "range": 0,
-                "id": 1073
+                "id": 1077
             },
             {
                 "isActive": true,
@@ -1456,7 +1509,7 @@
                 "cooldown": 0,
                 "cost": 0,
                 "range": 0,
-                "id": 1077
+                "id": 1081
             },
             {
                 "isActive": true,
@@ -1469,7 +1522,7 @@
                 "cooldown": 0,
                 "cost": 0,
                 "range": 0,
-                "id": 1075
+                "id": 1079
             },
             {
                 "isActive": true,
@@ -1482,7 +1535,7 @@
                 "cooldown": 0,
                 "cost": 0,
                 "range": 0,
-                "id": 1076
+                "id": 1080
             },
             {
                 "isActive": true,
@@ -1496,7 +1549,7 @@
                 "cost": 0,
                 "range": 0,
                 "resourceName": "CP",
-                "id": 1078
+                "id": 1082
             }
         ],
         "name": "Meiko",
