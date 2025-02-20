@@ -41,6 +41,12 @@ a {
   }
 }
 
+.title {
+  font-family: EB Garamond, sans-serif;
+  font-size: 2em;
+  margin-left:20px;
+}
+
 .headerTitle {
   font-family: EB Garamond, sans-serif;
   color: rgb(236 220 176);
@@ -331,8 +337,14 @@ h3.abilityName {
 .abilityInfo {
   float:right;
 }
+
+
 .abilityInfo span {
   display:block;
+}
+
+.abilityDiv .nameInfoDiv {
+  overflow:auto;
 }
 
 

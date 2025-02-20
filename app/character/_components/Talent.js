@@ -4,13 +4,13 @@ import TalentTooltip from "./TalentTooltip";
 import { useRef } from "react";
 
 
-export default function({talent}) {
+export default function({talent, selected, onTalentSelected}) {
     var tooltipRef = useRef();
-    console.log(talent)
+    
 
     return (
-        <div className="talent">
-            <div onMouseEnter={()=>tooltipRef.current.style.visibility = 'visible'} onMouseLeave={()=>tooltipRef.current.style.visibility = 'hidden'}>
+        <div className={["talent", selected ? 'selected' : ''].join(' ')}>
+            <div onClick={()=>onTalentSelected(talent.id)} onMouseEnter={()=>tooltipRef.current.style.visibility = 'visible'} onMouseLeave={()=>tooltipRef.current.style.visibility = 'hidden'}>
                 <span className="talentCost">{talent.cost}</span>
                 <span className="talentIcon">
                     <Image alt={'Icon art for '+talent.name} height={100} width={100} src={talent.icon || null}/>

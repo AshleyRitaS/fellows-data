@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <>
     <MainHeader />
-    <div class="mainContent">
+    <div className="mainContent">
       <h2>Welcome to FellowTools!</h2>
       <div className="fullSeparator"></div>
       <p>This site contains a variety of unofficial tools to improve your experience playing Fellowship, the #1 MODA game. Check out the navigation bar on the top left to

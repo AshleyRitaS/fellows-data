@@ -20,6 +20,7 @@ export default async function NavBar() {
 
     return (
         <div className="navBar">
+            <span className="title"><a href='/'>FellowTools</a></span>
             <DropdownNav links={characterLinks} title="Characters" />
             <DropdownNav links={dungeonLinks} title="Dungeons" />
         </div>
