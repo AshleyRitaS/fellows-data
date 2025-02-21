@@ -340,6 +340,7 @@
                 "cooldown": 0,
                 "cost": 5,
                 "range": 4000,
+                "castTime": 1.5,
                 "resourceName": "Mana"
             },
             {
@@ -798,6 +799,7 @@
                 "cooldown": 0,
                 "cost": 2,
                 "range": 4000,
+                "castTime": 2,
                 "resourceName": "Winter Orbs"
             },
             {
@@ -811,7 +813,8 @@
                 "other": {},
                 "cooldown": 0,
                 "cost": 0,
-                "range": 4000
+                "range": 4000,
+                "castTime": 1.5
             },
             {
                 "isActive": false,
@@ -837,7 +840,8 @@
                 "other": {},
                 "cooldown": 15,
                 "cost": 0,
-                "range": 4000
+                "range": 4000,
+                "castTime": 2
             },
             {
                 "isActive": false,
@@ -2919,7 +2923,8 @@
                 "other": {},
                 "cooldown": 0,
                 "cost": 0,
-                "range": 3000
+                "range": 3000,
+                "castTime": 1.5
             },
             {
                 "isActive": false,
@@ -2946,7 +2951,8 @@
                 "other": {},
                 "cooldown": 0,
                 "cost": 0,
-                "range": 3000
+                "range": 3000,
+                "castTime": 2
             },
             {
                 "isActive": false,
@@ -2986,7 +2992,8 @@
                 "other": {},
                 "cooldown": 180,
                 "cost": 0,
-                "range": 3000
+                "range": 3000,
+                "castTime": 3
             }
         ],
         "name": "Ardeos",

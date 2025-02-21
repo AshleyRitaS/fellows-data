@@ -569,3 +569,49 @@ h3.abilityName {
 .mainContent p {
   margin-top:1em;
 }
+
+.itemControls {
+  margin-top:1em;
+  text-align: center;
+}
+
+.itemFilterButton {
+  display: inline-block;
+  background-color: #021422;
+  margin-left:20px;
+  text-align: center;
+  padding:10px;
+  border: 1px solid var(--foreground);
+  font-size:2em;
+  font-family: EB Garamond, sans-serif;
+  cursor: pointer;
+}
+
+.itemSet {
+  vertical-align: top;
+  margin-top:2em;
+}
+
+.item {
+  width:150px;
+  vertical-align: top;
+  background-color: #0c1c29;
+  display: inline-block;
+  margin-left:20px;
+  margin-top:1em;
+  border:1px solid var(--foreground)
+}
+
+.item .itemHeader {
+  border-bottom:1px solid var(--foreground)
+}
+
+.item .itemStats, .item .itemSets, .item .itemPower {
+  padding-left: 20px;
+  font-size: small;
+}
+
+.item .itemSlot {
+  float:right;
+  font-size:small;
+}

@@ -15,6 +15,7 @@ export default function Ability({ability}) {
     var charges = <></>
     var range = <></>
     var cost = <></>
+    var castTime = <></>
     if (ability.cooldown) {
         cooldown = (<span className="cooldown">{ability.cooldown}s Cooldown</span>)
     } else if (ability.chargeCD) {
@@ -32,11 +33,14 @@ export default function Ability({ability}) {
     if (ability.cost) {
         cost = <span className="cost">{ability.cost} {ability.resourceName}</span>
     }
+    if (ability.castTime) {
+        castTime = <span className="castTime">{ability.castTime}s Cast</span>
+    }
     return (
         <div className="abilityDiv">
             <div className="nameInfoDiv">
                 <h3 className="abilityName">{ability.name}</h3> {levelEarned}
-                <span className="abilityInfo">{range}{cost}{charges}{cooldown}</span>
+                <span className="abilityInfo">{range}{castTime}{cost}{charges}{cooldown}</span>
             </div>
             <div className="thickSeparator"></div>
             

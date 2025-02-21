@@ -316,6 +316,7 @@
                 "cooldown": 0,
                 "cost": 5,
                 "range": 4000,
+                "castTime": 1.5,
                 "resourceName": "Mana",
                 "id": 1015
             },
@@ -653,6 +654,7 @@
                 "cooldown": 0,
                 "cost": 2,
                 "range": 4000,
+                "castTime": 2,
                 "resourceName": "Winter Orbs",
                 "id": 1039
             },
@@ -667,6 +669,7 @@
                 "cooldown": 0,
                 "cost": 0,
                 "range": 4000,
+                "castTime": 1.5,
                 "id": 1040
             },
             {
@@ -693,6 +696,7 @@
                 "cooldown": 15,
                 "cost": 0,
                 "range": 4000,
+                "castTime": 2,
                 "id": 1042
             },
             {

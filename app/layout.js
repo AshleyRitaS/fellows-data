@@ -4,7 +4,7 @@ import StoreProvider from "./_components/StoreProvider";
 import Head from "next/head";
 import NavBar from "./_components/NavBar";
 
-import {GoogleAnalytics} from 'next/third-parties/google';
+import {GoogleAnalytics} from '@next/third-parties/google';
 
 const garamondFont = EB_Garamond({
   variable: '--font-eb-garamond',
