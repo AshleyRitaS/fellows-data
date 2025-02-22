@@ -43,9 +43,10 @@ export default function Ability({ability}) {
                 <span className="abilityInfo">{range}{castTime}{cost}{charges}{cooldown}</span>
             </div>
             <div className="thickSeparator"></div>
-            
-            <span className="iconContainer"><Image alt={'Icon art for '+ability.name} width={100} height={100} src={ability.icon}/></span>
-            <div className="abilityText" dangerouslySetInnerHTML={{__html:ability.description || ''}}></div>
+            <div className="descriptionInfo">
+                <span className="iconContainer"><Image alt={'Icon art for '+ability.name} width={100} height={100} src={ability.icon}/></span>
+                <div className="abilityText" dangerouslySetInnerHTML={{__html:ability.description || ''}}></div>
+            </div>
             
         </div>
     )

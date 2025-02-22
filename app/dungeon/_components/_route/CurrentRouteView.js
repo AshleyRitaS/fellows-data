@@ -23,7 +23,7 @@ export default function CurrentRouteView({draggable}) {
             <div>
             {pullElements}
             </div>
-            <button onClick={() => dispatch(newPull())}>New Pull</button>
+            <span className="newPull" onClick={() => dispatch(newPull())}> + New Pull</span>
         </div>
     )
 

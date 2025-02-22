@@ -90,5 +90,44 @@ export default function findHull(a)
     // a[max_x]
     quickHull(a, n, a[min_x], a[max_x], -1);
 
-    return hull;
+    var finalHull = [];
+
+    finalHull.push(hull[0][0]);
+    finalHull.push(hull[0][1])
+    var done = false;
+    var currentNext = hull[0][1];
+    do  {
+        done=true;
+        for (let j = 0; j < hull.length; j++) {
+            if (hull[j][0].x === currentNext.x && hull[j][0].y === currentNext.y) {
+                if (finalHull.find((e) => {
+                    return hull[j][1].x === e.x && hull[j][1].y === e.y;
+                })) {
+                    continue;
+                }
+                finalHull.push(hull[j][1]);
+                currentNext = hull[j][1];
+                done=false;
+                break;
+            }
+        }
+        if (!done) {
+            continue;
+        }
+        for (let j = 0; j < hull.length; j++) {
+            if (hull[j][1].x === currentNext.x && hull[j][1].y === currentNext.y) {
+                if (finalHull.find((e) => {
+                    return hull[j][0].x === e.x && hull[j][0].y === e.y;
+                })) {
+                    continue;
+                }
+                finalHull.push(hull[j][0]);
+                currentNext = hull[j][0];
+                done=false;
+                break;
+            }
+        }
+    } while (!done)
+
+    return finalHull;
 }

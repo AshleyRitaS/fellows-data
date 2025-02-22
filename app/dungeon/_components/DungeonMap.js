@@ -56,8 +56,8 @@ export default function DungeonMap({dungeon}) {
                     <RouteExport />
                     <RouteImport />
                 </div>
-            <TransformWrapper>
-                <TransformComponent>
+            <TransformWrapper limitToBounds={false}>
+                <TransformComponent >
                 <Image alt={'Map of ' + dungeon.name} width={2000} height={1000} className="dungeonMap" src={currentMap?.icon}/>
                 </TransformComponent>
                 <DungeonComponentContainer>
@@ -66,6 +66,5 @@ export default function DungeonMap({dungeon}) {
             </div>
             <CurrentRouteView draggable={expanded} />
         </div>
-        <RouteExport />
         </>)
 }
