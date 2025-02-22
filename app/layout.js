@@ -3,6 +3,7 @@ import "./globals.css";
 import StoreProvider from "./_components/StoreProvider";
 import Head from "next/head";
 import NavBar from "./_components/NavBar";
+import { SpeedInsights } from "@vercel/speed-insights/next"
 
 import {GoogleAnalytics} from '@next/third-parties/google';
 
@@ -44,6 +45,7 @@ export default function RootLayout({ children }) {
           </div>
         </StoreProvider>
         <GoogleAnalytics gaId="G-481RYS0CXG"/>
+        <SpeedInsights />
       </body>
     </html>
   );
