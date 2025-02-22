@@ -22,8 +22,10 @@ export default async function Character({params}) {
     return (
         <>
         <CharacterHeader character={character} />
-        <CharacterInfoBox character={character} />
+        <CharacterInfoBox character={character}>
+            
         <TalentBlock talents={character.talents} />
+        </CharacterInfoBox>
         <AbilityList abilities={character.abilities} />
         </>
     )

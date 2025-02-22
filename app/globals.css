@@ -302,7 +302,7 @@ img.dungeonMap {
 .characterPortrait {
   width:30%;
   height:auto;
-  float:right;
+  float:left;
 }
 
 .characterInfoBox .stats {
@@ -371,8 +371,19 @@ h3.abilityName {
     display: block;
   }
 .iconContainer {
-  float:left;
+  display:table-cell;
+  height:100%;
   margin-right:10px;
+}
+
+.abilityText {
+  display:table-cell;
+  padding-left:10px;
+  vertical-align: top;
+}
+
+.descriptionInfo {
+  display:table;
 }
 
 .iconContainer img {
@@ -395,6 +406,14 @@ h3.abilityName {
 
 .rtmeikoability1 {
   color:#ca83db;
+}
+
+.rtmeikoability2 {
+  color:#3e9e85
+}
+
+.rtmeikoability3 {
+  color:#aa7d03
 }
 
 .rtheal {
@@ -422,15 +441,19 @@ h3.abilityName {
 }
 
 .talentBlock {
-  margin-top:2em;
-  margin-left: 10%;
-  width: 80%;
+  margin-right: 5%;
+  margin-left: 5%;
+  float:right;
+  width: 60%;
   background-color: #0c1c29;
-  padding-left:5%;
-  padding-right:5%;
+  padding-left:2%;
   padding-top: 2em;
   padding-bottom:2em;
   border: 2px solid var(--foreground)
+}
+.abilityTitle {
+  text-align: center;
+  margin-top:1em;
 }
 
 .talentRow {
@@ -448,8 +471,8 @@ h3.abilityName {
 }
 
 .talentIcon img {
-  width:60px;
-  height:60px;
+  width:50px;
+  height:50px;
   border: 2px solid #43bb4a
 }
 
@@ -463,6 +486,8 @@ h3.abilityName {
   vertical-align: middle; 
   height:100%;
   padding-left:10px;
+  padding-right:10px;
+  font-size:.8em;
 }
 .talentTooltip {
   visibility: hidden;
@@ -492,6 +517,16 @@ h3.abilityName {
   bottom:0;
   padding: 10px;
   z-index:9002;
+}
+
+.newPull {
+  background-color: #0c1c29;
+  display: inline-block;
+  width:100%;
+  cursor:pointer;
+  text-align: center;
+  padding-top:.5em;
+  padding-bottom:.5em;
 }
 
 .modalBackground {
