@@ -18,7 +18,7 @@
         "sets": [
             {
                 "name": "Wyrmbound Pledge",
-                "description": "+8% Max Health\r\n+5% Critical Strike Power"
+                "description": "+5% Max Health\r\n+5% Critical Strike Power"
             },
             {
                 "name": "Wyrmbound Oath",
@@ -26,7 +26,7 @@
             },
             {
                 "name": "SetA_5Bonus_Strength",
-                "description": "Your Critical Strikes have a chance to increase your Strength by 12% for 18s."
+                "description": "Your Critical Strikes have a chance to increase your Strength by 12% for 18 seconds."
             }
         ],
         "characters": [
@@ -52,7 +52,7 @@
         "sets": [
             {
                 "name": "Wyrmbound Pledge",
-                "description": "+8% Max Health\r\n+5% Critical Strike Power"
+                "description": "+5% Max Health\r\n+5% Critical Strike Power"
             },
             {
                 "name": "Wyrmbound Oath",
@@ -60,7 +60,7 @@
             },
             {
                 "name": "SetA_5Bonus_Strength",
-                "description": "Your Critical Strikes have a chance to increase your Strength by 12% for 18s."
+                "description": "Your Critical Strikes have a chance to increase your Strength by 12% for 18 seconds."
             }
         ],
         "characters": [
@@ -86,7 +86,7 @@
         "sets": [
             {
                 "name": "Wyrmbound Pledge",
-                "description": "+8% Max Health\r\n+5% Critical Strike Power"
+                "description": "+5% Max Health\r\n+5% Critical Strike Power"
             },
             {
                 "name": "Wyrmbound Oath",
@@ -94,7 +94,7 @@
             },
             {
                 "name": "SetA_5Bonus_Strength",
-                "description": "Your Critical Strikes have a chance to increase your Strength by 12% for 18s."
+                "description": "Your Critical Strikes have a chance to increase your Strength by 12% for 18 seconds."
             }
         ],
         "characters": [
@@ -120,7 +120,7 @@
         "sets": [
             {
                 "name": "Wyrmbound Pledge",
-                "description": "+8% Max Health\r\n+5% Critical Strike Power"
+                "description": "+5% Max Health\r\n+5% Critical Strike Power"
             },
             {
                 "name": "Wyrmbound Oath",
@@ -128,7 +128,7 @@
             },
             {
                 "name": "SetA_5Bonus_Strength",
-                "description": "Your Critical Strikes have a chance to increase your Strength by 12% for 18s."
+                "description": "Your Critical Strikes have a chance to increase your Strength by 12% for 18 seconds."
             }
         ],
         "characters": [
@@ -153,7 +153,7 @@
         "sets": [
             {
                 "name": "Wyrmbound Pledge",
-                "description": "+8% Max Health\r\n+5% Critical Strike Power"
+                "description": "+5% Max Health\r\n+5% Critical Strike Power"
             },
             {
                 "name": "Wyrmbound Oath",
@@ -161,7 +161,7 @@
             },
             {
                 "name": "SetA_5Bonus_Strength",
-                "description": "Your Critical Strikes have a chance to increase your Strength by 12% for 18s."
+                "description": "Your Critical Strikes have a chance to increase your Strength by 12% for 18 seconds."
             }
         ],
         "characters": [
@@ -187,7 +187,7 @@
         "sets": [
             {
                 "name": "Wyrmbound Pledge",
-                "description": "+8% Max Health\r\n+5% Critical Strike Power"
+                "description": "+5% Max Health\r\n+5% Critical Strike Power"
             },
             {
                 "name": "Wyrmbound Oath",
@@ -195,7 +195,7 @@
             },
             {
                 "name": "SetA_5Bonus_Strength",
-                "description": "Your Critical Strikes have a chance to increase your Strength by 12% for 18s."
+                "description": "Your Critical Strikes have a chance to increase your Strength by 12% for 18 seconds."
             }
         ],
         "characters": [
@@ -220,7 +220,7 @@
         "sets": [
             {
                 "name": "Wyrmbound Pledge",
-                "description": "+8% Max Health\r\n+5% Critical Strike Power"
+                "description": "+5% Max Health\r\n+5% Critical Strike Power"
             },
             {
                 "name": "Wyrmbound Oath",
@@ -228,7 +228,7 @@
             },
             {
                 "name": "SetA_5Bonus_Strength",
-                "description": "Your Critical Strikes have a chance to increase your Strength by 12% for 18s."
+                "description": "Your Critical Strikes have a chance to increase your Strength by 12% for 18 seconds."
             }
         ],
         "characters": [
@@ -407,7 +407,7 @@
             },
             {
                 "name": "Infernal Contract",
-                "description": "Your abilities have a chance to increase your Haste by 20% for 18 seconds"
+                "description": "Your abilities have a chance to increase your Haste by 20% for 18 seconds."
             }
         ],
         "characters": [
@@ -441,7 +441,7 @@
             },
             {
                 "name": "Infernal Contract",
-                "description": "Your abilities have a chance to increase your Haste by 20% for 18 seconds"
+                "description": "Your abilities have a chance to increase your Haste by 20% for 18 seconds."
             }
         ],
         "characters": [
@@ -475,7 +475,7 @@
             },
             {
                 "name": "Infernal Contract",
-                "description": "Your abilities have a chance to increase your Haste by 20% for 18 seconds"
+                "description": "Your abilities have a chance to increase your Haste by 20% for 18 seconds."
             }
         ],
         "characters": [
@@ -509,7 +509,7 @@
             },
             {
                 "name": "Infernal Contract",
-                "description": "Your abilities have a chance to increase your Haste by 20% for 18 seconds"
+                "description": "Your abilities have a chance to increase your Haste by 20% for 18 seconds."
             }
         ],
         "characters": [
@@ -542,7 +542,7 @@
             },
             {
                 "name": "Infernal Contract",
-                "description": "Your abilities have a chance to increase your Haste by 20% for 18 seconds"
+                "description": "Your abilities have a chance to increase your Haste by 20% for 18 seconds."
             }
         ],
         "characters": [
@@ -576,7 +576,7 @@
             },
             {
                 "name": "Infernal Contract",
-                "description": "Your abilities have a chance to increase your Haste by 20% for 18 seconds"
+                "description": "Your abilities have a chance to increase your Haste by 20% for 18 seconds."
             }
         ],
         "characters": [
@@ -609,7 +609,7 @@
             },
             {
                 "name": "Infernal Contract",
-                "description": "Your abilities have a chance to increase your Haste by 20% for 18 seconds"
+                "description": "Your abilities have a chance to increase your Haste by 20% for 18 seconds."
             }
         ],
         "characters": [
@@ -780,7 +780,7 @@
         "sets": [
             {
                 "name": "Deathchaser's Bounty",
-                "description": "+10% Magic Resist"
+                "description": "+10% reduced magic taken."
             },
             {
                 "name": "Deathchaser's Abundance",
@@ -814,7 +814,7 @@
         "sets": [
             {
                 "name": "Deathchaser's Bounty",
-                "description": "+10% Magic Resist"
+                "description": "+10% reduced magic taken."
             },
             {
                 "name": "Deathchaser's Abundance",
@@ -848,7 +848,7 @@
         "sets": [
             {
                 "name": "Deathchaser's Bounty",
-                "description": "+10% Magic Resist"
+                "description": "+10% reduced magic taken."
             },
             {
                 "name": "Deathchaser's Abundance",
@@ -882,7 +882,7 @@
         "sets": [
             {
                 "name": "Deathchaser's Bounty",
-                "description": "+10% Magic Resist"
+                "description": "+10% reduced magic taken."
             },
             {
                 "name": "Deathchaser's Abundance",
@@ -916,7 +916,7 @@
         "sets": [
             {
                 "name": "Deathchaser's Bounty",
-                "description": "+10% Magic Resist"
+                "description": "+10% reduced magic taken."
             },
             {
                 "name": "Deathchaser's Abundance",
@@ -949,7 +949,7 @@
         "sets": [
             {
                 "name": "Deathchaser's Bounty",
-                "description": "+10% Magic Resist"
+                "description": "+10% reduced magic taken."
             },
             {
                 "name": "Deathchaser's Abundance",
@@ -982,7 +982,7 @@
         "sets": [
             {
                 "name": "Deathchaser's Bounty",
-                "description": "+10% Magic Resist"
+                "description": "+10% reduced magic taken."
             },
             {
                 "name": "Deathchaser's Abundance",
@@ -1306,7 +1306,7 @@
         "sets": [
             {
                 "name": "Wyrmbound Pledge",
-                "description": "+8% Max Health\r\n+5% Critical Strike Power"
+                "description": "+5% Max Health\r\n+5% Critical Strike Power"
             },
             {
                 "name": "Wyrmbound Oath",
@@ -1314,7 +1314,7 @@
             },
             {
                 "name": "Wyrmbound Devotion",
-                "description": "Your Critical Strikes have a chance to increase your Intellect by 12% for 18s."
+                "description": "Your Critical Strikes have a chance to increase your Intellect by 12% for 18 seconds."
             }
         ],
         "characters": [
@@ -1340,7 +1340,7 @@
         "sets": [
             {
                 "name": "Wyrmbound Pledge",
-                "description": "+8% Max Health\r\n+5% Critical Strike Power"
+                "description": "+5% Max Health\r\n+5% Critical Strike Power"
             },
             {
                 "name": "Wyrmbound Oath",
@@ -1348,7 +1348,7 @@
             },
             {
                 "name": "Wyrmbound Devotion",
-                "description": "Your Critical Strikes have a chance to increase your Intellect by 12% for 18s."
+                "description": "Your Critical Strikes have a chance to increase your Intellect by 12% for 18 seconds."
             }
         ],
         "characters": [
@@ -1374,7 +1374,7 @@
         "sets": [
             {
                 "name": "Wyrmbound Pledge",
-                "description": "+8% Max Health\r\n+5% Critical Strike Power"
+                "description": "+5% Max Health\r\n+5% Critical Strike Power"
             },
             {
                 "name": "Wyrmbound Oath",
@@ -1382,7 +1382,7 @@
             },
             {
                 "name": "Wyrmbound Devotion",
-                "description": "Your Critical Strikes have a chance to increase your Intellect by 12% for 18s."
+                "description": "Your Critical Strikes have a chance to increase your Intellect by 12% for 18 seconds."
             }
         ],
         "characters": [
@@ -1408,7 +1408,7 @@
         "sets": [
             {
                 "name": "Wyrmbound Pledge",
-                "description": "+8% Max Health\r\n+5% Critical Strike Power"
+                "description": "+5% Max Health\r\n+5% Critical Strike Power"
             },
             {
                 "name": "Wyrmbound Oath",
@@ -1416,7 +1416,7 @@
             },
             {
                 "name": "Wyrmbound Devotion",
-                "description": "Your Critical Strikes have a chance to increase your Intellect by 12% for 18s."
+                "description": "Your Critical Strikes have a chance to increase your Intellect by 12% for 18 seconds."
             }
         ],
         "characters": [
@@ -1441,7 +1441,7 @@
         "sets": [
             {
                 "name": "Wyrmbound Pledge",
-                "description": "+8% Max Health\r\n+5% Critical Strike Power"
+                "description": "+5% Max Health\r\n+5% Critical Strike Power"
             },
             {
                 "name": "Wyrmbound Oath",
@@ -1449,7 +1449,7 @@
             },
             {
                 "name": "Wyrmbound Devotion",
-                "description": "Your Critical Strikes have a chance to increase your Intellect by 12% for 18s."
+                "description": "Your Critical Strikes have a chance to increase your Intellect by 12% for 18 seconds."
             }
         ],
         "characters": [
@@ -1475,7 +1475,7 @@
         "sets": [
             {
                 "name": "Wyrmbound Pledge",
-                "description": "+8% Max Health\r\n+5% Critical Strike Power"
+                "description": "+5% Max Health\r\n+5% Critical Strike Power"
             },
             {
                 "name": "Wyrmbound Oath",
@@ -1483,7 +1483,7 @@
             },
             {
                 "name": "Wyrmbound Devotion",
-                "description": "Your Critical Strikes have a chance to increase your Intellect by 12% for 18s."
+                "description": "Your Critical Strikes have a chance to increase your Intellect by 12% for 18 seconds."
             }
         ],
         "characters": [
@@ -1508,7 +1508,7 @@
         "sets": [
             {
                 "name": "Wyrmbound Pledge",
-                "description": "+8% Max Health\r\n+5% Critical Strike Power"
+                "description": "+5% Max Health\r\n+5% Critical Strike Power"
             },
             {
                 "name": "Wyrmbound Oath",
@@ -1516,7 +1516,7 @@
             },
             {
                 "name": "Wyrmbound Devotion",
-                "description": "Your Critical Strikes have a chance to increase your Intellect by 12% for 18s."
+                "description": "Your Critical Strikes have a chance to increase your Intellect by 12% for 18 seconds."
             }
         ],
         "characters": [
@@ -1695,7 +1695,7 @@
             },
             {
                 "name": "Infernal Contract",
-                "description": "Your abilities have a chance to increase your Haste by 20% for 18 seconds"
+                "description": "Your abilities have a chance to increase your Haste by 20% for 18 seconds."
             }
         ],
         "characters": [
@@ -1729,7 +1729,7 @@
             },
             {
                 "name": "Infernal Contract",
-                "description": "Your abilities have a chance to increase your Haste by 20% for 18 seconds"
+                "description": "Your abilities have a chance to increase your Haste by 20% for 18 seconds."
             }
         ],
         "characters": [
@@ -1763,7 +1763,7 @@
             },
             {
                 "name": "Infernal Contract",
-                "description": "Your abilities have a chance to increase your Haste by 20% for 18 seconds"
+                "description": "Your abilities have a chance to increase your Haste by 20% for 18 seconds."
             }
         ],
         "characters": [
@@ -1797,7 +1797,7 @@
             },
             {
                 "name": "Infernal Contract",
-                "description": "Your abilities have a chance to increase your Haste by 20% for 18 seconds"
+                "description": "Your abilities have a chance to increase your Haste by 20% for 18 seconds."
             }
         ],
         "characters": [
@@ -1830,7 +1830,7 @@
             },
             {
                 "name": "Infernal Contract",
-                "description": "Your abilities have a chance to increase your Haste by 20% for 18 seconds"
+                "description": "Your abilities have a chance to increase your Haste by 20% for 18 seconds."
             }
         ],
         "characters": [
@@ -1864,7 +1864,7 @@
             },
             {
                 "name": "Infernal Contract",
-                "description": "Your abilities have a chance to increase your Haste by 20% for 18 seconds"
+                "description": "Your abilities have a chance to increase your Haste by 20% for 18 seconds."
             }
         ],
         "characters": [
@@ -1897,7 +1897,7 @@
             },
             {
                 "name": "Infernal Contract",
-                "description": "Your abilities have a chance to increase your Haste by 20% for 18 seconds"
+                "description": "Your abilities have a chance to increase your Haste by 20% for 18 seconds."
             }
         ],
         "characters": [
@@ -2594,7 +2594,7 @@
         "sets": [
             {
                 "name": "Wyrmbound Pledge",
-                "description": "+8% Max Health\r\n+5% Critical Strike Power"
+                "description": "+5% Max Health\r\n+5% Critical Strike Power"
             },
             {
                 "name": "Wyrmbound Oath",
@@ -2602,7 +2602,7 @@
             },
             {
                 "name": "SetA_5Bonus_Strength",
-                "description": "Your Critical Strikes have a chance to increase your Strength by 12% for 18s."
+                "description": "Your Critical Strikes have a chance to increase your Strength by 12% for 18 seconds."
             }
         ],
         "characters": [
@@ -2628,7 +2628,7 @@
         "sets": [
             {
                 "name": "Wyrmbound Pledge",
-                "description": "+8% Max Health\r\n+5% Critical Strike Power"
+                "description": "+5% Max Health\r\n+5% Critical Strike Power"
             },
             {
                 "name": "Wyrmbound Oath",
@@ -2636,7 +2636,7 @@
             },
             {
                 "name": "SetA_5Bonus_Strength",
-                "description": "Your Critical Strikes have a chance to increase your Strength by 12% for 18s."
+                "description": "Your Critical Strikes have a chance to increase your Strength by 12% for 18 seconds."
             }
         ],
         "characters": [
@@ -2662,7 +2662,7 @@
         "sets": [
             {
                 "name": "Wyrmbound Pledge",
-                "description": "+8% Max Health\r\n+5% Critical Strike Power"
+                "description": "+5% Max Health\r\n+5% Critical Strike Power"
             },
             {
                 "name": "Wyrmbound Oath",
@@ -2670,7 +2670,7 @@
             },
             {
                 "name": "SetA_5Bonus_Strength",
-                "description": "Your Critical Strikes have a chance to increase your Strength by 12% for 18s."
+                "description": "Your Critical Strikes have a chance to increase your Strength by 12% for 18 seconds."
             }
         ],
         "characters": [
@@ -2696,7 +2696,7 @@
         "sets": [
             {
                 "name": "Wyrmbound Pledge",
-                "description": "+8% Max Health\r\n+5% Critical Strike Power"
+                "description": "+5% Max Health\r\n+5% Critical Strike Power"
             },
             {
                 "name": "Wyrmbound Oath",
@@ -2704,7 +2704,7 @@
             },
             {
                 "name": "SetA_5Bonus_Strength",
-                "description": "Your Critical Strikes have a chance to increase your Strength by 12% for 18s."
+                "description": "Your Critical Strikes have a chance to increase your Strength by 12% for 18 seconds."
             }
         ],
         "characters": [
@@ -2729,7 +2729,7 @@
         "sets": [
             {
                 "name": "Wyrmbound Pledge",
-                "description": "+8% Max Health\r\n+5% Critical Strike Power"
+                "description": "+5% Max Health\r\n+5% Critical Strike Power"
             },
             {
                 "name": "Wyrmbound Oath",
@@ -2737,7 +2737,7 @@
             },
             {
                 "name": "SetA_5Bonus_Strength",
-                "description": "Your Critical Strikes have a chance to increase your Strength by 12% for 18s."
+                "description": "Your Critical Strikes have a chance to increase your Strength by 12% for 18 seconds."
             }
         ],
         "characters": [
@@ -2763,7 +2763,7 @@
         "sets": [
             {
                 "name": "Wyrmbound Pledge",
-                "description": "+8% Max Health\r\n+5% Critical Strike Power"
+                "description": "+5% Max Health\r\n+5% Critical Strike Power"
             },
             {
                 "name": "Wyrmbound Oath",
@@ -2771,7 +2771,7 @@
             },
             {
                 "name": "SetA_5Bonus_Strength",
-                "description": "Your Critical Strikes have a chance to increase your Strength by 12% for 18s."
+                "description": "Your Critical Strikes have a chance to increase your Strength by 12% for 18 seconds."
             }
         ],
         "characters": [
@@ -2796,7 +2796,7 @@
         "sets": [
             {
                 "name": "Wyrmbound Pledge",
-                "description": "+8% Max Health\r\n+5% Critical Strike Power"
+                "description": "+5% Max Health\r\n+5% Critical Strike Power"
             },
             {
                 "name": "Wyrmbound Oath",
@@ -2804,7 +2804,7 @@
             },
             {
                 "name": "SetA_5Bonus_Strength",
-                "description": "Your Critical Strikes have a chance to increase your Strength by 12% for 18s."
+                "description": "Your Critical Strikes have a chance to increase your Strength by 12% for 18 seconds."
             }
         ],
         "characters": [
@@ -2983,7 +2983,7 @@
             },
             {
                 "name": "Infernal Contract",
-                "description": "Your abilities have a chance to increase your Haste by 20% for 18 seconds"
+                "description": "Your abilities have a chance to increase your Haste by 20% for 18 seconds."
             }
         ],
         "characters": [
@@ -3017,7 +3017,7 @@
             },
             {
                 "name": "Infernal Contract",
-                "description": "Your abilities have a chance to increase your Haste by 20% for 18 seconds"
+                "description": "Your abilities have a chance to increase your Haste by 20% for 18 seconds."
             }
         ],
         "characters": [
@@ -3051,7 +3051,7 @@
             },
             {
                 "name": "Infernal Contract",
-                "description": "Your abilities have a chance to increase your Haste by 20% for 18 seconds"
+                "description": "Your abilities have a chance to increase your Haste by 20% for 18 seconds."
             }
         ],
         "characters": [
@@ -3085,7 +3085,7 @@
             },
             {
                 "name": "Infernal Contract",
-                "description": "Your abilities have a chance to increase your Haste by 20% for 18 seconds"
+                "description": "Your abilities have a chance to increase your Haste by 20% for 18 seconds."
             }
         ],
         "characters": [
@@ -3118,7 +3118,7 @@
             },
             {
                 "name": "Infernal Contract",
-                "description": "Your abilities have a chance to increase your Haste by 20% for 18 seconds"
+                "description": "Your abilities have a chance to increase your Haste by 20% for 18 seconds."
             }
         ],
         "characters": [
@@ -3152,7 +3152,7 @@
             },
             {
                 "name": "Infernal Contract",
-                "description": "Your abilities have a chance to increase your Haste by 20% for 18 seconds"
+                "description": "Your abilities have a chance to increase your Haste by 20% for 18 seconds."
             }
         ],
         "characters": [
@@ -3185,7 +3185,7 @@
             },
             {
                 "name": "Infernal Contract",
-                "description": "Your abilities have a chance to increase your Haste by 20% for 18 seconds"
+                "description": "Your abilities have a chance to increase your Haste by 20% for 18 seconds."
             }
         ],
         "characters": [
@@ -3882,15 +3882,15 @@
         "sets": [
             {
                 "name": "Wyrmbound Pledge",
-                "description": "+8% Max Health\r\n+5% Critical Strike Power"
+                "description": "+5% Max Health\r\n+5% Critical Strike Power"
             },
             {
                 "name": "Wyrmbound Oath",
                 "description": "+5% Critical Strike Chance"
             },
             {
-                "name": "SetA_5Bonus_Strength",
-                "description": "Your Critical Strikes have a chance to increase your Strength by 12% for 18s."
+                "name": "SetA_5Bonus_Agility",
+                "description": "Your Critical Strikes have a chance to increase your Agility by 12% for 18 seconds."
             }
         ],
         "characters": [
@@ -3916,15 +3916,15 @@
         "sets": [
             {
                 "name": "Wyrmbound Pledge",
-                "description": "+8% Max Health\r\n+5% Critical Strike Power"
+                "description": "+5% Max Health\r\n+5% Critical Strike Power"
             },
             {
                 "name": "Wyrmbound Oath",
                 "description": "+5% Critical Strike Chance"
             },
             {
-                "name": "SetA_5Bonus_Strength",
-                "description": "Your Critical Strikes have a chance to increase your Strength by 12% for 18s."
+                "name": "SetA_5Bonus_Agility",
+                "description": "Your Critical Strikes have a chance to increase your Agility by 12% for 18 seconds."
             }
         ],
         "characters": [
@@ -3950,7 +3950,7 @@
         "sets": [
             {
                 "name": "Wyrmbound Pledge",
-                "description": "+8% Max Health\r\n+5% Critical Strike Power"
+                "description": "+5% Max Health\r\n+5% Critical Strike Power"
             },
             {
                 "name": "Wyrmbound Oath",
@@ -3958,7 +3958,7 @@
             },
             {
                 "name": "SetA_5Bonus_Agility",
-                "description": "Your Critical Strikes have a chance to increase your Agility by 12% for 18s."
+                "description": "Your Critical Strikes have a chance to increase your Agility by 12% for 18 seconds."
             }
         ],
         "characters": [
@@ -3984,7 +3984,7 @@
         "sets": [
             {
                 "name": "Wyrmbound Pledge",
-                "description": "+8% Max Health\r\n+5% Critical Strike Power"
+                "description": "+5% Max Health\r\n+5% Critical Strike Power"
             },
             {
                 "name": "Wyrmbound Oath",
@@ -3992,7 +3992,7 @@
             },
             {
                 "name": "SetA_5Bonus_Agility",
-                "description": "Your Critical Strikes have a chance to increase your Agility by 12% for 18s."
+                "description": "Your Critical Strikes have a chance to increase your Agility by 12% for 18 seconds."
             }
         ],
         "characters": [
@@ -4018,7 +4018,7 @@
         "sets": [
             {
                 "name": "Wyrmbound Pledge",
-                "description": "+8% Max Health\r\n+5% Critical Strike Power"
+                "description": "+5% Max Health\r\n+5% Critical Strike Power"
             },
             {
                 "name": "Wyrmbound Oath",
@@ -4026,7 +4026,7 @@
             },
             {
                 "name": "SetA_5Bonus_Agility",
-                "description": "Your Critical Strikes have a chance to increase your Agility by 12% for 18s."
+                "description": "Your Critical Strikes have a chance to increase your Agility by 12% for 18 seconds."
             }
         ],
         "characters": [
@@ -4051,7 +4051,7 @@
         "sets": [
             {
                 "name": "Wyrmbound Pledge",
-                "description": "+8% Max Health\r\n+5% Critical Strike Power"
+                "description": "+5% Max Health\r\n+5% Critical Strike Power"
             },
             {
                 "name": "Wyrmbound Oath",
@@ -4059,7 +4059,7 @@
             },
             {
                 "name": "SetA_5Bonus_Agility",
-                "description": "Your Critical Strikes have a chance to increase your Agility by 12% for 18s."
+                "description": "Your Critical Strikes have a chance to increase your Agility by 12% for 18 seconds."
             }
         ],
         "characters": [
@@ -4084,7 +4084,7 @@
         "sets": [
             {
                 "name": "Wyrmbound Pledge",
-                "description": "+8% Max Health\r\n+5% Critical Strike Power"
+                "description": "+5% Max Health\r\n+5% Critical Strike Power"
             },
             {
                 "name": "Wyrmbound Oath",
@@ -4092,7 +4092,7 @@
             },
             {
                 "name": "SetA_5Bonus_Agility",
-                "description": "Your Critical Strikes have a chance to increase your Agility by 12% for 18s."
+                "description": "Your Critical Strikes have a chance to increase your Agility by 12% for 18 seconds."
             }
         ],
         "characters": [
@@ -4242,7 +4242,7 @@
         "sets": [
             {
                 "name": "Wyrmbound Pledge",
-                "description": "+8% Max Health\r\n+5% Critical Strike Power"
+                "description": "+5% Max Health\r\n+5% Critical Strike Power"
             },
             {
                 "name": "Wyrmbound Oath",
@@ -4250,7 +4250,7 @@
             },
             {
                 "name": "SetA_5Bonus_Agility",
-                "description": "Your Critical Strikes have a chance to increase your Agility by 12% for 18s."
+                "description": "Your Critical Strikes have a chance to increase your Agility by 12% for 18 seconds."
             }
         ],
         "characters": [
@@ -4284,7 +4284,7 @@
             },
             {
                 "name": "Infernal Contract",
-                "description": "Your abilities have a chance to increase your Haste by 20% for 18 seconds"
+                "description": "Your abilities have a chance to increase your Haste by 20% for 18 seconds."
             }
         ],
         "characters": [
@@ -4318,7 +4318,7 @@
             },
             {
                 "name": "Infernal Contract",
-                "description": "Your abilities have a chance to increase your Haste by 20% for 18 seconds"
+                "description": "Your abilities have a chance to increase your Haste by 20% for 18 seconds."
             }
         ],
         "characters": [
@@ -4352,7 +4352,7 @@
             },
             {
                 "name": "Infernal Contract",
-                "description": "Your abilities have a chance to increase your Haste by 20% for 18 seconds"
+                "description": "Your abilities have a chance to increase your Haste by 20% for 18 seconds."
             }
         ],
         "characters": [
@@ -4386,7 +4386,7 @@
             },
             {
                 "name": "Infernal Contract",
-                "description": "Your abilities have a chance to increase your Haste by 20% for 18 seconds"
+                "description": "Your abilities have a chance to increase your Haste by 20% for 18 seconds."
             }
         ],
         "characters": [
@@ -4420,7 +4420,7 @@
             },
             {
                 "name": "Infernal Contract",
-                "description": "Your abilities have a chance to increase your Haste by 20% for 18 seconds"
+                "description": "Your abilities have a chance to increase your Haste by 20% for 18 seconds."
             }
         ],
         "characters": [
@@ -4453,7 +4453,7 @@
             },
             {
                 "name": "Infernal Contract",
-                "description": "Your abilities have a chance to increase your Haste by 20% for 18 seconds"
+                "description": "Your abilities have a chance to increase your Haste by 20% for 18 seconds."
             }
         ],
         "characters": [
@@ -4486,7 +4486,7 @@
             },
             {
                 "name": "Infernal Contract",
-                "description": "Your abilities have a chance to increase your Haste by 20% for 18 seconds"
+                "description": "Your abilities have a chance to increase your Haste by 20% for 18 seconds."
             }
         ],
         "characters": [
@@ -4657,7 +4657,7 @@
         "sets": [
             {
                 "name": "Deathchaser's Bounty",
-                "description": "+10% Magic Resist"
+                "description": "+10% reduced magic taken."
             },
             {
                 "name": "Deathchaser's Abundance",
@@ -4691,7 +4691,7 @@
         "sets": [
             {
                 "name": "Deathchaser's Bounty",
-                "description": "+10% Magic Resist"
+                "description": "+10% reduced magic taken."
             },
             {
                 "name": "Deathchaser's Abundance",
@@ -4725,7 +4725,7 @@
         "sets": [
             {
                 "name": "Deathchaser's Bounty",
-                "description": "+10% Magic Resist"
+                "description": "+10% reduced magic taken."
             },
             {
                 "name": "Deathchaser's Abundance",
@@ -4759,7 +4759,7 @@
         "sets": [
             {
                 "name": "Deathchaser's Bounty",
-                "description": "+10% Magic Resist"
+                "description": "+10% reduced magic taken."
             },
             {
                 "name": "Deathchaser's Abundance",
@@ -4792,7 +4792,7 @@
         "sets": [
             {
                 "name": "Deathchaser's Bounty",
-                "description": "+10% Magic Resist"
+                "description": "+10% reduced magic taken."
             },
             {
                 "name": "Deathchaser's Abundance",
@@ -4826,7 +4826,7 @@
         "sets": [
             {
                 "name": "Deathchaser's Bounty",
-                "description": "+10% Magic Resist"
+                "description": "+10% reduced magic taken."
             },
             {
                 "name": "Deathchaser's Abundance",
@@ -4859,7 +4859,7 @@
         "sets": [
             {
                 "name": "Deathchaser's Bounty",
-                "description": "+10% Magic Resist"
+                "description": "+10% reduced magic taken."
             },
             {
                 "name": "Deathchaser's Abundance",
@@ -5183,7 +5183,7 @@
         "sets": [
             {
                 "name": "Wyrmbound Pledge",
-                "description": "+8% Max Health\r\n+5% Critical Strike Power"
+                "description": "+5% Max Health\r\n+5% Critical Strike Power"
             },
             {
                 "name": "Wyrmbound Oath",
@@ -5191,7 +5191,7 @@
             },
             {
                 "name": "Wyrmbound Devotion",
-                "description": "Your Critical Strikes have a chance to increase your Intellect by 12% for 18s."
+                "description": "Your Critical Strikes have a chance to increase your Intellect by 12% for 18 seconds."
             }
         ],
         "characters": [
@@ -5217,7 +5217,7 @@
         "sets": [
             {
                 "name": "Wyrmbound Pledge",
-                "description": "+8% Max Health\r\n+5% Critical Strike Power"
+                "description": "+5% Max Health\r\n+5% Critical Strike Power"
             },
             {
                 "name": "Wyrmbound Oath",
@@ -5225,7 +5225,7 @@
             },
             {
                 "name": "Wyrmbound Devotion",
-                "description": "Your Critical Strikes have a chance to increase your Intellect by 12% for 18s."
+                "description": "Your Critical Strikes have a chance to increase your Intellect by 12% for 18 seconds."
             }
         ],
         "characters": [
@@ -5251,7 +5251,7 @@
         "sets": [
             {
                 "name": "Wyrmbound Pledge",
-                "description": "+8% Max Health\r\n+5% Critical Strike Power"
+                "description": "+5% Max Health\r\n+5% Critical Strike Power"
             },
             {
                 "name": "Wyrmbound Oath",
@@ -5259,7 +5259,7 @@
             },
             {
                 "name": "Wyrmbound Devotion",
-                "description": "Your Critical Strikes have a chance to increase your Intellect by 12% for 18s."
+                "description": "Your Critical Strikes have a chance to increase your Intellect by 12% for 18 seconds."
             }
         ],
         "characters": [
@@ -5285,7 +5285,7 @@
         "sets": [
             {
                 "name": "Wyrmbound Pledge",
-                "description": "+8% Max Health\r\n+5% Critical Strike Power"
+                "description": "+5% Max Health\r\n+5% Critical Strike Power"
             },
             {
                 "name": "Wyrmbound Oath",
@@ -5293,7 +5293,7 @@
             },
             {
                 "name": "Wyrmbound Devotion",
-                "description": "Your Critical Strikes have a chance to increase your Intellect by 12% for 18s."
+                "description": "Your Critical Strikes have a chance to increase your Intellect by 12% for 18 seconds."
             }
         ],
         "characters": [
@@ -5319,7 +5319,7 @@
         "sets": [
             {
                 "name": "Wyrmbound Pledge",
-                "description": "+8% Max Health\r\n+5% Critical Strike Power"
+                "description": "+5% Max Health\r\n+5% Critical Strike Power"
             },
             {
                 "name": "Wyrmbound Oath",
@@ -5327,7 +5327,7 @@
             },
             {
                 "name": "Wyrmbound Devotion",
-                "description": "Your Critical Strikes have a chance to increase your Intellect by 12% for 18s."
+                "description": "Your Critical Strikes have a chance to increase your Intellect by 12% for 18 seconds."
             }
         ],
         "characters": [
@@ -5352,7 +5352,7 @@
         "sets": [
             {
                 "name": "Wyrmbound Pledge",
-                "description": "+8% Max Health\r\n+5% Critical Strike Power"
+                "description": "+5% Max Health\r\n+5% Critical Strike Power"
             },
             {
                 "name": "Wyrmbound Oath",
@@ -5360,7 +5360,7 @@
             },
             {
                 "name": "Wyrmbound Devotion",
-                "description": "Your Critical Strikes have a chance to increase your Intellect by 12% for 18s."
+                "description": "Your Critical Strikes have a chance to increase your Intellect by 12% for 18 seconds."
             }
         ],
         "characters": [
@@ -5385,7 +5385,7 @@
         "sets": [
             {
                 "name": "Wyrmbound Pledge",
-                "description": "+8% Max Health\r\n+5% Critical Strike Power"
+                "description": "+5% Max Health\r\n+5% Critical Strike Power"
             },
             {
                 "name": "Wyrmbound Oath",
@@ -5393,7 +5393,7 @@
             },
             {
                 "name": "Wyrmbound Devotion",
-                "description": "Your Critical Strikes have a chance to increase your Intellect by 12% for 18s."
+                "description": "Your Critical Strikes have a chance to increase your Intellect by 12% for 18 seconds."
             }
         ],
         "characters": [
@@ -5572,7 +5572,7 @@
             },
             {
                 "name": "Infernal Contract",
-                "description": "Your abilities have a chance to increase your Haste by 20% for 18 seconds"
+                "description": "Your abilities have a chance to increase your Haste by 20% for 18 seconds."
             }
         ],
         "characters": [
@@ -5606,7 +5606,7 @@
             },
             {
                 "name": "Infernal Contract",
-                "description": "Your abilities have a chance to increase your Haste by 20% for 18 seconds"
+                "description": "Your abilities have a chance to increase your Haste by 20% for 18 seconds."
             }
         ],
         "characters": [
@@ -5640,7 +5640,7 @@
             },
             {
                 "name": "Infernal Contract",
-                "description": "Your abilities have a chance to increase your Haste by 20% for 18 seconds"
+                "description": "Your abilities have a chance to increase your Haste by 20% for 18 seconds."
             }
         ],
         "characters": [
@@ -5674,7 +5674,7 @@
             },
             {
                 "name": "Infernal Contract",
-                "description": "Your abilities have a chance to increase your Haste by 20% for 18 seconds"
+                "description": "Your abilities have a chance to increase your Haste by 20% for 18 seconds."
             }
         ],
         "characters": [
@@ -5708,7 +5708,7 @@
             },
             {
                 "name": "Infernal Contract",
-                "description": "Your abilities have a chance to increase your Haste by 20% for 18 seconds"
+                "description": "Your abilities have a chance to increase your Haste by 20% for 18 seconds."
             }
         ],
         "characters": [
@@ -5741,7 +5741,7 @@
             },
             {
                 "name": "Infernal Contract",
-                "description": "Your abilities have a chance to increase your Haste by 20% for 18 seconds"
+                "description": "Your abilities have a chance to increase your Haste by 20% for 18 seconds."
             }
         ],
         "characters": [
@@ -5774,7 +5774,7 @@
             },
             {
                 "name": "Infernal Contract",
-                "description": "Your abilities have a chance to increase your Haste by 20% for 18 seconds"
+                "description": "Your abilities have a chance to increase your Haste by 20% for 18 seconds."
             }
         ],
         "characters": [
@@ -6471,7 +6471,7 @@
         "sets": [
             {
                 "name": "Wyrmbound Pledge",
-                "description": "+8% Max Health\r\n+5% Critical Strike Power"
+                "description": "+5% Max Health\r\n+5% Critical Strike Power"
             },
             {
                 "name": "Wyrmbound Oath",
@@ -6479,7 +6479,7 @@
             },
             {
                 "name": "Wyrmbound Devotion",
-                "description": "Your Critical Strikes have a chance to increase your Intellect by 12% for 18s."
+                "description": "Your Critical Strikes have a chance to increase your Intellect by 12% for 18 seconds."
             }
         ],
         "characters": [
@@ -6505,7 +6505,7 @@
         "sets": [
             {
                 "name": "Wyrmbound Pledge",
-                "description": "+8% Max Health\r\n+5% Critical Strike Power"
+                "description": "+5% Max Health\r\n+5% Critical Strike Power"
             },
             {
                 "name": "Wyrmbound Oath",
@@ -6513,7 +6513,7 @@
             },
             {
                 "name": "Wyrmbound Devotion",
-                "description": "Your Critical Strikes have a chance to increase your Intellect by 12% for 18s."
+                "description": "Your Critical Strikes have a chance to increase your Intellect by 12% for 18 seconds."
             }
         ],
         "characters": [
@@ -6539,7 +6539,7 @@
         "sets": [
             {
                 "name": "Wyrmbound Pledge",
-                "description": "+8% Max Health\r\n+5% Critical Strike Power"
+                "description": "+5% Max Health\r\n+5% Critical Strike Power"
             },
             {
                 "name": "Wyrmbound Oath",
@@ -6547,7 +6547,7 @@
             },
             {
                 "name": "Wyrmbound Devotion",
-                "description": "Your Critical Strikes have a chance to increase your Intellect by 12% for 18s."
+                "description": "Your Critical Strikes have a chance to increase your Intellect by 12% for 18 seconds."
             }
         ],
         "characters": [
@@ -6573,7 +6573,7 @@
         "sets": [
             {
                 "name": "Wyrmbound Pledge",
-                "description": "+8% Max Health\r\n+5% Critical Strike Power"
+                "description": "+5% Max Health\r\n+5% Critical Strike Power"
             },
             {
                 "name": "Wyrmbound Oath",
@@ -6581,7 +6581,7 @@
             },
             {
                 "name": "Wyrmbound Devotion",
-                "description": "Your Critical Strikes have a chance to increase your Intellect by 12% for 18s."
+                "description": "Your Critical Strikes have a chance to increase your Intellect by 12% for 18 seconds."
             }
         ],
         "characters": [
@@ -6606,7 +6606,7 @@
         "sets": [
             {
                 "name": "Wyrmbound Pledge",
-                "description": "+8% Max Health\r\n+5% Critical Strike Power"
+                "description": "+5% Max Health\r\n+5% Critical Strike Power"
             },
             {
                 "name": "Wyrmbound Oath",
@@ -6614,7 +6614,7 @@
             },
             {
                 "name": "Wyrmbound Devotion",
-                "description": "Your Critical Strikes have a chance to increase your Intellect by 12% for 18s."
+                "description": "Your Critical Strikes have a chance to increase your Intellect by 12% for 18 seconds."
             }
         ],
         "characters": [
@@ -6640,7 +6640,7 @@
         "sets": [
             {
                 "name": "Wyrmbound Pledge",
-                "description": "+8% Max Health\r\n+5% Critical Strike Power"
+                "description": "+5% Max Health\r\n+5% Critical Strike Power"
             },
             {
                 "name": "Wyrmbound Oath",
@@ -6648,7 +6648,7 @@
             },
             {
                 "name": "Wyrmbound Devotion",
-                "description": "Your Critical Strikes have a chance to increase your Intellect by 12% for 18s."
+                "description": "Your Critical Strikes have a chance to increase your Intellect by 12% for 18 seconds."
             }
         ],
         "characters": [
@@ -6673,7 +6673,7 @@
         "sets": [
             {
                 "name": "Wyrmbound Pledge",
-                "description": "+8% Max Health\r\n+5% Critical Strike Power"
+                "description": "+5% Max Health\r\n+5% Critical Strike Power"
             },
             {
                 "name": "Wyrmbound Oath",
@@ -6681,7 +6681,7 @@
             },
             {
                 "name": "Wyrmbound Devotion",
-                "description": "Your Critical Strikes have a chance to increase your Intellect by 12% for 18s."
+                "description": "Your Critical Strikes have a chance to increase your Intellect by 12% for 18 seconds."
             }
         ],
         "characters": [
@@ -6860,7 +6860,7 @@
             },
             {
                 "name": "Infernal Contract",
-                "description": "Your abilities have a chance to increase your Haste by 20% for 18 seconds"
+                "description": "Your abilities have a chance to increase your Haste by 20% for 18 seconds."
             }
         ],
         "characters": [
@@ -6894,7 +6894,7 @@
             },
             {
                 "name": "Infernal Contract",
-                "description": "Your abilities have a chance to increase your Haste by 20% for 18 seconds"
+                "description": "Your abilities have a chance to increase your Haste by 20% for 18 seconds."
             }
         ],
         "characters": [
@@ -6928,7 +6928,7 @@
             },
             {
                 "name": "Infernal Contract",
-                "description": "Your abilities have a chance to increase your Haste by 20% for 18 seconds"
+                "description": "Your abilities have a chance to increase your Haste by 20% for 18 seconds."
             }
         ],
         "characters": [
@@ -6962,7 +6962,7 @@
             },
             {
                 "name": "Infernal Contract",
-                "description": "Your abilities have a chance to increase your Haste by 20% for 18 seconds"
+                "description": "Your abilities have a chance to increase your Haste by 20% for 18 seconds."
             }
         ],
         "characters": [
@@ -6995,7 +6995,7 @@
             },
             {
                 "name": "Infernal Contract",
-                "description": "Your abilities have a chance to increase your Haste by 20% for 18 seconds"
+                "description": "Your abilities have a chance to increase your Haste by 20% for 18 seconds."
             }
         ],
         "characters": [
@@ -7029,7 +7029,7 @@
             },
             {
                 "name": "Infernal Contract",
-                "description": "Your abilities have a chance to increase your Haste by 20% for 18 seconds"
+                "description": "Your abilities have a chance to increase your Haste by 20% for 18 seconds."
             }
         ],
         "characters": [
@@ -7062,7 +7062,7 @@
             },
             {
                 "name": "Infernal Contract",
-                "description": "Your abilities have a chance to increase your Haste by 20% for 18 seconds"
+                "description": "Your abilities have a chance to increase your Haste by 20% for 18 seconds."
             }
         ],
         "characters": [
@@ -8035,8 +8035,8 @@
             "Tariq"
         ],
         "power": {
-            "name": "Le Combat Rez",
-            "description": "Revives targeted dead player.<br/><span class=\"rtbold\">3 Minute Cooldown</span>"
+            "name": "Revive",
+            "description": "Ressurects target dead player. Useable in combat.<br/><span class=\"rtbold\">5 Minute Cooldown</span>"
         }
     },
     {
@@ -8061,8 +8061,8 @@
             "Rime"
         ],
         "power": {
-            "name": "Le Combat Rez",
-            "description": "Revives targeted dead player.<br/><span class=\"rtbold\">3 Minute Cooldown</span>"
+            "name": "Revive",
+            "description": "Ressurects target dead player. Useable in combat.<br/><span class=\"rtbold\">5 Minute Cooldown</span>"
         }
     },
     {
@@ -8085,8 +8085,8 @@
             "Meiko"
         ],
         "power": {
-            "name": "Le Combat Rez",
-            "description": "Revives targeted dead player.<br/><span class=\"rtbold\">3 Minute Cooldown</span>"
+            "name": "Revive",
+            "description": "Ressurects target dead player. Useable in combat.<br/><span class=\"rtbold\">5 Minute Cooldown</span>"
         }
     },
     {
@@ -8109,8 +8109,8 @@
             "Helena"
         ],
         "power": {
-            "name": "Epic Safeguard",
-            "description": "You and nearby allies gain a 50% damage reduction buff that lasts for 12 seconds.<br/><span class=\"rtbold\">3 Minute Cooldown</span>"
+            "name": "Sanctuary",
+            "description": "Grant 15% damage reduction to yourself and nearby allies for 15 seconds.<br/><span class=\"rtbold\">5 Minute Cooldown</span>"
         }
     },
     {
@@ -8133,8 +8133,8 @@
             "Meiko"
         ],
         "power": {
-            "name": "Epic Safeguard",
-            "description": "You and nearby allies gain a 50% damage reduction buff that lasts for 12 seconds.<br/><span class=\"rtbold\">3 Minute Cooldown</span>"
+            "name": "Sanctuary",
+            "description": "Grant 15% damage reduction to yourself and nearby allies for 15 seconds.<br/><span class=\"rtbold\">5 Minute Cooldown</span>"
         }
     }
 ]
