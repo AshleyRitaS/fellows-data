@@ -6,6 +6,7 @@ import NavBar from "./_components/NavBar";
 import { SpeedInsights } from "@vercel/speed-insights/next"
 
 import {GoogleAnalytics} from '@next/third-parties/google';
+import Footer from "./_components/Footer";
 
 const garamondFont = EB_Garamond({
   variable: '--font-eb-garamond',
@@ -44,6 +45,7 @@ export default function RootLayout({ children }) {
             {children}
           </div>
         </StoreProvider>
+        <Footer />
         <GoogleAnalytics gaId="G-481RYS0CXG"/>
         <SpeedInsights />
       </body>

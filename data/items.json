@@ -3,7 +3,7 @@
         "name": "Spaulders of Cithrel",
         "id": 90000,
         "type": "Shoulders",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17398",
         "stats": {
             "primary": [
                 "Stamina",
@@ -37,7 +37,7 @@
         "name": "Frostfang Cloak",
         "id": 90001,
         "type": "Back",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17399",
         "stats": {
             "primary": [
                 "Stamina",
@@ -71,7 +71,7 @@
         "name": "Handguards of Biting Frost",
         "id": 90002,
         "type": "Hands",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17400",
         "stats": {
             "primary": [
                 "Stamina",
@@ -105,7 +105,7 @@
         "name": "Legplates of Draconic Might",
         "id": 90003,
         "type": "Waist",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17401",
         "stats": {
             "primary": [
                 "Stamina",
@@ -139,7 +139,7 @@
         "name": "Commander's Locket",
         "id": 90004,
         "type": "Necklace",
-        "icon": "/images/Tex_TrophyIcons_105_b.png",
+        "icon": "/images/i17402",
         "stats": {
             "primary": [
                 "Stamina"
@@ -172,7 +172,7 @@
         "name": "Ice Tempered Vambraces",
         "id": 90005,
         "type": "Wrists",
-        "icon": "/images/Tex_bracers_11_b.png",
+        "icon": "/images/i17403",
         "stats": {
             "primary": [
                 "Stamina",
@@ -206,7 +206,7 @@
         "name": "Ring of Fealty",
         "id": 90006,
         "type": "Ring",
-        "icon": "/images/Tex_TrophyIcons_31_b.png",
+        "icon": "/images/i17404",
         "stats": {
             "primary": [
                 "Stamina"
@@ -239,7 +239,7 @@
         "name": "Fur-Lined Mitre",
         "id": 90007,
         "type": "Head",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17405",
         "stats": {
             "primary": [
                 "Stamina",
@@ -260,7 +260,7 @@
         "name": "Ice Floe Shroud",
         "id": 90008,
         "type": "Back",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17406",
         "stats": {
             "primary": [
                 "Stamina",
@@ -281,7 +281,7 @@
         "name": "Eldrin Bladesmith's Cuirass",
         "id": 90009,
         "type": "Chest",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17407",
         "stats": {
             "primary": [
                 "Stamina",
@@ -302,7 +302,7 @@
         "name": "Crystal Annealed Gauntlets",
         "id": 90010,
         "type": "Hands",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17408",
         "stats": {
             "primary": [
                 "Stamina",
@@ -323,7 +323,7 @@
         "name": "Tundra Greaves",
         "id": 90011,
         "type": "Feet",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17409",
         "stats": {
             "primary": [
                 "Stamina",
@@ -344,7 +344,7 @@
         "name": "Coldfire Talisman",
         "id": 90012,
         "type": "Necklace",
-        "icon": "/images/Tex_TrophyIcons_110_b.png",
+        "icon": "/images/i17410",
         "stats": {
             "primary": [
                 "Stamina"
@@ -364,7 +364,7 @@
         "name": "Seal of Eldrin Swiftness",
         "id": 90013,
         "type": "Ring",
-        "icon": "/images/Tex_TrophyIcons_03_b.png",
+        "icon": "/images/i17411",
         "stats": {
             "primary": [
                 "Stamina"
@@ -384,7 +384,7 @@
         "name": "Faceplate of the Destroyer",
         "id": 90014,
         "type": "Head",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17412",
         "stats": {
             "primary": [
                 "Stamina",
@@ -418,7 +418,7 @@
         "name": "Sacrificial Drape",
         "id": 90015,
         "type": "Back",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17413",
         "stats": {
             "primary": [
                 "Stamina",
@@ -452,7 +452,7 @@
         "name": "Executioner's Hauberk",
         "id": 90016,
         "type": "Chest",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17414",
         "stats": {
             "primary": [
                 "Stamina",
@@ -486,7 +486,7 @@
         "name": "Grim Sollerets",
         "id": 90017,
         "type": "Feet",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17415",
         "stats": {
             "primary": [
                 "Stamina",
@@ -520,7 +520,7 @@
         "name": "Imp Tooth Necklace",
         "id": 90018,
         "type": "Necklace",
-        "icon": "/images/Tex_TrophyIcons_19_b.png",
+        "icon": "/images/i17416",
         "stats": {
             "primary": [
                 "Stamina"
@@ -553,7 +553,7 @@
         "name": "Bracers of Hatred",
         "id": 90019,
         "type": "Wrists",
-        "icon": "/images/Tex_br_01_bg.png",
+        "icon": "/images/i17417",
         "stats": {
             "primary": [
                 "Stamina",
@@ -587,7 +587,7 @@
         "name": "Sickle's Loop of Ardor",
         "id": 90020,
         "type": "Ring",
-        "icon": "/images/Tex_TrophyIcons_28_b.png",
+        "icon": "/images/i17418",
         "stats": {
             "primary": [
                 "Stamina"
@@ -620,7 +620,7 @@
         "name": "Shoulderpads of Frenzy",
         "id": 90021,
         "type": "Shoulders",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17419",
         "stats": {
             "primary": [
                 "Stamina",
@@ -641,7 +641,7 @@
         "name": "Tribal Banner Cloak",
         "id": 90022,
         "type": "Back",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17420",
         "stats": {
             "primary": [
                 "Stamina",
@@ -662,7 +662,7 @@
         "name": "Raider's Gauntlets",
         "id": 90023,
         "type": "Hands",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17421",
         "stats": {
             "primary": [
                 "Stamina",
@@ -683,7 +683,7 @@
         "name": "Rampaging Legplates",
         "id": 90024,
         "type": "Waist",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17422",
         "stats": {
             "primary": [
                 "Stamina",
@@ -704,7 +704,7 @@
         "name": "Rabid Berserker's Sollerets",
         "id": 90025,
         "type": "Feet",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17423",
         "stats": {
             "primary": [
                 "Stamina",
@@ -725,7 +725,7 @@
         "name": "Torc of Banditry",
         "id": 90026,
         "type": "Necklace",
-        "icon": "/images/Tex_nk_04_bg.png",
+        "icon": "/images/i17424",
         "stats": {
             "primary": [
                 "Stamina"
@@ -745,7 +745,7 @@
         "name": "Scratched Cabochon Ring",
         "id": 90027,
         "type": "Ring",
-        "icon": "/images/Tex_TrophyIcons_47_b.png",
+        "icon": "/images/i17425",
         "stats": {
             "primary": [
                 "Stamina"
@@ -765,7 +765,7 @@
         "name": "Pauldrons of Eight",
         "id": 90028,
         "type": "Shoulders",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17426",
         "stats": {
             "primary": [
                 "Stamina",
@@ -799,7 +799,7 @@
         "name": "Third Mate's Capelet",
         "id": 90029,
         "type": "Back",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17427",
         "stats": {
             "primary": [
                 "Stamina",
@@ -833,7 +833,7 @@
         "name": "Cuirass of Pillaging",
         "id": 90030,
         "type": "Chest",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17428",
         "stats": {
             "primary": [
                 "Stamina",
@@ -867,7 +867,7 @@
         "name": "Cannoneer's Soulpowder Handguards",
         "id": 90031,
         "type": "Hands",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17429",
         "stats": {
             "primary": [
                 "Stamina",
@@ -901,7 +901,7 @@
         "name": "Shoal Boots",
         "id": 90032,
         "type": "Feet",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17430",
         "stats": {
             "primary": [
                 "Stamina",
@@ -935,7 +935,7 @@
         "name": "Chain-Shot Necklace",
         "id": 90033,
         "type": "Necklace",
-        "icon": "/images/Tex_TrophyIcons_64_b.png",
+        "icon": "/images/i17431",
         "stats": {
             "primary": [
                 "Stamina"
@@ -968,7 +968,7 @@
         "name": "Doubloon Ring",
         "id": 90034,
         "type": "Ring",
-        "icon": "/images/Tex_rings_02_b.png",
+        "icon": "/images/i17432",
         "stats": {
             "primary": [
                 "Stamina"
@@ -1001,7 +1001,7 @@
         "name": "Dredged Barbute",
         "id": 90035,
         "type": "Head",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17433",
         "stats": {
             "primary": [
                 "Stamina",
@@ -1022,7 +1022,7 @@
         "name": "Black Spot Greatcloak",
         "id": 90036,
         "type": "Back",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17434",
         "stats": {
             "primary": [
                 "Stamina",
@@ -1043,7 +1043,7 @@
         "name": "Salt-Pocked Legguards",
         "id": 90037,
         "type": "Waist",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17435",
         "stats": {
             "primary": [
                 "Stamina",
@@ -1064,7 +1064,7 @@
         "name": "Drowned Captain's Boots",
         "id": 90038,
         "type": "Feet",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17436",
         "stats": {
             "primary": [
                 "Stamina",
@@ -1085,7 +1085,7 @@
         "name": "Coral Lariat",
         "id": 90039,
         "type": "Necklace",
-        "icon": "/images/Tex_nk_05_bg.png",
+        "icon": "/images/i17437",
         "stats": {
             "primary": [
                 "Stamina"
@@ -1105,7 +1105,7 @@
         "name": "Ballast Wristguards",
         "id": 90040,
         "type": "Wrists",
-        "icon": "/images/Tex_L_br_01_bg.png",
+        "icon": "/images/i17438",
         "stats": {
             "primary": [
                 "Stamina",
@@ -1126,7 +1126,7 @@
         "name": "Wave-Worn Signet Ring",
         "id": 90041,
         "type": "Ring",
-        "icon": "/images/Tex_TrophyIcons_112_b.png",
+        "icon": "/images/i17439",
         "stats": {
             "primary": [
                 "Stamina"
@@ -1146,7 +1146,7 @@
         "name": "Gravedigger's Spaulders",
         "id": 90042,
         "type": "Shoulders",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17440",
         "stats": {
             "primary": [
                 "Stamina",
@@ -1167,7 +1167,7 @@
         "name": "Frayed Burial Shroud",
         "id": 90043,
         "type": "Back",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17441",
         "stats": {
             "primary": [
                 "Stamina",
@@ -1188,7 +1188,7 @@
         "name": "Battle-Ready Gauntlets",
         "id": 90044,
         "type": "Hands",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17442",
         "stats": {
             "primary": [
                 "Stamina",
@@ -1209,7 +1209,7 @@
         "name": "Sturdy Iron Tassets",
         "id": 90045,
         "type": "Waist",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17443",
         "stats": {
             "primary": [
                 "Stamina",
@@ -1230,7 +1230,7 @@
         "name": "Dented Armguards",
         "id": 90046,
         "type": "Wrists",
-        "icon": "/images/Tex_bracers_23_b.png",
+        "icon": "/images/i17444",
         "stats": {
             "primary": [
                 "Stamina",
@@ -1251,7 +1251,7 @@
         "name": "Fulgurite Pendant",
         "id": 90047,
         "type": "Necklace",
-        "icon": "/images/Tex_necklace_01_b.png",
+        "icon": "/images/i17445",
         "stats": {
             "primary": [
                 "Stamina"
@@ -1271,7 +1271,7 @@
         "name": "Glinting Spinel Band",
         "id": 90048,
         "type": "Ring",
-        "icon": "/images/Tex_rn_02_bg.png",
+        "icon": "/images/i17446",
         "stats": {
             "primary": [
                 "Stamina"
@@ -1291,7 +1291,7 @@
         "name": "Runic Vanguard's Pauldrons",
         "id": 90049,
         "type": "Shoulders",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17447",
         "stats": {
             "primary": [
                 "Stamina",
@@ -1325,7 +1325,7 @@
         "name": "Recruit's Standard Cloak",
         "id": 90050,
         "type": "Back",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17448",
         "stats": {
             "primary": [
                 "Stamina",
@@ -1359,7 +1359,7 @@
         "name": "Draconic Gauntlets",
         "id": 90051,
         "type": "Hands",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17449",
         "stats": {
             "primary": [
                 "Stamina",
@@ -1393,7 +1393,7 @@
         "name": "Sentinel Legguards",
         "id": 90052,
         "type": "Waist",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17450",
         "stats": {
             "primary": [
                 "Stamina",
@@ -1427,7 +1427,7 @@
         "name": "Pendant of Black Ice ",
         "id": 90053,
         "type": "Necklace",
-        "icon": "/images/Tex_TrophyIcons_105_b.png",
+        "icon": "/images/i17451",
         "stats": {
             "primary": [
                 "Stamina"
@@ -1460,7 +1460,7 @@
         "name": "Commander's Glacial Wristbands",
         "id": 90054,
         "type": "Wrists",
-        "icon": "/images/Tex_bracers_11_b.png",
+        "icon": "/images/i17452",
         "stats": {
             "primary": [
                 "Stamina",
@@ -1494,7 +1494,7 @@
         "name": "Frost-Covered Seal",
         "id": 90055,
         "type": "Ring",
-        "icon": "/images/Tex_TrophyIcons_31_b.png",
+        "icon": "/images/i17453",
         "stats": {
             "primary": [
                 "Stamina"
@@ -1527,7 +1527,7 @@
         "name": "Permafrost Helm",
         "id": 90056,
         "type": "Head",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17454",
         "stats": {
             "primary": [
                 "Stamina",
@@ -1548,7 +1548,7 @@
         "name": "Capelet of the Magistrate",
         "id": 90057,
         "type": "Back",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17455",
         "stats": {
             "primary": [
                 "Stamina",
@@ -1569,7 +1569,7 @@
         "name": "Dragonscale Raiment",
         "id": 90058,
         "type": "Chest",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17456",
         "stats": {
             "primary": [
                 "Stamina",
@@ -1590,7 +1590,7 @@
         "name": "Gauntlets of Bitter Cold",
         "id": 90059,
         "type": "Hands",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17457",
         "stats": {
             "primary": [
                 "Stamina",
@@ -1611,7 +1611,7 @@
         "name": "Sabatons of the Dragonpriest",
         "id": 90060,
         "type": "Feet",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17458",
         "stats": {
             "primary": [
                 "Stamina",
@@ -1632,7 +1632,7 @@
         "name": "Glacial Sprite Festoon",
         "id": 90061,
         "type": "Necklace",
-        "icon": "/images/Tex_TrophyIcons_110_b.png",
+        "icon": "/images/i17459",
         "stats": {
             "primary": [
                 "Stamina"
@@ -1652,7 +1652,7 @@
         "name": "Frostdrake Claw Loop",
         "id": 90062,
         "type": "Ring",
-        "icon": "/images/Tex_TrophyIcons_03_b.png",
+        "icon": "/images/i17460",
         "stats": {
             "primary": [
                 "Stamina"
@@ -1672,7 +1672,7 @@
         "name": "Stalwart Casque",
         "id": 90063,
         "type": "Head",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17461",
         "stats": {
             "primary": [
                 "Stamina",
@@ -1706,7 +1706,7 @@
         "name": "Demonslayer's Cape",
         "id": 90064,
         "type": "Back",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17462",
         "stats": {
             "primary": [
                 "Stamina",
@@ -1740,7 +1740,7 @@
         "name": "Temple Guardian's Cassock",
         "id": 90065,
         "type": "Chest",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17463",
         "stats": {
             "primary": [
                 "Stamina",
@@ -1774,7 +1774,7 @@
         "name": "Consecrated Greaves",
         "id": 90066,
         "type": "Feet",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17464",
         "stats": {
             "primary": [
                 "Stamina",
@@ -1808,7 +1808,7 @@
         "name": "Warding Amulet",
         "id": 90067,
         "type": "Necklace",
-        "icon": "/images/Tex_TrophyIcons_19_b.png",
+        "icon": "/images/i17465",
         "stats": {
             "primary": [
                 "Stamina"
@@ -1841,7 +1841,7 @@
         "name": "Sacral Vambraces",
         "id": 90068,
         "type": "Wrists",
-        "icon": "/images/Tex_br_01_bg.png",
+        "icon": "/images/i17466",
         "stats": {
             "primary": [
                 "Stamina",
@@ -1875,7 +1875,7 @@
         "name": "Bloodstone Band",
         "id": 90069,
         "type": "Ring",
-        "icon": "/images/Tex_TrophyIcons_28_b.png",
+        "icon": "/images/i17467",
         "stats": {
             "primary": [
                 "Stamina"
@@ -1908,7 +1908,7 @@
         "name": "Raider's Pauldrons",
         "id": 90070,
         "type": "Shoulders",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17468",
         "stats": {
             "primary": [
                 "Stamina",
@@ -1929,7 +1929,7 @@
         "name": "Torn Tapestry Cloak",
         "id": 90071,
         "type": "Back",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17469",
         "stats": {
             "primary": [
                 "Stamina",
@@ -1950,7 +1950,7 @@
         "name": "Marauder's Handguards",
         "id": 90072,
         "type": "Hands",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17470",
         "stats": {
             "primary": [
                 "Stamina",
@@ -1971,7 +1971,7 @@
         "name": "Boss's Fireproof Legplates",
         "id": 90073,
         "type": "Waist",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17471",
         "stats": {
             "primary": [
                 "Stamina",
@@ -1992,7 +1992,7 @@
         "name": "Scavenged Greaves",
         "id": 90074,
         "type": "Feet",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17472",
         "stats": {
             "primary": [
                 "Stamina",
@@ -2013,7 +2013,7 @@
         "name": "Invoker's Demonfire Chain",
         "id": 90075,
         "type": "Necklace",
-        "icon": "/images/Tex_nk_04_bg.png",
+        "icon": "/images/i17473",
         "stats": {
             "primary": [
                 "Stamina"
@@ -2033,7 +2033,7 @@
         "name": "Hired Burglar's Ring",
         "id": 90076,
         "type": "Ring",
-        "icon": "/images/Tex_TrophyIcons_47_b.png",
+        "icon": "/images/i17474",
         "stats": {
             "primary": [
                 "Stamina"
@@ -2053,7 +2053,7 @@
         "name": "Waterlogged Shoulderpads",
         "id": 90077,
         "type": "Shoulders",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17475",
         "stats": {
             "primary": [
                 "Stamina",
@@ -2087,7 +2087,7 @@
         "name": "Algae-Covered Shawl",
         "id": 90078,
         "type": "Back",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17476",
         "stats": {
             "primary": [
                 "Stamina",
@@ -2121,7 +2121,7 @@
         "name": "Gold Glimmering Breastplate",
         "id": 90079,
         "type": "Chest",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17477",
         "stats": {
             "primary": [
                 "Stamina",
@@ -2155,7 +2155,7 @@
         "name": "Exorcised Gauntlets",
         "id": 90080,
         "type": "Hands",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17478",
         "stats": {
             "primary": [
                 "Stamina",
@@ -2189,7 +2189,7 @@
         "name": "Bedecked Sabatons",
         "id": 90081,
         "type": "Feet",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17479",
         "stats": {
             "primary": [
                 "Stamina",
@@ -2223,7 +2223,7 @@
         "name": "Halyard Necklace",
         "id": 90082,
         "type": "Necklace",
-        "icon": "/images/Tex_TrophyIcons_64_b.png",
+        "icon": "/images/i17480",
         "stats": {
             "primary": [
                 "Stamina"
@@ -2256,7 +2256,7 @@
         "name": "Beguiling Ring",
         "id": 90083,
         "type": "Ring",
-        "icon": "/images/Tex_rings_02_b.png",
+        "icon": "/images/i17481",
         "stats": {
             "primary": [
                 "Stamina"
@@ -2289,7 +2289,7 @@
         "name": "Barnacled Mitre",
         "id": 90084,
         "type": "Head",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17482",
         "stats": {
             "primary": [
                 "Stamina",
@@ -2310,7 +2310,7 @@
         "name": "Shredded Topsail Cape",
         "id": 90085,
         "type": "Back",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17483",
         "stats": {
             "primary": [
                 "Stamina",
@@ -2331,7 +2331,7 @@
         "name": "Trawled Legplates",
         "id": 90086,
         "type": "Waist",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17484",
         "stats": {
             "primary": [
                 "Stamina",
@@ -2352,7 +2352,7 @@
         "name": "Tidepool Boots",
         "id": 90087,
         "type": "Feet",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17485",
         "stats": {
             "primary": [
                 "Stamina",
@@ -2373,7 +2373,7 @@
         "name": "Amulet of the Tides",
         "id": 90088,
         "type": "Necklace",
-        "icon": "/images/Tex_nk_05_bg.png",
+        "icon": "/images/i17486",
         "stats": {
             "primary": [
                 "Stamina"
@@ -2393,7 +2393,7 @@
         "name": "Chitinous Bands",
         "id": 90089,
         "type": "Wrists",
-        "icon": "/images/Tex_L_br_01_bg.png",
+        "icon": "/images/i17487",
         "stats": {
             "primary": [
                 "Stamina",
@@ -2414,7 +2414,7 @@
         "name": "Wavecaller's Signet",
         "id": 90090,
         "type": "Ring",
-        "icon": "/images/Tex_TrophyIcons_112_b.png",
+        "icon": "/images/i17488",
         "stats": {
             "primary": [
                 "Stamina"
@@ -2434,7 +2434,7 @@
         "name": "Inscribed Plate Amice",
         "id": 90091,
         "type": "Shoulders",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17489",
         "stats": {
             "primary": [
                 "Stamina",
@@ -2455,7 +2455,7 @@
         "name": "Sun-Bleached Greatcloak",
         "id": 90092,
         "type": "Back",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17490",
         "stats": {
             "primary": [
                 "Stamina",
@@ -2476,7 +2476,7 @@
         "name": "Unyielding Handguards",
         "id": 90093,
         "type": "Hands",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17491",
         "stats": {
             "primary": [
                 "Stamina",
@@ -2497,7 +2497,7 @@
         "name": "Crusader's Gilt Legguards",
         "id": 90094,
         "type": "Waist",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17492",
         "stats": {
             "primary": [
                 "Stamina",
@@ -2518,7 +2518,7 @@
         "name": "Rune-Etched Vambraces",
         "id": 90095,
         "type": "Wrists",
-        "icon": "/images/Tex_bracers_23_b.png",
+        "icon": "/images/i17493",
         "stats": {
             "primary": [
                 "Stamina",
@@ -2539,7 +2539,7 @@
         "name": "Glyphed Talisman",
         "id": 90096,
         "type": "Necklace",
-        "icon": "/images/Tex_necklace_01_b.png",
+        "icon": "/images/i17494",
         "stats": {
             "primary": [
                 "Stamina"
@@ -2559,7 +2559,7 @@
         "name": "Ornamental Beetle Ring",
         "id": 90097,
         "type": "Ring",
-        "icon": "/images/Tex_rn_02_bg.png",
+        "icon": "/images/i17495",
         "stats": {
             "primary": [
                 "Stamina"
@@ -2579,7 +2579,7 @@
         "name": "Frost-Pitted Mantle",
         "id": 90098,
         "type": "Shoulders",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17496",
         "stats": {
             "primary": [
                 "Stamina",
@@ -2613,7 +2613,7 @@
         "name": "Commander's Regal Drape",
         "id": 90099,
         "type": "Back",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17497",
         "stats": {
             "primary": [
                 "Stamina",
@@ -2647,7 +2647,7 @@
         "name": "Cold Iron Gauntlets",
         "id": 90100,
         "type": "Hands",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17498",
         "stats": {
             "primary": [
                 "Stamina",
@@ -2681,7 +2681,7 @@
         "name": "Recruits Standard Tassets\t",
         "id": 90101,
         "type": "Waist",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17499",
         "stats": {
             "primary": [
                 "Stamina",
@@ -2715,7 +2715,7 @@
         "name": "Bladed Talisman",
         "id": 90102,
         "type": "Necklace",
-        "icon": "/images/Tex_TrophyIcons_105_b.png",
+        "icon": "/images/i17500",
         "stats": {
             "primary": [
                 "Stamina"
@@ -2748,7 +2748,7 @@
         "name": "Frost-Covered Bindings",
         "id": 90103,
         "type": "Wrists",
-        "icon": "/images/Tex_bracers_11_b.png",
+        "icon": "/images/i17501",
         "stats": {
             "primary": [
                 "Stamina",
@@ -2782,7 +2782,7 @@
         "name": "Cithrel's Loop ",
         "id": 90104,
         "type": "Ring",
-        "icon": "/images/Tex_TrophyIcons_31_b.png",
+        "icon": "/images/i17502",
         "stats": {
             "primary": [
                 "Stamina"
@@ -2815,7 +2815,7 @@
         "name": "Coldheart's Sallet",
         "id": 90105,
         "type": "Head",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17503",
         "stats": {
             "primary": [
                 "Stamina",
@@ -2836,7 +2836,7 @@
         "name": "Frostwoven Greatcloak",
         "id": 90106,
         "type": "Back",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17504",
         "stats": {
             "primary": [
                 "Stamina",
@@ -2857,7 +2857,7 @@
         "name": "Frosted Iron Brigandine",
         "id": 90107,
         "type": "Chest",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17505",
         "stats": {
             "primary": [
                 "Stamina",
@@ -2878,7 +2878,7 @@
         "name": "Leather Lined Handguards",
         "id": 90108,
         "type": "Hands",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17506",
         "stats": {
             "primary": [
                 "Stamina",
@@ -2899,7 +2899,7 @@
         "name": "Well-Oiled Sollerets",
         "id": 90109,
         "type": "Feet",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17507",
         "stats": {
             "primary": [
                 "Stamina",
@@ -2920,7 +2920,7 @@
         "name": "Frostdrake Collar",
         "id": 90110,
         "type": "Necklace",
-        "icon": "/images/Tex_TrophyIcons_110_b.png",
+        "icon": "/images/i17508",
         "stats": {
             "primary": [
                 "Stamina"
@@ -2940,7 +2940,7 @@
         "name": "Hardened Glacial Ring",
         "id": 90111,
         "type": "Ring",
-        "icon": "/images/Tex_TrophyIcons_03_b.png",
+        "icon": "/images/i17509",
         "stats": {
             "primary": [
                 "Stamina"
@@ -2960,7 +2960,7 @@
         "name": "Hellcaller's Fiery Visage",
         "id": 90112,
         "type": "Head",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17510",
         "stats": {
             "primary": [
                 "Stamina",
@@ -2994,7 +2994,7 @@
         "name": "Greatcloak of the Lost",
         "id": 90113,
         "type": "Back",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17511",
         "stats": {
             "primary": [
                 "Stamina",
@@ -3028,7 +3028,7 @@
         "name": "Mancatcher's Roughened Chestplate",
         "id": 90114,
         "type": "Chest",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17512",
         "stats": {
             "primary": [
                 "Stamina",
@@ -3062,7 +3062,7 @@
         "name": "Bloodsoaked Sabatons",
         "id": 90115,
         "type": "Feet",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17513",
         "stats": {
             "primary": [
                 "Stamina",
@@ -3096,7 +3096,7 @@
         "name": "Profaned Pendant",
         "id": 90116,
         "type": "Necklace",
-        "icon": "/images/Tex_TrophyIcons_19_b.png",
+        "icon": "/images/i17514",
         "stats": {
             "primary": [
                 "Stamina"
@@ -3129,7 +3129,7 @@
         "name": "Sacrificial Cuffs",
         "id": 90117,
         "type": "Wrists",
-        "icon": "/images/Tex_br_01_bg.png",
+        "icon": "/images/i17515",
         "stats": {
             "primary": [
                 "Stamina",
@@ -3163,7 +3163,7 @@
         "name": "Blood Ruby Seal",
         "id": 90118,
         "type": "Ring",
-        "icon": "/images/Tex_TrophyIcons_28_b.png",
+        "icon": "/images/i17516",
         "stats": {
             "primary": [
                 "Stamina"
@@ -3196,7 +3196,7 @@
         "name": "Scavenged Spaulders",
         "id": 90119,
         "type": "Shoulders",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17517",
         "stats": {
             "primary": [
                 "Stamina",
@@ -3217,7 +3217,7 @@
         "name": "Oft-Mended Shroud",
         "id": 90120,
         "type": "Back",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17518",
         "stats": {
             "primary": [
                 "Stamina",
@@ -3238,7 +3238,7 @@
         "name": "Dark-Dyed Grips",
         "id": 90121,
         "type": "Hands",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17519",
         "stats": {
             "primary": [
                 "Stamina",
@@ -3259,7 +3259,7 @@
         "name": "Pillager's Legguards",
         "id": 90122,
         "type": "Waist",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17520",
         "stats": {
             "primary": [
                 "Stamina",
@@ -3280,7 +3280,7 @@
         "name": "Road Worn Boots",
         "id": 90123,
         "type": "Feet",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17521",
         "stats": {
             "primary": [
                 "Stamina",
@@ -3301,7 +3301,7 @@
         "name": "Rat Tooth Chain",
         "id": 90124,
         "type": "Necklace",
-        "icon": "/images/Tex_nk_04_bg.png",
+        "icon": "/images/i17522",
         "stats": {
             "primary": [
                 "Stamina"
@@ -3321,7 +3321,7 @@
         "name": "Looted Band",
         "id": 90125,
         "type": "Ring",
-        "icon": "/images/Tex_TrophyIcons_47_b.png",
+        "icon": "/images/i17523",
         "stats": {
             "primary": [
                 "Stamina"
@@ -3341,7 +3341,7 @@
         "name": "Bonebleached Spaulders",
         "id": 90126,
         "type": "Shoulders",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17524",
         "stats": {
             "primary": [
                 "Stamina",
@@ -3375,7 +3375,7 @@
         "name": "Shawl of Spare Sails",
         "id": 90127,
         "type": "Back",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17525",
         "stats": {
             "primary": [
                 "Stamina",
@@ -3409,7 +3409,7 @@
         "name": "Barnacled Brigandine",
         "id": 90128,
         "type": "Chest",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17526",
         "stats": {
             "primary": [
                 "Stamina",
@@ -3443,7 +3443,7 @@
         "name": "Water-Tight Oiled Gloves",
         "id": 90129,
         "type": "Hands",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17527",
         "stats": {
             "primary": [
                 "Stamina",
@@ -3477,7 +3477,7 @@
         "name": "Salt-Stained Greaves",
         "id": 90130,
         "type": "Feet",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17528",
         "stats": {
             "primary": [
                 "Stamina",
@@ -3511,7 +3511,7 @@
         "name": "Cursed Golden Torc",
         "id": 90131,
         "type": "Necklace",
-        "icon": "/images/Tex_TrophyIcons_64_b.png",
+        "icon": "/images/i17529",
         "stats": {
             "primary": [
                 "Stamina"
@@ -3544,7 +3544,7 @@
         "name": "Salted Patina Loop",
         "id": 90132,
         "type": "Ring",
-        "icon": "/images/Tex_rings_02_b.png",
+        "icon": "/images/i17530",
         "stats": {
             "primary": [
                 "Stamina"
@@ -3577,7 +3577,7 @@
         "name": "Dour Visage of the Drowned",
         "id": 90133,
         "type": "Head",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17531",
         "stats": {
             "primary": [
                 "Stamina",
@@ -3598,7 +3598,7 @@
         "name": "Oilskin Cloak",
         "id": 90134,
         "type": "Back",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17532",
         "stats": {
             "primary": [
                 "Stamina",
@@ -3619,7 +3619,7 @@
         "name": "Rusted Legplates",
         "id": 90135,
         "type": "Waist",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17533",
         "stats": {
             "primary": [
                 "Stamina",
@@ -3640,7 +3640,7 @@
         "name": "Kelp-Encrusted Greaves",
         "id": 90136,
         "type": "Feet",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17534",
         "stats": {
             "primary": [
                 "Stamina",
@@ -3661,7 +3661,7 @@
         "name": "Barnacled Talisman",
         "id": 90137,
         "type": "Necklace",
-        "icon": "/images/Tex_nk_05_bg.png",
+        "icon": "/images/i17535",
         "stats": {
             "primary": [
                 "Stamina"
@@ -3681,7 +3681,7 @@
         "name": "Split Ring Cuffs",
         "id": 90138,
         "type": "Wrists",
-        "icon": "/images/Tex_L_br_01_bg.png",
+        "icon": "/images/i17536",
         "stats": {
             "primary": [
                 "Stamina",
@@ -3702,7 +3702,7 @@
         "name": "Salt-Stained Loop",
         "id": 90139,
         "type": "Ring",
-        "icon": "/images/Tex_TrophyIcons_112_b.png",
+        "icon": "/images/i17537",
         "stats": {
             "primary": [
                 "Stamina"
@@ -3722,7 +3722,7 @@
         "name": "Sanded Metal Epaulets",
         "id": 90140,
         "type": "Shoulders",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17538",
         "stats": {
             "primary": [
                 "Stamina",
@@ -3743,7 +3743,7 @@
         "name": "Canvas Cloak",
         "id": 90141,
         "type": "Back",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17539",
         "stats": {
             "primary": [
                 "Stamina",
@@ -3764,7 +3764,7 @@
         "name": "Soldier's Grips\t",
         "id": 90142,
         "type": "Hands",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17540",
         "stats": {
             "primary": [
                 "Stamina",
@@ -3785,7 +3785,7 @@
         "name": "Once Possessed Legplates",
         "id": 90143,
         "type": "Waist",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17541",
         "stats": {
             "primary": [
                 "Stamina",
@@ -3806,7 +3806,7 @@
         "name": "Searing Metal Bands",
         "id": 90144,
         "type": "Wrists",
-        "icon": "/images/Tex_bracers_23_b.png",
+        "icon": "/images/i17542",
         "stats": {
             "primary": [
                 "Stamina",
@@ -3827,7 +3827,7 @@
         "name": "Barbarous Thorn Necklace",
         "id": 90145,
         "type": "Necklace",
-        "icon": "/images/Tex_necklace_01_b.png",
+        "icon": "/images/i17543",
         "stats": {
             "primary": [
                 "Stamina"
@@ -3847,7 +3847,7 @@
         "name": "Loop of Woven Wrappings",
         "id": 90146,
         "type": "Ring",
-        "icon": "/images/Tex_rn_02_bg.png",
+        "icon": "/images/i17544",
         "stats": {
             "primary": [
                 "Stamina"
@@ -3867,7 +3867,7 @@
         "name": "Fervent Recruit's Epaulets",
         "id": 90147,
         "type": "Shoulders",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17545",
         "stats": {
             "primary": [
                 "Stamina",
@@ -3901,7 +3901,7 @@
         "name": "Drakewing Greatcloak",
         "id": 90148,
         "type": "Back",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17546",
         "stats": {
             "primary": [
                 "Stamina",
@@ -3935,7 +3935,7 @@
         "name": "Tunic of the Ranger Commander",
         "id": 90149,
         "type": "Chest",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17547",
         "stats": {
             "primary": [
                 "Stamina",
@@ -3969,7 +3969,7 @@
         "name": "Brazen Handguards",
         "id": 90150,
         "type": "Hands",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17548",
         "stats": {
             "primary": [
                 "Stamina",
@@ -4003,7 +4003,7 @@
         "name": "Mirror Image's Greaves",
         "id": 90151,
         "type": "Feet",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17549",
         "stats": {
             "primary": [
                 "Stamina",
@@ -4037,7 +4037,7 @@
         "name": "Frostdrake Scale Pendant",
         "id": 90152,
         "type": "Necklace",
-        "icon": "/images/Tex_TrophyIcons_105_b.png",
+        "icon": "/images/i17550",
         "stats": {
             "primary": [
                 "Stamina"
@@ -4070,7 +4070,7 @@
         "name": "Meltwater Band",
         "id": 90153,
         "type": "Ring",
-        "icon": "/images/Tex_TrophyIcons_31_b.png",
+        "icon": "/images/i17551",
         "stats": {
             "primary": [
                 "Stamina"
@@ -4103,7 +4103,7 @@
         "name": "Regal Eldrin Hood",
         "id": 90154,
         "type": "Head",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17552",
         "stats": {
             "primary": [
                 "Stamina",
@@ -4124,7 +4124,7 @@
         "name": "Snow-Capped Drape",
         "id": 90155,
         "type": "Back",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17553",
         "stats": {
             "primary": [
                 "Stamina",
@@ -4145,7 +4145,7 @@
         "name": "Cinch of the Howling Winds",
         "id": 90156,
         "type": "Waist",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17554",
         "stats": {
             "primary": [
                 "Stamina",
@@ -4166,7 +4166,7 @@
         "name": "Tundra Stalker's Treads",
         "id": 90157,
         "type": "Feet",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17555",
         "stats": {
             "primary": [
                 "Stamina",
@@ -4187,7 +4187,7 @@
         "name": "Torc of Prowess",
         "id": 90158,
         "type": "Necklace",
-        "icon": "/images/Tex_TrophyIcons_110_b.png",
+        "icon": "/images/i17556",
         "stats": {
             "primary": [
                 "Stamina"
@@ -4207,7 +4207,7 @@
         "name": "Frostgrain Armguards",
         "id": 90159,
         "type": "Wrists",
-        "icon": "/images/Tex_fantom_br_bg.png",
+        "icon": "/images/i17557",
         "stats": {
             "primary": [
                 "Stamina",
@@ -4228,7 +4228,7 @@
         "name": "Ring of the Winter Storm",
         "id": 90160,
         "type": "Ring",
-        "icon": "/images/Tex_TrophyIcons_03_b.png",
+        "icon": "/images/i17558",
         "stats": {
             "primary": [
                 "Stamina"
@@ -4261,7 +4261,7 @@
         "name": "Hellfire Coif",
         "id": 90161,
         "type": "Head",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17559",
         "stats": {
             "primary": [
                 "Stamina",
@@ -4295,7 +4295,7 @@
         "name": "Cloak of the Demon Lord",
         "id": 90162,
         "type": "Back",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17560",
         "stats": {
             "primary": [
                 "Stamina",
@@ -4329,7 +4329,7 @@
         "name": "Grips of the Wretched",
         "id": 90163,
         "type": "Hands",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17561",
         "stats": {
             "primary": [
                 "Stamina",
@@ -4363,7 +4363,7 @@
         "name": "Furtive Scout's Cord",
         "id": 90164,
         "type": "Waist",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17562",
         "stats": {
             "primary": [
                 "Stamina",
@@ -4397,7 +4397,7 @@
         "name": "Demonskin Boots",
         "id": 90165,
         "type": "Feet",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17563",
         "stats": {
             "primary": [
                 "Stamina",
@@ -4431,7 +4431,7 @@
         "name": "Sulfurized Festoon",
         "id": 90166,
         "type": "Necklace",
-        "icon": "/images/Tex_TrophyIcons_19_b.png",
+        "icon": "/images/i17564",
         "stats": {
             "primary": [
                 "Stamina"
@@ -4464,7 +4464,7 @@
         "name": "Ring of Unnatural Fire",
         "id": 90167,
         "type": "Ring",
-        "icon": "/images/Tex_TrophyIcons_28_b.png",
+        "icon": "/images/i17565",
         "stats": {
             "primary": [
                 "Stamina"
@@ -4497,7 +4497,7 @@
         "name": "Wanderer's Shoulderpads",
         "id": 90168,
         "type": "Shoulders",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17566",
         "stats": {
             "primary": [
                 "Stamina",
@@ -4518,7 +4518,7 @@
         "name": "Cape of Lurking",
         "id": 90169,
         "type": "Back",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17567",
         "stats": {
             "primary": [
                 "Stamina",
@@ -4539,7 +4539,7 @@
         "name": "Bandit's Hauberk ",
         "id": 90170,
         "type": "Chest",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17568",
         "stats": {
             "primary": [
                 "Stamina",
@@ -4560,7 +4560,7 @@
         "name": "Brogg's Gloves of Pilfering",
         "id": 90171,
         "type": "Hands",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17569",
         "stats": {
             "primary": [
                 "Stamina",
@@ -4581,7 +4581,7 @@
         "name": "Misappropriated Lariat of Power",
         "id": 90172,
         "type": "Necklace",
-        "icon": "/images/Tex_nk_04_bg.png",
+        "icon": "/images/i17570",
         "stats": {
             "primary": [
                 "Stamina"
@@ -4601,7 +4601,7 @@
         "name": "Orcish Knave's Wristwraps",
         "id": 90173,
         "type": "Wrists",
-        "icon": "/images/Tex_ren_br_01_bg.png",
+        "icon": "/images/i17571",
         "stats": {
             "primary": [
                 "Stamina",
@@ -4622,7 +4622,7 @@
         "name": "Signet of Unclear Origin",
         "id": 90174,
         "type": "Ring",
-        "icon": "/images/Tex_TrophyIcons_47_b.png",
+        "icon": "/images/i17572",
         "stats": {
             "primary": [
                 "Stamina"
@@ -4642,7 +4642,7 @@
         "name": "Scallywag's Headband",
         "id": 90175,
         "type": "Head",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17573",
         "stats": {
             "primary": [
                 "Stamina",
@@ -4676,7 +4676,7 @@
         "name": "Entwined Seaweed Cloak",
         "id": 90176,
         "type": "Back",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17574",
         "stats": {
             "primary": [
                 "Stamina",
@@ -4710,7 +4710,7 @@
         "name": "Bonebleached Legwraps",
         "id": 90177,
         "type": "Waist",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17575",
         "stats": {
             "primary": [
                 "Stamina",
@@ -4744,7 +4744,7 @@
         "name": "Old Salt's Trusty Greaves",
         "id": 90178,
         "type": "Feet",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17576",
         "stats": {
             "primary": [
                 "Stamina",
@@ -4778,7 +4778,7 @@
         "name": "Necklace of Tangled Rigging",
         "id": 90179,
         "type": "Necklace",
-        "icon": "/images/Tex_TrophyIcons_64_b.png",
+        "icon": "/images/i17577",
         "stats": {
             "primary": [
                 "Stamina"
@@ -4811,7 +4811,7 @@
         "name": "Bracers of Slack Tide",
         "id": 90180,
         "type": "Wrists",
-        "icon": "/images/Tex_br_07_bg.png",
+        "icon": "/images/i17578",
         "stats": {
             "primary": [
                 "Stamina",
@@ -4845,7 +4845,7 @@
         "name": "Chip of Bael'aurum",
         "id": 90181,
         "type": "Ring",
-        "icon": "/images/Tex_rings_02_b.png",
+        "icon": "/images/i17579",
         "stats": {
             "primary": [
                 "Stamina"
@@ -4878,7 +4878,7 @@
         "name": "Batten Pauldrons",
         "id": 90182,
         "type": "Shoulders",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17580",
         "stats": {
             "primary": [
                 "Stamina",
@@ -4899,7 +4899,7 @@
         "name": "Shroud of Tidal Silt",
         "id": 90183,
         "type": "Back",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17581",
         "stats": {
             "primary": [
                 "Stamina",
@@ -4920,7 +4920,7 @@
         "name": "Brackish Harness",
         "id": 90184,
         "type": "Chest",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17582",
         "stats": {
             "primary": [
                 "Stamina",
@@ -4941,7 +4941,7 @@
         "name": "Keelhaulers Gloves",
         "id": 90185,
         "type": "Hands",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17583",
         "stats": {
             "primary": [
                 "Stamina",
@@ -4962,7 +4962,7 @@
         "name": "Azimuth Pendant",
         "id": 90186,
         "type": "Necklace",
-        "icon": "/images/Tex_nk_05_bg.png",
+        "icon": "/images/i17584",
         "stats": {
             "primary": [
                 "Stamina"
@@ -4982,7 +4982,7 @@
         "name": "Wisp-Tarnished Cuffs",
         "id": 90187,
         "type": "Wrists",
-        "icon": "/images/Tex_L_br_01_bg.png",
+        "icon": "/images/i17585",
         "stats": {
             "primary": [
                 "Stamina",
@@ -5003,7 +5003,7 @@
         "name": "Band of Unfathomable Depths",
         "id": 90188,
         "type": "Ring",
-        "icon": "/images/Tex_TrophyIcons_112_b.png",
+        "icon": "/images/i17586",
         "stats": {
             "primary": [
                 "Stamina"
@@ -5023,7 +5023,7 @@
         "name": "Excavation Lookout's Grips",
         "id": 90189,
         "type": "Head",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17587",
         "stats": {
             "primary": [
                 "Stamina",
@@ -5044,7 +5044,7 @@
         "name": "Crusader Longcloak",
         "id": 90190,
         "type": "Back",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17588",
         "stats": {
             "primary": [
                 "Stamina",
@@ -5065,7 +5065,7 @@
         "name": "Boneworn Hauberk",
         "id": 90191,
         "type": "Chest",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17589",
         "stats": {
             "primary": [
                 "Stamina",
@@ -5086,7 +5086,7 @@
         "name": "Scout's Greaves",
         "id": 90192,
         "type": "Feet",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17590",
         "stats": {
             "primary": [
                 "Stamina",
@@ -5107,7 +5107,7 @@
         "name": "Exhumed Pendant",
         "id": 90193,
         "type": "Necklace",
-        "icon": "/images/Tex_necklace_01_b.png",
+        "icon": "/images/i17591",
         "stats": {
             "primary": [
                 "Stamina"
@@ -5127,7 +5127,7 @@
         "name": "Scuffed Armguards",
         "id": 90194,
         "type": "Wrists",
-        "icon": "/images/Tex_bracers_23_b.png",
+        "icon": "/images/i17592",
         "stats": {
             "primary": [
                 "Stamina",
@@ -5148,7 +5148,7 @@
         "name": "Mercurial Ring of Swiftness",
         "id": 90195,
         "type": "Ring",
-        "icon": "/images/Tex_rn_02_bg.png",
+        "icon": "/images/i17593",
         "stats": {
             "primary": [
                 "Stamina"
@@ -5168,7 +5168,7 @@
         "name": "Noor's Frozen Shoulderpads",
         "id": 90245,
         "type": "Shoulders",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17643",
         "stats": {
             "primary": [
                 "Stamina",
@@ -5202,7 +5202,7 @@
         "name": "Frostdrake Pennant Cloak",
         "id": 90246,
         "type": "Back",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17644",
         "stats": {
             "primary": [
                 "Stamina",
@@ -5236,7 +5236,7 @@
         "name": "Frost-Infused Dragonhide",
         "id": 90247,
         "type": "Chest",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17645",
         "stats": {
             "primary": [
                 "Stamina",
@@ -5270,7 +5270,7 @@
         "name": "Grips of the Glacial Spring",
         "id": 90248,
         "type": "Hands",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17646",
         "stats": {
             "primary": [
                 "Stamina",
@@ -5304,7 +5304,7 @@
         "name": "Eldrin Initiate's Greaves",
         "id": 90249,
         "type": "Feet",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17647",
         "stats": {
             "primary": [
                 "Stamina",
@@ -5338,7 +5338,7 @@
         "name": "Elemental Guardian's Chain",
         "id": 90250,
         "type": "Necklace",
-        "icon": "/images/Tex_TrophyIcons_105_b.png",
+        "icon": "/images/i17648",
         "stats": {
             "primary": [
                 "Stamina"
@@ -5371,7 +5371,7 @@
         "name": "Gemmed Band of Violet Fire",
         "id": 90251,
         "type": "Ring",
-        "icon": "/images/Tex_TrophyIcons_31_b.png",
+        "icon": "/images/i17649",
         "stats": {
             "primary": [
                 "Stamina"
@@ -5404,7 +5404,7 @@
         "name": "Icicled Circlet",
         "id": 90252,
         "type": "Head",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17650",
         "stats": {
             "primary": [
                 "Stamina",
@@ -5425,7 +5425,7 @@
         "name": "Lichen-Coated Shawl",
         "id": 90253,
         "type": "Back",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17651",
         "stats": {
             "primary": [
                 "Stamina",
@@ -5446,7 +5446,7 @@
         "name": "Cavern Legguards",
         "id": 90254,
         "type": "Waist",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17652",
         "stats": {
             "primary": [
                 "Stamina",
@@ -5467,7 +5467,7 @@
         "name": "Footwraps of the Dragon's Fervor",
         "id": 90255,
         "type": "Feet",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17653",
         "stats": {
             "primary": [
                 "Stamina",
@@ -5488,7 +5488,7 @@
         "name": "Firn Pendant",
         "id": 90256,
         "type": "Necklace",
-        "icon": "/images/Tex_TrophyIcons_110_b.png",
+        "icon": "/images/i17654",
         "stats": {
             "primary": [
                 "Stamina"
@@ -5508,7 +5508,7 @@
         "name": "Duelist's Runed Bracers",
         "id": 90257,
         "type": "Wrists",
-        "icon": "/images/Tex_fantom_br_bg.png",
+        "icon": "/images/i17655",
         "stats": {
             "primary": [
                 "Stamina",
@@ -5529,7 +5529,7 @@
         "name": "Hailstone Band",
         "id": 90258,
         "type": "Ring",
-        "icon": "/images/Tex_TrophyIcons_03_b.png",
+        "icon": "/images/i17656",
         "stats": {
             "primary": [
                 "Stamina"
@@ -5549,7 +5549,7 @@
         "name": "Prophet's Hood of Ceremony",
         "id": 90259,
         "type": "Head",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17657",
         "stats": {
             "primary": [
                 "Stamina",
@@ -5583,7 +5583,7 @@
         "name": "Hardened Fur Shroud",
         "id": 90260,
         "type": "Back",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17658",
         "stats": {
             "primary": [
                 "Stamina",
@@ -5617,7 +5617,7 @@
         "name": "Bloodbound Wristwraps",
         "id": 90261,
         "type": "Hands",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17659",
         "stats": {
             "primary": [
                 "Stamina",
@@ -5651,7 +5651,7 @@
         "name": "Cinch of the Bonecarver",
         "id": 90262,
         "type": "Waist",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17660",
         "stats": {
             "primary": [
                 "Stamina",
@@ -5685,7 +5685,7 @@
         "name": "Demonic Herbalist's Boots",
         "id": 90263,
         "type": "Feet",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17661",
         "stats": {
             "primary": [
                 "Stamina",
@@ -5719,7 +5719,7 @@
         "name": "Feathered Collar",
         "id": 90264,
         "type": "Necklace",
-        "icon": "/images/Tex_TrophyIcons_19_b.png",
+        "icon": "/images/i17662",
         "stats": {
             "primary": [
                 "Stamina"
@@ -5752,7 +5752,7 @@
         "name": "Execration Ring",
         "id": 90265,
         "type": "Ring",
-        "icon": "/images/Tex_TrophyIcons_28_b.png",
+        "icon": "/images/i17663",
         "stats": {
             "primary": [
                 "Stamina"
@@ -5785,7 +5785,7 @@
         "name": "Mantle of the Shadow Stalker",
         "id": 90266,
         "type": "Shoulders",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17664",
         "stats": {
             "primary": [
                 "Stamina",
@@ -5806,7 +5806,7 @@
         "name": "Cloak of Unidentifiable Pelts",
         "id": 90267,
         "type": "Back",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17665",
         "stats": {
             "primary": [
                 "Stamina",
@@ -5827,7 +5827,7 @@
         "name": "Trapper's Sheared Furs",
         "id": 90268,
         "type": "Chest",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17666",
         "stats": {
             "primary": [
                 "Stamina",
@@ -5848,7 +5848,7 @@
         "name": "Mancatcher's Mitts",
         "id": 90269,
         "type": "Hands",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17667",
         "stats": {
             "primary": [
                 "Stamina",
@@ -5869,7 +5869,7 @@
         "name": "Dire Rattail Talisman",
         "id": 90270,
         "type": "Necklace",
-        "icon": "/images/Tex_nk_04_bg.png",
+        "icon": "/images/i17668",
         "stats": {
             "primary": [
                 "Stamina"
@@ -5889,7 +5889,7 @@
         "name": "Scrap-Leather Bindings",
         "id": 90271,
         "type": "Wrists",
-        "icon": "/images/Tex_ren_br_01_bg.png",
+        "icon": "/images/i17669",
         "stats": {
             "primary": [
                 "Stamina",
@@ -5910,7 +5910,7 @@
         "name": "Etched Forest Band",
         "id": 90272,
         "type": "Ring",
-        "icon": "/images/Tex_TrophyIcons_47_b.png",
+        "icon": "/images/i17670",
         "stats": {
             "primary": [
                 "Stamina"
@@ -5930,7 +5930,7 @@
         "name": "Riptide Coronet",
         "id": 90273,
         "type": "Head",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17671",
         "stats": {
             "primary": [
                 "Stamina",
@@ -5964,7 +5964,7 @@
         "name": "Seagrass Drape",
         "id": 90274,
         "type": "Back",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17672",
         "stats": {
             "primary": [
                 "Stamina",
@@ -5998,7 +5998,7 @@
         "name": "Sharkskin Clasp",
         "id": 90275,
         "type": "Waist",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17673",
         "stats": {
             "primary": [
                 "Stamina",
@@ -6032,7 +6032,7 @@
         "name": "Jungle Stalker Footwraps",
         "id": 90276,
         "type": "Feet",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17674",
         "stats": {
             "primary": [
                 "Stamina",
@@ -6066,7 +6066,7 @@
         "name": "Whelk Pendant",
         "id": 90277,
         "type": "Necklace",
-        "icon": "/images/Tex_TrophyIcons_64_b.png",
+        "icon": "/images/i17675",
         "stats": {
             "primary": [
                 "Stamina"
@@ -6099,7 +6099,7 @@
         "name": "Cutthroat Cuffs",
         "id": 90278,
         "type": "Wrists",
-        "icon": "/images/Tex_br_07_bg.png",
+        "icon": "/images/i17676",
         "stats": {
             "primary": [
                 "Stamina",
@@ -6133,7 +6133,7 @@
         "name": "Sharktooth Band",
         "id": 90279,
         "type": "Ring",
-        "icon": "/images/Tex_rings_02_b.png",
+        "icon": "/images/i17677",
         "stats": {
             "primary": [
                 "Stamina"
@@ -6166,7 +6166,7 @@
         "name": "Saltworn Pauldrons",
         "id": 90280,
         "type": "Shoulders",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17678",
         "stats": {
             "primary": [
                 "Stamina",
@@ -6187,7 +6187,7 @@
         "name": "Frayed Net Cape",
         "id": 90281,
         "type": "Back",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17679",
         "stats": {
             "primary": [
                 "Stamina",
@@ -6208,7 +6208,7 @@
         "name": "Oilskin Tunic",
         "id": 90282,
         "type": "Chest",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17680",
         "stats": {
             "primary": [
                 "Stamina",
@@ -6229,7 +6229,7 @@
         "name": "Briny Claws",
         "id": 90283,
         "type": "Hands",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17681",
         "stats": {
             "primary": [
                 "Stamina",
@@ -6250,7 +6250,7 @@
         "name": "Elemental's Festoon",
         "id": 90284,
         "type": "Necklace",
-        "icon": "/images/Tex_nk_05_bg.png",
+        "icon": "/images/i17682",
         "stats": {
             "primary": [
                 "Stamina"
@@ -6270,7 +6270,7 @@
         "name": "Wild Bindings",
         "id": 90285,
         "type": "Wrists",
-        "icon": "/images/Tex_L_br_01_bg.png",
+        "icon": "/images/i17683",
         "stats": {
             "primary": [
                 "Stamina",
@@ -6291,7 +6291,7 @@
         "name": "Freshwater Pearl Ring",
         "id": 90286,
         "type": "Ring",
-        "icon": "/images/Tex_TrophyIcons_112_b.png",
+        "icon": "/images/i17684",
         "stats": {
             "primary": [
                 "Stamina"
@@ -6311,7 +6311,7 @@
         "name": "Thorned Circlet",
         "id": 90287,
         "type": "Head",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17685",
         "stats": {
             "primary": [
                 "Stamina",
@@ -6332,7 +6332,7 @@
         "name": "Reed-Woven Cloak",
         "id": 90288,
         "type": "Back",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17686",
         "stats": {
             "primary": [
                 "Stamina",
@@ -6353,7 +6353,7 @@
         "name": "Root-Stitched Hide",
         "id": 90289,
         "type": "Chest",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17687",
         "stats": {
             "primary": [
                 "Stamina",
@@ -6374,7 +6374,7 @@
         "name": "Nomad's Boots",
         "id": 90290,
         "type": "Feet",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17688",
         "stats": {
             "primary": [
                 "Stamina",
@@ -6395,7 +6395,7 @@
         "name": "Rootbound Amulet",
         "id": 90291,
         "type": "Necklace",
-        "icon": "/images/Tex_necklace_01_b.png",
+        "icon": "/images/i17689",
         "stats": {
             "primary": [
                 "Stamina"
@@ -6415,7 +6415,7 @@
         "name": "Lasher-Vine Wristwraps",
         "id": 90292,
         "type": "Wrists",
-        "icon": "/images/Tex_bracers_23_b.png",
+        "icon": "/images/i17690",
         "stats": {
             "primary": [
                 "Stamina",
@@ -6436,7 +6436,7 @@
         "name": "Sintered Quartz Seal",
         "id": 90293,
         "type": "Ring",
-        "icon": "/images/Tex_rn_02_bg.png",
+        "icon": "/images/i17691",
         "stats": {
             "primary": [
                 "Stamina"
@@ -6456,7 +6456,7 @@
         "name": "Fur Trim Cloak",
         "id": 90294,
         "type": "Back",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17692",
         "stats": {
             "primary": [
                 "Stamina",
@@ -6490,7 +6490,7 @@
         "name": "Illusionist's Surcoat",
         "id": 90295,
         "type": "Chest",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17693",
         "stats": {
             "primary": [
                 "Stamina",
@@ -6524,7 +6524,7 @@
         "name": "Scribe Leggings",
         "id": 90296,
         "type": "Waist",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17694",
         "stats": {
             "primary": [
                 "Stamina",
@@ -6558,7 +6558,7 @@
         "name": "Polar Treads",
         "id": 90297,
         "type": "Feet",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17695",
         "stats": {
             "primary": [
                 "Stamina",
@@ -6592,7 +6592,7 @@
         "name": "Crystallized Amulet",
         "id": 90298,
         "type": "Necklace",
-        "icon": "/images/Tex_TrophyIcons_105_b.png",
+        "icon": "/images/i17696",
         "stats": {
             "primary": [
                 "Stamina"
@@ -6625,7 +6625,7 @@
         "name": "Frostbitten Bindings",
         "id": 90299,
         "type": "Wrists",
-        "icon": "/images/Tex_bracers_11_b.png",
+        "icon": "/images/i17697",
         "stats": {
             "primary": [
                 "Stamina",
@@ -6659,7 +6659,7 @@
         "name": "Ring of the Elemental Corruptor",
         "id": 90300,
         "type": "Ring",
-        "icon": "/images/Tex_TrophyIcons_31_b.png",
+        "icon": "/images/i17698",
         "stats": {
             "primary": [
                 "Stamina"
@@ -6692,7 +6692,7 @@
         "name": "Scholar's Headscarf",
         "id": 90301,
         "type": "Head",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17699",
         "stats": {
             "primary": [
                 "Stamina",
@@ -6713,7 +6713,7 @@
         "name": "Magistrate's Amice",
         "id": 90302,
         "type": "Shoulders",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17700",
         "stats": {
             "primary": [
                 "Stamina",
@@ -6734,7 +6734,7 @@
         "name": "Cape of Frozen Waters",
         "id": 90303,
         "type": "Back",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17701",
         "stats": {
             "primary": [
                 "Stamina",
@@ -6755,7 +6755,7 @@
         "name": "Wintry Handwraps",
         "id": 90304,
         "type": "Hands",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17702",
         "stats": {
             "primary": [
                 "Stamina",
@@ -6776,7 +6776,7 @@
         "name": "Frostdrake Summoner's Boots",
         "id": 90305,
         "type": "Feet",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17703",
         "stats": {
             "primary": [
                 "Stamina",
@@ -6797,7 +6797,7 @@
         "name": "Frozen Shardling Necklace",
         "id": 90306,
         "type": "Necklace",
-        "icon": "/images/Tex_TrophyIcons_110_b.png",
+        "icon": "/images/i17704",
         "stats": {
             "primary": [
                 "Stamina"
@@ -6817,7 +6817,7 @@
         "name": "Moraine Ring",
         "id": 90307,
         "type": "Ring",
-        "icon": "/images/Tex_TrophyIcons_03_b.png",
+        "icon": "/images/i17705",
         "stats": {
             "primary": [
                 "Stamina"
@@ -6837,7 +6837,7 @@
         "name": "Shawl of Infernal Rites",
         "id": 90308,
         "type": "Back",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17706",
         "stats": {
             "primary": [
                 "Stamina",
@@ -6871,7 +6871,7 @@
         "name": "Ritualist's Gown",
         "id": 90309,
         "type": "Chest",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17707",
         "stats": {
             "primary": [
                 "Stamina",
@@ -6905,7 +6905,7 @@
         "name": "Sash of Allocution",
         "id": 90310,
         "type": "Waist",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17708",
         "stats": {
             "primary": [
                 "Stamina",
@@ -6939,7 +6939,7 @@
         "name": "Moar'Gore's Bloodstained Footwraps",
         "id": 90311,
         "type": "Feet",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17709",
         "stats": {
             "primary": [
                 "Stamina",
@@ -6973,7 +6973,7 @@
         "name": "Sacrificial Initiate's Lariat",
         "id": 90312,
         "type": "Necklace",
-        "icon": "/images/Tex_TrophyIcons_19_b.png",
+        "icon": "/images/i17710",
         "stats": {
             "primary": [
                 "Stamina"
@@ -7006,7 +7006,7 @@
         "name": "Oracle Wristwraps",
         "id": 90313,
         "type": "Wrists",
-        "icon": "/images/Tex_br_01_bg.png",
+        "icon": "/images/i17711",
         "stats": {
             "primary": [
                 "Stamina",
@@ -7040,7 +7040,7 @@
         "name": "Loop of Shed Demonskin",
         "id": 90314,
         "type": "Ring",
-        "icon": "/images/Tex_TrophyIcons_28_b.png",
+        "icon": "/images/i17712",
         "stats": {
             "primary": [
                 "Stamina"
@@ -7073,7 +7073,7 @@
         "name": "Shaman's Mask of Renewal",
         "id": 90315,
         "type": "Head",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17713",
         "stats": {
             "primary": [
                 "Stamina",
@@ -7094,7 +7094,7 @@
         "name": "Mantle of the Profane",
         "id": 90316,
         "type": "Shoulders",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17714",
         "stats": {
             "primary": [
                 "Stamina",
@@ -7115,7 +7115,7 @@
         "name": "Patchwork Rat Fur Cape",
         "id": 90317,
         "type": "Back",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17715",
         "stats": {
             "primary": [
                 "Stamina",
@@ -7136,7 +7136,7 @@
         "name": "Grasp of the Invoker",
         "id": 90318,
         "type": "Hands",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17716",
         "stats": {
             "primary": [
                 "Stamina",
@@ -7157,7 +7157,7 @@
         "name": "Mystic's Purloined Talisman",
         "id": 90319,
         "type": "Necklace",
-        "icon": "/images/Tex_nk_04_bg.png",
+        "icon": "/images/i17717",
         "stats": {
             "primary": [
                 "Stamina"
@@ -7177,7 +7177,7 @@
         "name": "Vandals Bracers",
         "id": 90320,
         "type": "Wrists",
-        "icon": "/images/Tex_ren_br_01_bg.png",
+        "icon": "/images/i17718",
         "stats": {
             "primary": [
                 "Stamina",
@@ -7198,7 +7198,7 @@
         "name": "Absconder's Jeweled Loop",
         "id": 90321,
         "type": "Ring",
-        "icon": "/images/Tex_TrophyIcons_47_b.png",
+        "icon": "/images/i17719",
         "stats": {
             "primary": [
                 "Stamina"
@@ -7218,7 +7218,7 @@
         "name": "Headscarf of the First Mate",
         "id": 90322,
         "type": "Head",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17720",
         "stats": {
             "primary": [
                 "Stamina",
@@ -7252,7 +7252,7 @@
         "name": "Belaying Pin Ring",
         "id": 90323,
         "type": "Back",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17721",
         "stats": {
             "primary": [
                 "Stamina",
@@ -7286,7 +7286,7 @@
         "name": "Gloves of Deceptive Narrows",
         "id": 90324,
         "type": "Hands",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17722",
         "stats": {
             "primary": [
                 "Stamina",
@@ -7320,7 +7320,7 @@
         "name": "Seafarer's Bindings",
         "id": 90325,
         "type": "Waist",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17723",
         "stats": {
             "primary": [
                 "Stamina",
@@ -7354,7 +7354,7 @@
         "name": "Landfall Treads",
         "id": 90326,
         "type": "Feet",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17724",
         "stats": {
             "primary": [
                 "Stamina",
@@ -7388,7 +7388,7 @@
         "name": "Soulpowder Crystal Pendant",
         "id": 90327,
         "type": "Necklace",
-        "icon": "/images/Tex_TrophyIcons_64_b.png",
+        "icon": "/images/i17725",
         "stats": {
             "primary": [
                 "Stamina"
@@ -7421,7 +7421,7 @@
         "name": "Gemstone Ring",
         "id": 90328,
         "type": "Ring",
-        "icon": "/images/Tex_rings_02_b.png",
+        "icon": "/images/i17726",
         "stats": {
             "primary": [
                 "Stamina"
@@ -7454,7 +7454,7 @@
         "name": "Sunbleached Pauldrons",
         "id": 90329,
         "type": "Shoulders",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17727",
         "stats": {
             "primary": [
                 "Stamina",
@@ -7475,7 +7475,7 @@
         "name": "Torn Sailcloth Drape",
         "id": 90330,
         "type": "Back",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17728",
         "stats": {
             "primary": [
                 "Stamina",
@@ -7496,7 +7496,7 @@
         "name": "Kelp-Woven Doublet",
         "id": 90331,
         "type": "Chest",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17729",
         "stats": {
             "primary": [
                 "Stamina",
@@ -7517,7 +7517,7 @@
         "name": "Bosun's Mitts",
         "id": 90332,
         "type": "Hands",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17730",
         "stats": {
             "primary": [
                 "Stamina",
@@ -7538,7 +7538,7 @@
         "name": "Ancient Mariner's Necklace",
         "id": 90333,
         "type": "Necklace",
-        "icon": "/images/Tex_nk_05_bg.png",
+        "icon": "/images/i17731",
         "stats": {
             "primary": [
                 "Stamina"
@@ -7558,7 +7558,7 @@
         "name": "Bracers of Collapsing Waves",
         "id": 90334,
         "type": "Wrists",
-        "icon": "/images/Tex_L_br_01_bg.png",
+        "icon": "/images/i17732",
         "stats": {
             "primary": [
                 "Stamina",
@@ -7579,7 +7579,7 @@
         "name": "Seal of the Geomancer",
         "id": 90335,
         "type": "Ring",
-        "icon": "/images/Tex_TrophyIcons_112_b.png",
+        "icon": "/images/i17733",
         "stats": {
             "primary": [
                 "Stamina"
@@ -7599,7 +7599,7 @@
         "name": "Necromancer's Pauldrons",
         "id": 90336,
         "type": "Shoulders",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17734",
         "stats": {
             "primary": [
                 "Stamina",
@@ -7620,7 +7620,7 @@
         "name": "Desert Acolyte's Shroud\t",
         "id": 90337,
         "type": "Back",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17735",
         "stats": {
             "primary": [
                 "Stamina",
@@ -7641,7 +7641,7 @@
         "name": "Soul-Stitched Sarong",
         "id": 90338,
         "type": "Waist",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17736",
         "stats": {
             "primary": [
                 "Stamina",
@@ -7662,7 +7662,7 @@
         "name": "Tombwalker's Sandals",
         "id": 90339,
         "type": "Feet",
-        "icon": "/images/Tex_Gem_61.png",
+        "icon": "/images/i17737",
         "stats": {
             "primary": [
                 "Stamina",
@@ -7683,7 +7683,7 @@
         "name": "Oasis Amulet of Spirit",
         "id": 90340,
         "type": "Necklace",
-        "icon": "/images/Tex_necklace_01_b.png",
+        "icon": "/images/i17738",
         "stats": {
             "primary": [
                 "Stamina"
@@ -7703,7 +7703,7 @@
         "name": "Funerary Wraps",
         "id": 90341,
         "type": "Wrists",
-        "icon": "/images/Tex_bracers_23_b.png",
+        "icon": "/images/i17739",
         "stats": {
             "primary": [
                 "Stamina",
@@ -7724,7 +7724,7 @@
         "name": "Esoteric Seal of Haste",
         "id": 90342,
         "type": "Ring",
-        "icon": "/images/Tex_rn_02_bg.png",
+        "icon": "/images/i17740",
         "stats": {
             "primary": [
                 "Stamina"
@@ -7744,7 +7744,7 @@
         "name": "Troll's Blood Potion",
         "id": 90392,
         "type": "Relic",
-        "icon": "/images/Tex_WitchCraftIcons_88_b.png",
+        "icon": "/images/i17790",
         "stats": {
             "primary": [
                 "Strength"
@@ -7769,7 +7769,7 @@
         "name": "Troll's Blood Potion",
         "id": 90393,
         "type": "Relic",
-        "icon": "/images/Tex_WitchCraftIcons_88_b.png",
+        "icon": "/images/i17791",
         "stats": {
             "primary": [
                 "Intellect"
@@ -7795,7 +7795,7 @@
         "name": "Troll's Blood Potion",
         "id": 90394,
         "type": "Relic",
-        "icon": "/images/Tex_WitchCraftIcons_88_b.png",
+        "icon": "/images/i17792",
         "stats": {
             "primary": [
                 "Agility"
@@ -7819,7 +7819,7 @@
         "name": "Vial of Moonlight",
         "id": 90395,
         "type": "Relic",
-        "icon": "/images/T_Nhance_RPG_Icons_ManaCup.png",
+        "icon": "/images/i17793",
         "stats": {
             "primary": [
                 "Intellect"
@@ -7844,7 +7844,7 @@
         "name": "Ancient Wardstone",
         "id": 90396,
         "type": "Relic",
-        "icon": "/images/T_Nhance_RPG_Icons_DeathLantern.png",
+        "icon": "/images/i17794",
         "stats": {
             "primary": [
                 "Intellect"
@@ -7869,7 +7869,7 @@
         "name": "Shards of the Entralled Elemental",
         "id": 90397,
         "type": "Relic",
-        "icon": "/images/Tex_shard_b_04.png",
+        "icon": "/images/i17795",
         "stats": {
             "primary": [
                 "Strength"
@@ -7894,7 +7894,7 @@
         "name": "Shards of the Entralled Elemental",
         "id": 90398,
         "type": "Relic",
-        "icon": "/images/Tex_shard_b_04.png",
+        "icon": "/images/i17796",
         "stats": {
             "primary": [
                 "Intellect"
@@ -7920,7 +7920,7 @@
         "name": "Shards of the Entralled Elemental",
         "id": 90399,
         "type": "Relic",
-        "icon": "/images/Tex_shard_b_04.png",
+        "icon": "/images/i17797",
         "stats": {
             "primary": [
                 "Agility"
@@ -7944,7 +7944,7 @@
         "name": "Chieftan's Wardrums",
         "id": 90400,
         "type": "Relic",
-        "icon": "/images/Tex_mi_b_02.png",
+        "icon": "/images/i17798",
         "stats": {
             "primary": [
                 "Strength"
@@ -7968,7 +7968,7 @@
         "name": "Chieftan's Wardrums",
         "id": 90401,
         "type": "Relic",
-        "icon": "/images/Tex_mi_b_02.png",
+        "icon": "/images/i17799",
         "stats": {
             "primary": [
                 "Intellect"
@@ -7994,7 +7994,7 @@
         "name": "Chieftan's Wardrums",
         "id": 90402,
         "type": "Relic",
-        "icon": "/images/Tex_mi_b_02.png",
+        "icon": "/images/i17800",
         "stats": {
             "primary": [
                 "Agility"
@@ -8018,7 +8018,7 @@
         "name": "Ez'roth's Grimmoire",
         "id": 90403,
         "type": "Relic",
-        "icon": "/images/Tex_book_02_b.png",
+        "icon": "/images/i17801",
         "stats": {
             "primary": [
                 "Strength"
@@ -8043,7 +8043,7 @@
         "name": "Ez'roth's Grimmoire",
         "id": 90404,
         "type": "Relic",
-        "icon": "/images/Tex_book_02_b.png",
+        "icon": "/images/i17802",
         "stats": {
             "primary": [
                 "Intellect"
@@ -8069,7 +8069,7 @@
         "name": "Ez'roth's Grimmoire",
         "id": 90405,
         "type": "Relic",
-        "icon": "/images/Tex_book_02_b.png",
+        "icon": "/images/i17803",
         "stats": {
             "primary": [
                 "Agility"
@@ -8093,7 +8093,7 @@
         "name": "Captain's Crooked Dice",
         "id": 90406,
         "type": "Relic",
-        "icon": "/images/Tex_dice_b_01.png",
+        "icon": "/images/i17804",
         "stats": {
             "primary": [
                 "Strength"
@@ -8117,7 +8117,7 @@
         "name": "Captain's Crooked Dice",
         "id": 90407,
         "type": "Relic",
-        "icon": "/images/Tex_dice_b_01.png",
+        "icon": "/images/i17805",
         "stats": {
             "primary": [
                 "Agility"
