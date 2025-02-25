@@ -22,7 +22,7 @@ export default function ComponentIcon({enemyID}) {
 
     return (
         <span onClick={onClick} onMouseEnter={()=>dispatch(newEnemy(enemy.id))} className={"componentIcon " + (enemy?.className || '')}>
-            <Image height={20} width={20} alt="Icon for enemy" style={{"borderColor":color}}src={enemy.icon}/>
+            <Image height={20} width={20} alt="Icon for enemy" style={{"borderColor":color}}src={enemy?.icon}/>
         </span>
     )
 }
