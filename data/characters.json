@@ -7,7 +7,7 @@
                 "name": "Leader's Conviction",
                 "description": "Your damage reduction from <span class=\"rtmana\">Toughness</span> is shared with all allies for 12 seconds. <br/>While <span class=\"rtabsorb\">Leader's Conviction</span> is active you deal <span class=\"rtwarning\">15% increased damage</span>.<br/><span class=\"rtabsorb\">SPIRIT ABILITY</span><br/><span class=\"rtgreyitalic\">When you activate your Spirit ability you gain </span><span class=\"rtabsorb\"> Spirit of Heroism</span><span class=\"rtgreyitalic\">, granting +30% Haste for 20 sec.</span>",
                 "levelLearned": 1,
-                "icon": "/images/i15837",
+                "icon": "/images/i15837.png",
                 "other": {},
                 "cooldown": 0,
                 "cost": 100,
@@ -21,7 +21,7 @@
                 "name": "Measured Strike",
                 "description": "Deal <span class=\"rtwarning\">113% Strength </span>damage to target enemy.<br/>Generates  <span class=\"rtmana\">1 Combo Point</span>.",
                 "levelLearned": 0,
-                "icon": "/images/i15827",
+                "icon": "/images/i15827.png",
                 "other": {},
                 "cooldown": 0,
                 "cost": 0,
@@ -34,7 +34,7 @@
                 "name": "Power Strike",
                 "description": "Deal <span class=\"rtwarning\">142% Strength</span> damage to target.<br/>Generates <span class=\"rtmana\">2 Combo Points</span>.",
                 "levelLearned": 0,
-                "icon": "/images/i15828",
+                "icon": "/images/i15828.png",
                 "other": {},
                 "cooldown": 5,
                 "cost": 0,
@@ -47,7 +47,7 @@
                 "name": "Shield Slam",
                 "description": "Deals <span class=\"rtwarning\">265% Strength</span> damage to your target and <span class=\"rtwarning\">26.5% Strength</span> damage to other enemies near your target.<br/><span class=\"rtabsorb\">Shield Slam</span> generates <span class=\"rtmana\">20% Toughness</span>.<br/><span class=\"rtmana\">TOUGHNESS</span><br/><span class=\"rtmana\">Toughness</span> is displayed as a bar to the right of your character. The more Toughness you have, the less damage you take.",
                 "levelLearned": 0,
-                "icon": "/images/i15829",
+                "icon": "/images/i15829.png",
                 "other": {},
                 "cooldown": 0,
                 "cost": 3,
@@ -61,7 +61,7 @@
                 "name": "Charge",
                 "description": "Charge a target enemy, causing <span class=\"rtwarning\">120% Strength</span> damage and <span class=\"rtabsorb\">Stunning</span> them for 1.5 sec.",
                 "levelLearned": 0,
-                "icon": "/images/i15831",
+                "icon": "/images/i15831.png",
                 "other": {},
                 "cooldown": 0,
                 "cost": 0,
@@ -74,7 +74,7 @@
                 "name": "Taunt",
                 "description": "<span class=\"rtabsorb\">Taunt</span> the target, forcing it to attack you for 6 sec.<br/><span class=\"rtmeikoability2\">Can be used during Global Cooldown</span>",
                 "levelLearned": 0,
-                "icon": "/images/i15832",
+                "icon": "/images/i15832.png",
                 "other": {},
                 "cooldown": 8,
                 "cost": 0,
@@ -87,7 +87,7 @@
                 "name": "Bash",
                 "description": "<span class=\"rtabsorb\">Interrupt</span> the target's spellcasting and prevent it from casting for 4 sec. <br/>Must interrupt a spell, or it will have no effect.<br/><span class=\"rtmeikoability2\">Can be used during Global Cooldown</span>",
                 "levelLearned": 0,
-                "icon": "/images/i15833",
+                "icon": "/images/i15833.png",
                 "other": {},
                 "cooldown": 12,
                 "cost": 0,
@@ -100,7 +100,7 @@
                 "name": "Shield Throw",
                 "description": "Throw your shield at target enemy dealing <span class=\"rtwarning\">207% Strength</span> damage. The shield will bounce to up to 4 additional nearby enemies.<br/>Generates <span class=\"rtmana\">1 Combo Point</span> per target hit.",
                 "levelLearned": 0,
-                "icon": "/images/i15834",
+                "icon": "/images/i15834.png",
                 "other": {},
                 "cooldown": 15,
                 "cost": 0,
@@ -113,7 +113,7 @@
                 "name": "Shields Up",
                 "description": "Raise your shield, increasing your <span class=\"rtmana\">Toughness by 65%</span> and increasing your <span class=\"rtmeikoability1\">Block chance by 25%</span> for 8 sec.<br/><span class=\"rtmeikoability1\">Each time you succesfully Block an attack, you generate</span> <span class=\"rtmana\">4% Toughness</span>.<br/><span class=\"rtmana\">TOUGHNESS</span><br/><span class=\"rtmana\">Toughness</span> is displayed as a bar to the right of your character. The more Toughness you have, the less damage Helena takes.<br/><br/><span class=\"rtmeikoability2\">Can be used during Global Cooldown</span>",
                 "levelLearned": 0,
-                "icon": "/images/i15835",
+                "icon": "/images/i15835.png",
                 "other": {},
                 "cooldown": 0,
                 "cost": 0,
@@ -129,7 +129,7 @@
                 "name": "Shockwave",
                 "description": "Slam sword and shield together creating a shockwave, dealing <span class=\"rtwarning\">411% Strength</span> damage and slowing their movement speed by 90%. The slow is reduced by 10% every 1 second for 9 seconds.",
                 "levelLearned": 2,
-                "icon": "/images/i15830",
+                "icon": "/images/i15830.png",
                 "other": {},
                 "cooldown": 60,
                 "cost": 0,
@@ -143,7 +143,7 @@
                 "name": "Sweeping Strike",
                 "description": "Deals <span class=\"rtwarning\">133% Strength</span> damage to your target and other nearby enemies.<br/>Enemies hit by <span class=\"rtabsorb\">Sweeping Strike</span> bleed for <span class=\"rtwarning\">162% Strength</span> damage over 18 seconds.",
                 "levelLearned": 4,
-                "icon": "/images/i15840",
+                "icon": "/images/i15840.png",
                 "other": {},
                 "cooldown": 15,
                 "cost": 3,
@@ -157,7 +157,7 @@
                 "name": "Chain Pull",
                 "description": "Throw a chained spearhead at target enemy, dealing <span class=\"rtwarning\">100% Strength</span> damage and pulling them to you.",
                 "levelLearned": 5,
-                "icon": "/images/i15839",
+                "icon": "/images/i15839.png",
                 "other": {},
                 "cooldown": 30,
                 "cost": 0,
@@ -170,7 +170,7 @@
                 "name": "Iron Wall",
                 "description": "Your <span class=\"rtmana\">Toughness</span> can not be reduced for 8 seconds.<br/><span class=\"rtmeikoability2\">Can be used during Global Cooldown</span>",
                 "levelLearned": 7,
-                "icon": "/images/i15841",
+                "icon": "/images/i15841.png",
                 "other": {},
                 "cooldown": 60,
                 "cost": 0,
@@ -183,7 +183,7 @@
                 "name": "Battle Command",
                 "description": "Your Movement Speed is increased by 50% for 6 seconds.<br/>Nearby allies gain 25% Movement Speed.<br/>",
                 "levelLearned": 9,
-                "icon": "/images/i15838",
+                "icon": "/images/i15838.png",
                 "other": {},
                 "cooldown": 30,
                 "cost": 0,
@@ -193,7 +193,7 @@
         ],
         "name": "Helena",
         "description": "Despite being weighed down by full plate armor, Helena is always ready to charge into the fray to protect her companions.\r\n\r\nHelena is a Melee Tank that uses Builder/Spender Mechanics. She excels in the front lines taking hits instead of her allies.\r\n\r\nUsing Combo Points, Helena can perform powerful attack and generate Toughness.\r\n\r\nToughness is her main resource for mitigating incoming damage and surviving dangerous encounters.",
-        "icon": "/images/i15852",
+        "icon": "/images/i15852.png",
         "backgroundImage": "/images/HeroSelect_Warmaster_4K.png",
         "talents": [
             {
@@ -202,7 +202,7 @@
                 "level": 3,
                 "cost": 2,
                 "description": "Each time you <span class=\"bold\">Block</span> an attack with your shield, you have a chance to reset the cooldown of <span class=\"bold\">Shield Throw</span> and increase the damage of your next Shield Throw by 30%.<br/><span class=\"bold\">Passive:</span> Your <span class=\"bold\">Threat Generation</span> is increased by 10%.",
-                "icon": "/images/i15843"
+                "icon": "/images/i15843.png"
             },
             {
                 "id": "90001t",
@@ -210,7 +210,7 @@
                 "level": 3,
                 "cost": 2,
                 "description": "The cooldown of your <span class=\"bold\">Shields Up</span> And <span class=\"bold\">Shield Throw</span> abilities are reduced relative to the amount of damage you mitigate with <span class=\"bold\">Toughness</span>.<br/><span class=\"bold\">Passive:</span> Your chance to <span class=\"bold\">Block</span> is increased by 10%.",
-                "icon": "/images/i15844"
+                "icon": "/images/i15844.png"
             },
             {
                 "id": "90002t",
@@ -218,7 +218,7 @@
                 "level": 3,
                 "cost": 2,
                 "description": "Your <span class=\"bold\">Power Strike</span> has a chance to make your next <span class=\"bold\">Shield Slam</span> generate additional Toughness and have no combo points cost.<br/><span class=\"bold\">Passive:</span> Your <span class=\"bold\">Power Strike</span> and <span class=\"bold\">Shield Slam</span> deal 15% increased damage.",
-                "icon": "/images/i15845"
+                "icon": "/images/i15845.png"
             },
             {
                 "id": "90003t",
@@ -226,7 +226,7 @@
                 "level": 6,
                 "cost": 1,
                 "description": "Enemies that take damage from your <span class=\"bold\">Shockwave</span> ability deal 10% reduced damage for 9 seconds.<br/><span class=\"bold\">Passive:</span> Your <span class=\"bold\">Shockwave</span> cooldown is reduced by 20%",
-                "icon": "/images/i15846"
+                "icon": "/images/i15846.png"
             },
             {
                 "id": "90004t",
@@ -234,7 +234,7 @@
                 "level": 6,
                 "cost": 1,
                 "description": "Your <span class=\"bold\">Shield Throw</span> deals 100% increased damage to the first target it hits.<br/><span class=\"bold\">Passive:</span> Your <span class=\"bold\">Shield Throw's</span> Critical Strike chance is increased by 10%.",
-                "icon": "/images/i15847"
+                "icon": "/images/i15847.png"
             },
             {
                 "id": "90005t",
@@ -242,7 +242,7 @@
                 "level": 6,
                 "cost": 1,
                 "description": "The efficiency of your <span class=\"bold\">Toughness</span> mechanic is increased by 15%.<br/><span class=\"bold\">Passive:</span> Your Movement Speed is increased by 10%.",
-                "icon": "/images/i15848"
+                "icon": "/images/i15848.png"
             },
             {
                 "id": "90006t",
@@ -250,7 +250,7 @@
                 "level": 10,
                 "cost": 3,
                 "description": "When your <span class=\"bold\">Toughness</span> has reduced an amount of damage equal to 30% of your Maximum Health, you gain 20% increased Strength for 8 sec.<br/><span class=\"bold\">Passive:</span> You take 10% less Magic damage.",
-                "icon": "/images/i15849"
+                "icon": "/images/i15849.png"
             },
             {
                 "id": "90007t",
@@ -258,7 +258,7 @@
                 "level": 10,
                 "cost": 3,
                 "description": "Enemies that take damage from your <span class=\"bold\">Shockwave</span> are stunned for 2 seconds.<br/><span class=\"bold\">Passive:</span> Your <span class=\"bold\">Shockwave</span> deals 40% increased damage.",
-                "icon": "/images/i15850"
+                "icon": "/images/i15850.png"
             },
             {
                 "id": "90008t",
@@ -266,7 +266,7 @@
                 "level": 10,
                 "cost": 3,
                 "description": "While <span class=\"bold\">Shields up</span> is active your <span class=\"bold\">Shield Slam</span> deals 40% increased damage and all healing effects on you are increased by 20%.<br/><span class=\"bold\">Passive:</span> Your <span class=\"bold\">Armor</span> is increased by 20%.",
-                "icon": "/images/i15851"
+                "icon": "/images/i15851.png"
             }
         ],
         "id": "Helena",
@@ -282,7 +282,7 @@
                 "name": "Fluttercall: Jubilee",
                 "description": "You send out <span class=\"rtabsorb\">Dream Flutterflies</span> to protect all allies by evenly distributing all health between them every 3 seconds over 10 sec.<br/><span class=\"rtabsorb\">SPIRIT ABILITY</span><br/><span class=\"rtgreyitalic\">When you activate your Spirit ability you gain </span><span class=\"rtabsorb\"> Spirit of Heroism</span><span class=\"rtgreyitalic\">, granting +30% Haste and 400% Mana Regeneration for 20 sec.</span>",
                 "levelLearned": 1,
-                "icon": "/images/i15865",
+                "icon": "/images/i15865.png",
                 "other": {},
                 "cooldown": 0,
                 "cost": 100,
@@ -296,7 +296,7 @@
                 "name": "Prickly Vine",
                 "description": "Summon a <span class=\"rtabsorb\">Prickly Vine</span> to continuously fling thorns at target enemy, dealing <span class=\"rtwarning\">93% Intellect</span> damage per attack. Lasts 27 seconds.",
                 "levelLearned": 0,
-                "icon": "/images/i15853",
+                "icon": "/images/i15853.png",
                 "other": {},
                 "cooldown": 9,
                 "cost": 16,
@@ -311,7 +311,7 @@
                 "name": "Nettlebolt",
                 "description": "Cast a bolt of nettles at target enemy, dealing <span class=\"rtwarning\">90% Intellect</span> damage to them.",
                 "levelLearned": 0,
-                "icon": "/images/i15854",
+                "icon": "/images/i15854.png",
                 "other": {},
                 "cooldown": 0,
                 "cost": 0,
@@ -326,7 +326,7 @@
                 "name": "Fluttercall: Heal",
                 "description": "Assign one of your <span class=\"rtmeikoability1\">Pink Flutterflies</span> to an ally, healing them for <span class=\"rtheal\">38% Intellect</span> every 3 seconds until it is called away.<br/>All healing done by <span class=\"rtabsorb\">Fluttercall: Heal</span> counts as <span class=\"rtmeikoability1\">Flutterfly Healing</span>.",
                 "levelLearned": 0,
-                "icon": "/images/i15855",
+                "icon": "/images/i15855.png",
                 "other": {},
                 "cooldown": 0,
                 "cost": 25,
@@ -340,7 +340,7 @@
                 "name": "Fluttercall: Restore Life",
                 "description": "Beckon two <span class=\"rtmeikoability1\">Pink Flutterflies</span> to dance around target ally, healing them for <span class=\"rtheal\">186% Intellect</span> after 2 seconds and an additional <span class=\"rtheal\">490% Intellect</span> over 14 seconds.<br/>All healing done by <span class=\"rtabsorb\">Fluttercall: Restore Life</span> counts as <span class=\"rtmeikoability1\">Flutterfly Healing</span>.",
                 "levelLearned": 0,
-                "icon": "/images/i15856",
+                "icon": "/images/i15856.png",
                 "other": {},
                 "cooldown": 0,
                 "cost": 47,
@@ -354,7 +354,7 @@
                 "name": "Cure Ailment",
                 "description": "Remove all <span class=\"rtdebuff\">Harmful</span> <span class=\"rtbold\">Magic Effects</span> from target ally. ",
                 "levelLearned": 0,
-                "icon": "/images/i15858",
+                "icon": "/images/i15858.png",
                 "other": {},
                 "cooldown": 8,
                 "cost": 13,
@@ -368,7 +368,7 @@
                 "name": "Life Petal",
                 "description": "A <span class=\"rtabsorb\">Life Petal</span> sprouts up near you, healing one ally for <span class=\"rtheal\">142% Intellect</span> every 1 second over 10 seconds, preferring the ally with the lowest health.",
                 "levelLearned": 0,
-                "icon": "/images/i15859",
+                "icon": "/images/i15859.png",
                 "other": {},
                 "cooldown": 60,
                 "cost": 42,
@@ -382,7 +382,7 @@
                 "name": "Fluttercall: Protect",
                 "description": "Send your <span class=\"rtmana\">Blue Flutterfly</span> to protect target ally.<br/>While your <span class=\"rtmana\">Blue Flutterfly</span> is attached to an ally, all <span class=\"rtmeikoability1\">Flutterfly Healing</span> done to them is increased by 300%.",
                 "levelLearned": 0,
-                "icon": "/images/i15860",
+                "icon": "/images/i15860.png",
                 "other": {},
                 "cooldown": 0,
                 "cost": 14,
@@ -396,7 +396,7 @@
                 "name": "Shroomsplosion",
                 "description": "Command all mature <span class=\"rtabsorb\">Boomshrooms</span> to attack causing them to leap at target enemy and explode, dealing <span class=\"rtwarning\">243% Intellect</span> damage to the target and nearby enemies.<br/><span class=\"rtabsorb\">Boomshrooms</span><br/>Each time one of your plants expire, budding <span class=\"rtabsorb\">Boomshrooms</span> start growing in that location. After 3 seconds, the <span class=\"rtabsorb\">Boomshroom</span> has reached full maturity and is ready to be called into battle.",
                 "levelLearned": 0,
-                "icon": "/images/i15863",
+                "icon": "/images/i15863.png",
                 "other": {},
                 "cooldown": 0,
                 "cost": 0,
@@ -409,7 +409,7 @@
                 "name": "Fluttercall: Embrace",
                 "description": "Recall your <span class=\"rtmana\">Blue Flutterfly</span> to you.<br/>While the <span class=\"rtmana\">Blue Flutterfly</span> is on you, all <span class=\"rtmeikoability1\">Flutterfly Healing</span> you do is increased by 100% and the mana cost of your abilities are reduced by 15%.",
                 "levelLearned": 0,
-                "icon": "/images/i15869",
+                "icon": "/images/i15869.png",
                 "other": {},
                 "cooldown": 0,
                 "cost": 0,
@@ -422,7 +422,7 @@
                 "name": "Heart Bloom",
                 "description": "Conjure a <span class=\"rtabsorb\">Heart Bloom</span> at your side that stores 20% of all <span class=\"rtmeikoability1\">Flutterfly healing</span> you do inside it.<br/>Every 3 seconds, the <span class=\"rtabsorb\">Heart Bloom</span> releases a pulse, healing all allies within 4000 radius for an amount equal to the healing it has stored. Lasts 9 seconds.",
                 "levelLearned": 2,
-                "icon": "/images/i15857",
+                "icon": "/images/i15857.png",
                 "other": {},
                 "cooldown": 0,
                 "cost": 93,
@@ -436,7 +436,7 @@
                 "name": "Hidden Trail ",
                 "description": "Your Movement Speed is increased by 50% for 6 seconds.<br/><span class=\"rtabsorb\">Demure</span><br/>Upon activating <span class=\"rtabsorb\">Hidden Trail</span> your threat is reduced by 50% with all enemies.<br/><span class=\"rtmeikoability2\">Can be used during Global Cooldown</span>",
                 "levelLearned": 4,
-                "icon": "/images/i15861",
+                "icon": "/images/i15861.png",
                 "other": {},
                 "cooldown": 30,
                 "cost": 0,
@@ -450,7 +450,7 @@
                 "name": "Rootsap Revival",
                 "description": "Command each active <span class=\"rtabsorb\">Prickly Vine</span> to aid target ally, healing them for <span class=\"rtheal\">518% intellect</span> over 3 seconds.",
                 "levelLearned": 5,
-                "icon": "/images/i15866",
+                "icon": "/images/i15866.png",
                 "other": {},
                 "cooldown": 20,
                 "cost": 57,
@@ -464,7 +464,7 @@
                 "name": "Bark Skin",
                 "description": "Target ally takes <span class=\"rtabsorb\">20% reduced damage</span> for 12 seconds.<br/><span class=\"rtmeikoability2\">Can be used during Global Cooldown</span>",
                 "levelLearned": 7,
-                "icon": "/images/i15862",
+                "icon": "/images/i15862.png",
                 "other": {},
                 "cooldown": 60,
                 "cost": 18,
@@ -478,7 +478,7 @@
                 "name": "Safe Haven",
                 "description": "Place a <span class=\"rtabsorb\">Thornbush Blossom</span> in target location. For the next 12 seconds, all allies standing in the radius of the Blossom take <span class=\"rtabsorb\">20% reduced damage</span>.",
                 "levelLearned": 9,
-                "icon": "/images/i15864",
+                "icon": "/images/i15864.png",
                 "other": {},
                 "cooldown": 180,
                 "cost": 47,
@@ -489,7 +489,7 @@
         ],
         "name": "Sylvie",
         "description": "Sylvie is a healer who uses her innate connection to nature and its many friends to heal her allies and harm her foes.\r\n\r\nSylvie is a Healer that uses Pet Management Mechanics. She excels at sending her pets to heal her allies over time and attack her enemies.\r\n\r\nShe commands her Flutterflies and Plants to heal, while her Boomshrooms to attack enemies.\r\n\r\nHer powerful Heal over Time spells allow her to prepare for battle and endure long and sustained fights.",
-        "icon": "/images/i15879",
+        "icon": "/images/i15879.png",
         "backgroundImage": "/images/HeroSelect_Mosse_4K.png",
         "talents": [
             {
@@ -498,7 +498,7 @@
                 "level": 3,
                 "cost": 2,
                 "description": "The cooldown of your Life Petal is reduced by 2 seconds each time you deal damage with Nettlebolt and 4 seconds if it critically strikes.<br/><span class=\"bold\">Passive:</span> Your healing is increased by 25% on players with 30% or less health.",
-                "icon": "/images/i15870"
+                "icon": "/images/i15870.png"
             },
             {
                 "id": "90010t",
@@ -506,7 +506,7 @@
                 "level": 3,
                 "cost": 2,
                 "description": "Hold down <span class=\"bold\">Fluttercall: Heal</span> for 2 seconds to overcharge it, causing the ability to be cast on up to 4 allies within 4000 range in one cast. The mana cost is increased by 200% when cast in this way.<br/><span class=\"bold\">Overcharged Abilities</span><br/>Hold down the relevant ability button until a cast bar is displayed. Once the cast has completed, the overcharged version of the ability will trigger.<br/><span class=\"bold\">Passive:</span> Your <span class=\"bold\">Fluttercall: Heal</span> ticks 100% faster for the first 6 seconds each time it begins healing a player.",
-                "icon": "/images/i15871"
+                "icon": "/images/i15871.png"
             },
             {
                 "id": "90011t",
@@ -514,7 +514,7 @@
                 "level": 3,
                 "cost": 2,
                 "description": "Your <span class=\"bold\">Fluttercall: Restore Life's</span> healing is increased by 8% for each <span class=\"bold\">Prickly Vine</span> you have active.<br/><span class=\"bold\">Passive:</span> The duration of your <span class=\"bold\">Fluttercall: Restore Life</span> is increased by 3 seconds.",
-                "icon": "/images/i15872"
+                "icon": "/images/i15872.png"
             },
             {
                 "id": "90012t",
@@ -522,7 +522,7 @@
                 "level": 6,
                 "cost": 1,
                 "description": "Each tick of <span class=\"bold\">Flutterfly Healing</span> has a chance to make your next <span class=\"bold\">Nettlebolt</span> Instant Cast and have 100% Critical Strike chance.<br/><span class=\"bold\">Passive:</span> Your <span class=\"bold\">Nettlebolt</span> deals 20% increased damage.",
-                "icon": "/images/i15873"
+                "icon": "/images/i15873.png"
             },
             {
                 "id": "90013t",
@@ -530,7 +530,7 @@
                 "level": 6,
                 "cost": 1,
                 "description": "You take 20% reduced damage while <span class=\"bold\">Hidden Trail</span> is active.<br/><span class=\"bold\">Passive:</span> You take 10% less Area of effect damage",
-                "icon": "/images/i15874"
+                "icon": "/images/i15874.png"
             },
             {
                 "id": "90014t",
@@ -538,7 +538,7 @@
                 "level": 6,
                 "cost": 1,
                 "description": "While your <span class=\"bold\">Blue Flutterfly</span> is following you, your movement speed is increased by 10%.<br/>While your <span class=\"bold\">Blue Flutterfly</span> is following another player, they take 5% reduced damage.<br/><span class=\"bold\">Passive:</span> You take 10% less Magic damage.",
-                "icon": "/images/i15875"
+                "icon": "/images/i15875.png"
             },
             {
                 "id": "90015t",
@@ -546,7 +546,7 @@
                 "level": 10,
                 "cost": 3,
                 "description": "Your <span class=\"bold\">Life Petal's</span> healing is front loaded, healing for twice as much on the first tick and ramping down with each tick thereafter.<br/><span class=\"bold\">Passive:</span> The healing of your <span class=\"bold\">Life Petal</span>, <span class=\"bold\">Heartbloom</span>, and <span class=\"bold\">Rootsap Revival</span> is increased by 20%.",
-                "icon": "/images/i15876"
+                "icon": "/images/i15876.png"
             },
             {
                 "id": "90016t",
@@ -554,7 +554,7 @@
                 "level": 10,
                 "cost": 3,
                 "description": "<span class=\"bold\">Heart Bloom</span> has 2 charges.<br/><span class=\"bold\">Passive:</span> Your <span class=\"bold\">Heart Bloom's</span> mana cost is reduced by 30%.",
-                "icon": "/images/i15877"
+                "icon": "/images/i15877.png"
             },
             {
                 "id": "90017t",
@@ -562,13 +562,13 @@
                 "level": 10,
                 "cost": 3,
                 "description": "Upon detonation, each <span class=\"bold\">Shroomsplosion</span> heals nearby allies for 50% Intellect.<br/><span class=\"bold\">Passive:</span> Your <span class=\"bold\">Shroomsplosion</span> deals 20% increased damage.",
-                "icon": "/images/i15878"
+                "icon": "/images/i15878.png"
             }
         ],
         "id": "Sylvie",
         "lore": "Abandoned at a young age, Sylvie was taken in and raised by the forest itself. She spent her childhood under the protection of its boughs and learning the natural cycles of magic from her friends, the Flutterflies.",
         "role": "Healer",
-        "roleIcon": "/images/i15880"
+        "roleIcon": "/images/i15880.png"
     },
     {
         "abilities": [
@@ -578,7 +578,7 @@
                 "name": "Wrath of Winter",
                 "description": "Invoke the spirits of the frozen tundra, causing you to passively cast a volley of <span class=\"rtabsorb\">Anima Spikes</span> at enemies and generate <span class=\"rtmana\">1 Winter Orb</span> every 2 seconds. Lasts 20 seconds.<br/>You deal <span class=\"rtwarning\">15% increased damage</span> while <span class=\"rtabsorb\">Wrath of Winter</span> is active.<br/><span class=\"rtabsorb\">SPIRIT ABILITY</span><br/><span class=\"rtgreyitalic\">When you activate your Spirit ability you gain </span><span class=\"rtabsorb\"> Spirit of Heroism</span><span class=\"rtgreyitalic\">, granting +30% Haste for 20 sec.</span>",
                 "levelLearned": 1,
-                "icon": "/images/i15885",
+                "icon": "/images/i15885.png",
                 "other": {},
                 "cooldown": 0,
                 "cost": 100,
@@ -592,7 +592,7 @@
                 "name": "Ice Dash",
                 "description": "Quickly travel forward a short distance.<br/><span class=\"rtmeikoability2\">Can be used during Global Cooldown</span>",
                 "levelLearned": 0,
-                "icon": "/images/i15881",
+                "icon": "/images/i15881.png",
                 "other": {},
                 "cooldown": 0,
                 "cost": 0,
@@ -607,7 +607,7 @@
                 "name": "Brain Freeze",
                 "description": "<span class=\"rtabsorb\">Interrupt</span> the target's spellcasting and prevent it from casting for 4 sec. <br/>Must interrupt a spell, or it will have no effect.<br/><span class=\"rtmeikoability2\">Can be used during Global Cooldown</span>",
                 "levelLearned": 0,
-                "icon": "/images/i15883",
+                "icon": "/images/i15883.png",
                 "other": {},
                 "cooldown": 20,
                 "cost": 0,
@@ -620,7 +620,7 @@
                 "name": "Ice Comet",
                 "description": "Unleash a large <span class=\"rtabsorb\">Ice Comet</span> from above at target enemy, dealing <span class=\"rtwarning\">300% Intellect</span> damage to all enemies caught in the impact radius.",
                 "levelLearned": 0,
-                "icon": "/images/i15886",
+                "icon": "/images/i15886.png",
                 "other": {},
                 "cooldown": 0,
                 "cost": 3,
@@ -634,7 +634,7 @@
                 "name": "Cold Snap",
                 "description": "Assault the target with extreme cold, dealing <span class=\"rtwarning\">204% Intellect</span> damage.<br/><span class=\"rtabsorb\">Cold Snap</span> triggers Anima Spikes and generates <span class=\"rtmana\">1 Winter Orb</span>.",
                 "levelLearned": 0,
-                "icon": "/images/i15887",
+                "icon": "/images/i15887.png",
                 "other": {},
                 "cooldown": 8,
                 "cost": 0,
@@ -647,7 +647,7 @@
                 "name": "Glacial Blast",
                 "description": "Hurl a mass of ice at target enemy, dealing <span class=\"rtwarning\">504% Intellect</span> damage.",
                 "levelLearned": 0,
-                "icon": "/images/i15891",
+                "icon": "/images/i15891.png",
                 "other": {},
                 "cooldown": 0,
                 "cost": 2,
@@ -662,7 +662,7 @@
                 "name": "Frost Bolt",
                 "description": "Hurl a bolt of water and frost at target enemy, dealing <span class=\"rtwarning\">73% Intellect </span> damage.<br/>Generates 3 <span class=\"rtmana\">Anima</span> ",
                 "levelLearned": 0,
-                "icon": "/images/i15892",
+                "icon": "/images/i15892.png",
                 "other": {},
                 "cooldown": 0,
                 "cost": 0,
@@ -676,7 +676,7 @@
                 "name": "Freezing Torrent",
                 "description": "Flay your target with a beam of frost energy, dealing <span class=\"rtwarning\">390% Intellect</span> damage over 2 seconds while channeling.<br/>Generates <span class=\"rtmana\">1 Anima</span> per tick up to <span class=\"rtmana\">6 Anima</span> when fully channeled.",
                 "levelLearned": 0,
-                "icon": "/images/i15893",
+                "icon": "/images/i15893.png",
                 "other": {},
                 "cooldown": 10,
                 "cost": 0,
@@ -689,7 +689,7 @@
                 "name": "Bursting Ice",
                 "description": "Conjures an icy crystal inside a target that periodically erupts, dealing <span class=\"rtwarning\">366% Intellect</span> damage to the target and nearby enemies over 3 seconds.<br/><span class=\"rtabsorb\">Bursting Ice</span> generates <span class=\"rtmana\">1 Anima</span> per enemy hit up to a maximum of <span class=\"rtmana\">3 Anima</span> each tick.",
                 "levelLearned": 0,
-                "icon": "/images/i15894",
+                "icon": "/images/i15894.png",
                 "other": {},
                 "cooldown": 15,
                 "cost": 0,
@@ -703,7 +703,7 @@
                 "name": "Frost Ward",
                 "description": "You take <span class=\"rtabsorb\">40% reduced damage</span> for 4 seconds.<br/><span class=\"rtmeikoability2\">Can be used during Global Cooldown</span>",
                 "levelLearned": 2,
-                "icon": "/images/i15882",
+                "icon": "/images/i15882.png",
                 "other": {},
                 "cooldown": 30,
                 "cost": 0,
@@ -716,7 +716,7 @@
                 "name": "Ice Blitz",
                 "description": "You enter a state of focused casting for 20 seconds, causing each <span class=\"rtmana\">Anima</span> you generate to instantly shoot out an <span class=\"rtabsorb\">Anima Spike</span> at your target.<br/>You deal <span class=\"rtwarning\">15% increased damage</span> while <span class=\"rtabsorb\">Ice Blitz</span> is active.<br/><span class=\"rtmeikoability2\">Can be used during Global Cooldown and while casting</span>",
                 "levelLearned": 4,
-                "icon": "/images/i15888",
+                "icon": "/images/i15888.png",
                 "other": {},
                 "cooldown": 120,
                 "cost": 0,
@@ -729,7 +729,7 @@
                 "name": "Frigid Winds",
                 "description": "Blast enemies in front of you with arctic winds, <span class=\"rtabsorb\">Knocking Back</span> enemies and <span class=\"rtabsorb\">Slowing</span> them by 50% for 12 sec.",
                 "levelLearned": 5,
-                "icon": "/images/i15884",
+                "icon": "/images/i15884.png",
                 "other": {},
                 "cooldown": 60,
                 "cost": 0,
@@ -742,7 +742,7 @@
                 "name": "Dance of Swallows",
                 "description": "Summon a flock of swallows that circle above target enemy for 20 seconds. Your <span class=\"rtabsorb\">Cold Snap</span> and <span class=\"rtabsorb\">Freezing Torrent</span> will command the Ice Swallows to swoop down on the targeted enemy dealing <span class=\"rtwarning\">53% Intellect</span> per hit.<br/>Ice Swallows benefit from and trigger all effects that <span class=\"rtabsorb\">Anima Spikes</span> do.",
                 "levelLearned": 7,
-                "icon": "/images/i15889",
+                "icon": "/images/i15889.png",
                 "other": {},
                 "cooldown": 60,
                 "cost": 2,
@@ -756,7 +756,7 @@
                 "name": "Winter's Blessing",
                 "description": "Your <span class=\"rtabsorb\">Spirit is increased by 20%</span> for 15 seconds and <span class=\"rtheal\">damage you deal is replicated as healing</span> divided equally between all allies.<br/><span class=\"rtmeikoability2\">Can be used during Global Cooldown</span>",
                 "levelLearned": 9,
-                "icon": "/images/i15890",
+                "icon": "/images/i15890.png",
                 "other": {},
                 "cooldown": 120,
                 "cost": 0,
@@ -766,7 +766,7 @@
         ],
         "name": "Rime",
         "description": "Channelling the forces of spirit and ice, Rime conjures powerful spells to decimate her foes.\r\n\r\nRime is a Spellcasting Damage Dealer with Builder/Spender Mechanics. She excels at focusing down the biggest threat from a distance.\r\n\r\nMany of Rime’s abilities fill an Anima Bar to deal spikes of damage and generate Winter Orbs.\r\n\r\nShe uses Winter Orbs to cast dangerous spells.",
-        "icon": "/images/i15904",
+        "icon": "/images/i15904.png",
         "backgroundImage": "/images/HeroSelect_Rime_4K.png",
         "talents": [
             {
@@ -775,7 +775,7 @@
                 "level": 3,
                 "cost": 2,
                 "description": "Your <span class=\"bold\">Freezing Torrent</span> deals 20% of its damage each tick to up to 5 additional enemies near the target.<br/><span class=\"bold\">Passive:</span> Your <span class=\"bold\">Freezing Torrent</span> deals 20% increased damage.",
-                "icon": "/images/i15895"
+                "icon": "/images/i15895.png"
             },
             {
                 "id": "90019t",
@@ -783,7 +783,7 @@
                 "level": 3,
                 "cost": 2,
                 "description": "When <span class=\"bold\">Bursting Ice</span> deals damage to a single target it generates 2 additional Anima.<br/><span class=\"bold\">Passive:</span> Your <span class=\"bold\">Bursting Ice</span> damage is increased by 20%.",
-                "icon": "/images/i15896"
+                "icon": "/images/i15896.png"
             },
             {
                 "id": "90020t",
@@ -791,7 +791,7 @@
                 "level": 3,
                 "cost": 2,
                 "description": "Your <span class=\"bold\">Coldsnap</span> ability causes you to gain 1 stack of <span class=\"bold\">Glacial Assault</span> up to a maximum of 5 stacks.<br/>At 5 stacks, your next <span class=\"bold\">Glacial Blast</span> is instant cast and deals 100% increased damage.<br/><span class=\"bold\">Passive:</span> Your <span class=\"bold\">Glacial Blast</span> has 20% increased Critical Strike chance.",
-                "icon": "/images/i15897"
+                "icon": "/images/i15897.png"
             },
             {
                 "id": "90021t",
@@ -799,7 +799,7 @@
                 "level": 6,
                 "cost": 1,
                 "description": "Each tick of <span class=\"bold\">Freezing Torrent</span> reduces the cooldown of <span class=\"bold\">Bursting Ice</span> by 0.5 seconds.<br/><span class=\"bold\">Passive:</span> You take 10% less Area of Effect damage.",
-                "icon": "/images/i15898"
+                "icon": "/images/i15898.png"
             },
             {
                 "id": "90022t",
@@ -807,7 +807,7 @@
                 "level": 6,
                 "cost": 1,
                 "description": "Each of your <span class=\"bold\">Anime Spike</span> hits reduce the cooldown of <span class=\"bold\">Freezing Torrent</span> by 0.2 seconds.<br/><span class=\"bold\">Passive:</span> Your Movement Speed is increased by 10%.",
-                "icon": "/images/i15899"
+                "icon": "/images/i15899.png"
             },
             {
                 "id": "90023t",
@@ -815,7 +815,7 @@
                 "level": 10,
                 "cost": 3,
                 "description": "<span class=\"bold\">Ice Comet</span> has a 30% chance to strike twice, and an 8% chance to strike three times.<br/><span class=\"bold\">Passive:</span> Your Critical Strike Power is increased by 5%.",
-                "icon": "/images/i15900"
+                "icon": "/images/i15900.png"
             },
             {
                 "id": "90024t",
@@ -823,7 +823,7 @@
                 "level": 6,
                 "cost": 1,
                 "description": "Your <span class=\"bold\">Frost Ward</span> duration is increased by 2 seconds and while it is active, you heal for 50% of all damage you deal.<br/><span class=\"bold\">Passive:</span> You take 10% reduced Magic damage.",
-                "icon": "/images/i15901"
+                "icon": "/images/i15901.png"
             },
             {
                 "id": "90025t",
@@ -831,7 +831,7 @@
                 "level": 10,
                 "cost": 3,
                 "description": "The cooldown of <span class=\"bold\">Ice Blitz</span>, <span class=\"bold\">Dance of Swallows</span> & <span class=\"bold\">Winter's blessing</span> is reduced by 1 second for each Winter's Orb you spend.<br/><span class=\"bold\">Passive:</span> Your <span class=\"bold\">Ice Blitz</span> increases all damage you deal by an additional 10%.",
-                "icon": "/images/i15902"
+                "icon": "/images/i15902.png"
             },
             {
                 "id": "90026t",
@@ -839,13 +839,13 @@
                 "level": 10,
                 "cost": 3,
                 "description": "Your Critical Strikes have a chance to make your next <span class=\"bold\">Freezing Torrent's</span> channel duration twice as long and increase the damage of each tick. A full channel with <span class=\"bold\">Soulfrost Torrent</span> active will amount to 300% increased damage and generate 12 Anima.<br/><span class=\"bold\">Passive:</span> Your Anima Spikes have 10% increased Critical Strike chance.",
-                "icon": "/images/i15903"
+                "icon": "/images/i15903.png"
             }
         ],
         "id": "Rime",
         "lore": "Blessed or maybe cursed by the spirits of the land, Rime was given the the ability to manipulate the flows of Anima around her. A skill that her tribe thought lost to their past. She uses this ability to manipulate the water and ice around her, teaching her enemies to respect the elemental forces.",
         "role": "DPS",
-        "roleIcon": "/images/i15905"
+        "roleIcon": "/images/i15905.png"
     },
     {
         "abilities": [
@@ -855,7 +855,7 @@
                 "name": "Avatar of Light",
                 "description": "Instantly heal all allies within a large radius of you for <span class=\"rtheal\">280% Intellect</span> and enter an enlightened state for 9 sec, enhancing your abilities.<br/><span class=\"rtabsorb\">Radiant Blast</span><br/>Deals <span class=\"rtwarning\">50% increased damage</span> and has no <span class=\"bold\">Cooldown</span>.<br/><span class=\"rtabsorb\">Heal</span><br/>Costs <span class=\"rtmana\">50% less Mana</span> and is <span class=\"rtbold\">Instant Cast</span>.<br/><span class=\"rtabsorb\">Circle of Light</span><br/>Costs <span class=\"rtmana\">50% less Mana</span> and has no <span class=\"bold\">Cooldown</span>.<br/><br/><span class=\"rtabsorb\">SPIRIT ABILITY</span><br/><span class=\"rtgreyitalic\">When you activate your Spirit ability you gain </span><span class=\"rtabsorb\"> Spirit of Heroism</span><span class=\"rtgreyitalic\">, granting +30% Haste and 400% Mana Regeneration for 20 sec.</span>",
                 "levelLearned": 1,
-                "icon": "/images/i15918",
+                "icon": "/images/i15918.png",
                 "other": {},
                 "cooldown": 0,
                 "cost": 100,
@@ -869,7 +869,7 @@
                 "name": "Dawnflare",
                 "description": "Deals <span class=\"rtwarning\">90% Intellect</span> damage to target enemy.<br/>Each cast of <span class=\"rtabsorb\">Dawnflare</span> generates <span class=\"rtmana\">20% of a Radiant Rune</span>.<br/><span class=\"rtgreyitalic\">Vigour can call upon the light to unleash a flare of divine light from above. This flash of radiant energy strikes the enemy with a sharp but controlled force.</span>",
                 "levelLearned": 0,
-                "icon": "/images/i15906",
+                "icon": "/images/i15906.png",
                 "other": {},
                 "cooldown": 0,
                 "cost": 0,
@@ -883,7 +883,7 @@
                 "name": "Radiant Blast",
                 "description": "Within a cone in front of you, allies are healed for <span class=\"rtheal\">123% Intellect</span> and enemies take <span class=\"rtwarning\">87% Intellect</span> damage.<br/>When <span class=\"rtabsorb\">Radiant Blast</span> deals damage to any number of enemies, it generates <span class=\"rtmana\">50% of a Radiant Rune</span>.<br/><span class=\"rtgreyitalic\">Vigour expels an explosive flash of divine light from his outstretched hand, healing allies in its path, while searing enemies with its blinding brilliance.</span>",
                 "levelLearned": 0,
-                "icon": "/images/i15907",
+                "icon": "/images/i15907.png",
                 "other": {},
                 "cooldown": 9,
                 "cost": 32,
@@ -897,7 +897,7 @@
                 "name": "Heal",
                 "description": "Heal target ally for <span class=\"rtheal\">791% Intellect</span>.<br/><span class=\"rtgreyitalic\">Vigour opens his sacred tome, drawing forth radiant power inscribed within its pages. With a solemn gesture, he calls forth a burst of healing energy to mend even the deepest wounds.</span>",
                 "levelLearned": 0,
-                "icon": "/images/i15908",
+                "icon": "/images/i15908.png",
                 "other": {},
                 "cooldown": 0,
                 "cost": 73,
@@ -911,7 +911,7 @@
                 "name": "Circle of Light",
                 "description": "Place a <span class=\"rtbold\">Circle of Light</span> on the ground, instantly healing all allies within its radius for <span class=\"rtheal\">487% Intellect</span>.<br/><span class=\"rtgreyitalic\">Vigour calls upon the power of light to create a circle of divine healing on the ground. Allies within its boundaries are restored in a sudden flash, as the light pours into them, mending their wounds.</span>",
                 "levelLearned": 0,
-                "icon": "/images/i15909",
+                "icon": "/images/i15909.png",
                 "other": {},
                 "cooldown": 12,
                 "cost": 128,
@@ -925,7 +925,7 @@
                 "name": "Remove Magic",
                 "description": "Remove all <span class=\"rtdebuff\">Harmful</span> <span class=\"rtbold\">Magic Effects</span> from target ally. ",
                 "levelLearned": 0,
-                "icon": "/images/i15911",
+                "icon": "/images/i15911.png",
                 "other": {},
                 "cooldown": 8,
                 "cost": 13,
@@ -939,7 +939,7 @@
                 "name": "Soulbrand",
                 "description": "Deal <span class=\"rtwarning\">594% Intellect</span> damage over 24 sec to target enemy.<br/><span class=\"rtabsorb\">Soulbrand</span> generates <span class=\"rtmana\">50% of a Radiant Rune</span> over its duration.<br/><span class=\"rtgreyitalic\">Vigour inscribes a searing rune onto the soul of his enemy, infusing it with radiant energy. The rune pulses painfully, steadily draining their life force while fueling Vigour’s power.</span>",
                 "levelLearned": 0,
-                "icon": "/images/i15912",
+                "icon": "/images/i15912.png",
                 "other": {},
                 "cooldown": 0,
                 "cost": 0,
@@ -953,7 +953,7 @@
                 "name": "Rune of Renewal",
                 "description": "Instantly heal target ally for <span class=\"rtheal\">594% Intellect</span> and apply <span class=\"rtabsorb\">Rune of Renewal</span> on them for 30 seconds, causing all your direct healing effects on that ally to echo for an additional <span class=\"rtheal\">25% of the initial heal's value</span>.<br/>The bonus healing generated by <span class=\"rtabsorb\">Rune of Renewal</span> generates <span class=\"rtmana\">Radiant Rune power</span> relative to the value of the heal.<br/><span class=\"rtgreyitalic\">Vigour inscribes a resonating rune onto the spirit of an ally. When Vigor heals that ally, the rune pulses gently, further mending any wounds that linger as its light nourishes the body and spirit.</span>",
                 "levelLearned": 0,
-                "icon": "/images/i15913",
+                "icon": "/images/i15913.png",
                 "other": {},
                 "cooldown": 0,
                 "cost": 0,
@@ -967,7 +967,7 @@
                 "name": "Luminous Barrier",
                 "description": "Apply a shield to target ally that absorbs up to <span class=\"rtheal\">1175% Intellect</span> damage while it persists. The shield lasts for 8 sec.<br/><span class=\"rtgreyitalic\">Vigour inscribes a rune of protection onto an ally, causing light to be woven around them into a barrier of divine energy. The barrier stops all forms of attack, whether forged by steel or conjured by magic.</span>",
                 "levelLearned": 0,
-                "icon": "/images/i15914",
+                "icon": "/images/i15914.png",
                 "other": {},
                 "cooldown": 0,
                 "cost": 0,
@@ -981,7 +981,7 @@
                 "name": "Dawnbreaker Orb",
                 "description": "Conjure an orb of light that slowly travels forward, healing all allies it touches for <span class=\"rtheal\">310% Intellect</span> and damaging enemies for <span class=\"rtwarning\">265% Intellect</span>.<br/>Each ally and enemy touched by <span class=\"rtabsorb\">Dawnbreaker Orb</span> generates <span class=\"rtmana\">10% of a Radiant Rune</span>.<br/><span class=\"rtgreyitalic\">Vigour conjures an orb of intricate runes, humming with radiant power. The orb shines brilliantly as it slowly drifts forward, burning all darkness from its path and bolstering the lifeforce of Vigour's allies.</span>",
                 "levelLearned": 2,
-                "icon": "/images/i15910",
+                "icon": "/images/i15910.png",
                 "other": {},
                 "cooldown": 9,
                 "cost": 0,
@@ -995,7 +995,7 @@
                 "name": "Levitate",
                 "description": "Your movement speed is increased by 50% for 6 seconds.<br/><span class=\"rtabsorb\">Levitation</span><br/>You take 20% reduced Area of Effect damage while levitating.<br/><span class=\"rtmeikoability2\">Can be used during Global Cooldown</span>",
                 "levelLearned": 4,
-                "icon": "/images/i15917",
+                "icon": "/images/i15917.png",
                 "other": {},
                 "cooldown": 0,
                 "cost": 18,
@@ -1011,7 +1011,7 @@
                 "name": "Runic Proliferation",
                 "description": "Instantly generate <span class=\"rtmana\">3 Radiant Runes</span>. For the next 8 seconds, any <span class=\"rtabsorb\">Rune Abilities</span> you cast are empowered, increasing their effectiveness by 20%.<br/><span class=\"rtmeikoability2\">Can be used during Global Cooldown</span>",
                 "levelLearned": 5,
-                "icon": "/images/i15916",
+                "icon": "/images/i15916.png",
                 "other": {},
                 "cooldown": 60,
                 "cost": 0,
@@ -1024,7 +1024,7 @@
                 "name": "Lightshaper's Ward",
                 "description": "Target ally takes <span class=\"rtabsorb\">20% reduced damage</span> for 12 seconds.<br/><span class=\"rtmeikoability2\">Can be used during Global Cooldown</span>",
                 "levelLearned": 7,
-                "icon": "/images/i15915",
+                "icon": "/images/i15915.png",
                 "other": {},
                 "cooldown": 60,
                 "cost": 18,
@@ -1035,7 +1035,7 @@
         ],
         "name": "Vigour",
         "description": "As a dwarf who divines the true meaning of runes, Vigour wields powerful healing spells to bolster and protect his allies and smite his enemies.\r\n\r\nVigour is a Healer that uses Builder/Spender Mechanics. He excels in the middle of his allies where he can sustain them with powerful AoE heals.\r\n\r\nAs a wielder of Radiant Runes, he must choose how and when to cast his most powerful spells.\r\n\r\nHis strong Direct Healing grant him an advantage in reacting to an ever-changing battlefield.",
-        "icon": "/images/i15929",
+        "icon": "/images/i15929.png",
         "backgroundImage": "/images/HeroSelect_Vigor_4K.png",
         "talents": [
             {
@@ -1044,7 +1044,7 @@
                 "level": 3,
                 "cost": 2,
                 "description": "Your <span class=\"bold\">Dawnflare</span>, <span class=\"bold\">Soulbrand</span> & <span class=\"bold\">Radiant Blast</span> have a 15% chance to make your next <span class=\"bold\">Heal</span> instant cast and cost 50% less Mana.<br/>Epiphany stacks up to 3 times.<br/><span class=\"bold\">Passive:</span> Your <span class=\"bold\">Dawnflare</span> deals 20% increased damage.",
-                "icon": "/images/i15920"
+                "icon": "/images/i15920.png"
             },
             {
                 "id": "90028t",
@@ -1052,7 +1052,7 @@
                 "level": 3,
                 "cost": 2,
                 "description": "The healing of your <span class=\"bold\">Circle of Light</span> is increased by up to 50% depending on the amount of health the target is missing. Lower health gives a larger bonus.<br/><span class=\"bold\">Passive:</span> Your <span class=\"bold\">Circle of Light's</span> mana cost is reduced by 25%.",
-                "icon": "/images/i15921"
+                "icon": "/images/i15921.png"
             },
             {
                 "id": "90029t",
@@ -1060,7 +1060,7 @@
                 "level": 3,
                 "cost": 2,
                 "description": "When an enemy dies while <span class=\"bold\">Soulbrand</span> is active on them you instantly gain 50% of the <span class=\"bold\">Rune Power</span> it would have generated in the time that was remaining and trigger an explosion dealing 50% of the damage that was remaining to all nearby enemies.<br/><span class=\"bold\">Passive:</span> Your <span class=\"bold\">Soulbrand</span> deals 15% increased damage.",
-                "icon": "/images/i15922"
+                "icon": "/images/i15922.png"
             },
             {
                 "id": "90030t",
@@ -1068,7 +1068,7 @@
                 "level": 6,
                 "cost": 1,
                 "description": "Each time <span class=\"bold\">Soulbrand</span> deals damage you have a chance to reset the cooldown of <span class=\"bold\">Radiant Blast</span> and make your next <span class=\"bold\">Radiant Blast</span> have 100% critical strike chance.<br/><span class=\"bold\">Passive:</span> Your <span class=\"bold\">Radiant Blast</span> healing is increased by 20%.",
-                "icon": "/images/i15923"
+                "icon": "/images/i15923.png"
             },
             {
                 "id": "90031t",
@@ -1076,7 +1076,7 @@
                 "level": 6,
                 "cost": 1,
                 "description": "Allies under the effects of <span class=\"bold\">Luminous Barrier</span> take 10% reduced damage.<br/><span class=\"bold\">Passive:</span> You take 10% less Magic damage.",
-                "icon": "/images/i15924"
+                "icon": "/images/i15924.png"
             },
             {
                 "id": "90032t",
@@ -1084,7 +1084,7 @@
                 "level": 6,
                 "cost": 1,
                 "description": "Your <span class=\"bold\">Dawnflare</span> casts have a chance to grant you <span class=\"bold\">Expansive Mind</span>, increasing your expertise by 10% for 16 seconds and replenishing 8% of your mana over the duration..<br/><span class=\"bold\">Passive:</span> Your maximum mana is increased by 5%.",
-                "icon": "/images/i15925"
+                "icon": "/images/i15925.png"
             },
             {
                 "id": "90033t",
@@ -1092,7 +1092,7 @@
                 "level": 10,
                 "cost": 3,
                 "description": "Each time you generate a Radiant Rune, a free <span class=\"bold\">Heal</span> of 50% efficiency is cast on a nearby ally, preferring the player with lowest health.<br/><span class=\"bold\">Passive:</span> <span class=\"bold\">Greater Heal</span> has 0.5s reduced cast time.",
-                "icon": "/images/i15926"
+                "icon": "/images/i15926.png"
             },
             {
                 "id": "90034t",
@@ -1100,7 +1100,7 @@
                 "level": 10,
                 "cost": 3,
                 "description": "Your <span class=\"bold\">Dawnbreaker Orb</span> costs 1 less Radiant Rune.<br/><span class=\"bold\">Passive:</span><br/>Your <span class=\"bold\">Dawnbreaker Orb</span> healing and damage is increased by 20%",
-                "icon": "/images/i15927"
+                "icon": "/images/i15927.png"
             },
             {
                 "id": "90035t",
@@ -1108,13 +1108,13 @@
                 "level": 10,
                 "cost": 3,
                 "description": "Your <span class=\"bold\">Soulbrand</span>, <span class=\"bold\">Rune of Renewal</span> & <span class=\"bold\">Luminous Barrier</span> abilities can now be Overcharged, causing the ability to be cast on up to 4 applicable targets at once at the cost of 3 Radiant Runes.<br/>Requires 3 Radiant Runes.<br/><span class=\"bold\">Overcharged Abilities</span><br/>Hold down the relevant ability button until a cast bar is displayed. Once the cast has completed, the overcharged version of the ability will trigger.<br/><span class=\"rtwarning\">Known issue: Soulbrand currently only applies on multiplie targets when those enemies are in combat with you</span><br/><span class=\"bold\">Passive:</span><br/>Your <span class=\"bold\">Soulbrand</span>, <span class=\"bold\">Rune of Renewal</span> & <span class=\"bold\">Luminous Barrier</span> have 20% increased duration.",
-                "icon": "/images/i15928"
+                "icon": "/images/i15928.png"
             }
         ],
         "id": "Vigour",
         "lore": "Vigour taps into the very essence of light with ease—a power he uses to defend those in need from the many forms of darkness that seek to corrupt the world. His sacred duty is not only to heal the wounded but also to strike down those who would use shadows to harm the innocent.",
         "role": "Healer",
-        "roleIcon": "/images/i15930"
+        "roleIcon": "/images/i15930.png"
     },
     {
         "abilities": [
@@ -1124,7 +1124,7 @@
                 "name": "Raging Tempest",
                 "description": "You gain an enhanced version of <span class=\"rtabsorb\">Thunder Call</span> for 20 seconds.<br/><span class=\"rtabsorb\">Raging Currents</span><br/>In addition to its normal effects, <span class=\"rtabsorb\">Raging Currents</span> strike a random nearby enemy every 0.5 seconds dealing <span class=\"rtwarning\">66% Strength</span> lightning damage. Each time <span class=\"rtabsorb\">Raging Currents</span> hits an enemy your Critical Strike chance is increased by 1.5%, stacking up to 20 times.<br/><span class=\"rtabsorb\">SPIRIT ABILITY</span><br/><span class=\"rtgreyitalic\">When you activate your Spirit ability you gain </span><span class=\"rtabsorb\"> Spirit of Heroism</span><span class=\"rtgreyitalic\">, granting +30% Haste for 20 sec.</span><br/><span class=\"rtmeikoability2\">Can be used during Global Cooldown</span>",
                 "levelLearned": 1,
-                "icon": "/images/i15943",
+                "icon": "/images/i15943.png",
                 "other": {},
                 "cooldown": 0,
                 "cost": 0,
@@ -1137,7 +1137,7 @@
                 "name": "Heavy Strike",
                 "description": "When <span class=\"rtabsorb\">Heavy Strike</span> is queued up, your next <span class=\"rtabsorb\">Auto Attack</span> deals 240% increased damage.<br/><span class=\"rtmeikoability1\">Swing Timer</span><br/>Your swing timer is displayed as a bar to the right of your hero. When you see the red area light up on the swing timer it is time to queue your <span class=\"rtabsorb\">Heavy Strike</span> and wait for it to finish.<br/><span class=\"rtmeikoability1\">Queueing Heavy Strike</span><br/><span class=\"rtabsorb\">Heavy Strike's</span> queue is displayed as a golden border around the ability icon on your action bar. The queue is canceled when you use any other ability, so make sure the last button you press before the swing timer reaches the end of the red area is Heavy Strike.<br/><br/><span class=\"rtabsorb\">Thunder Call</span><br/>Heavy Strike also charges the ground in front of you with lightning, dealing <span class=\"rtwarning\">157% Strength</span> damage to enemies near the target.<br/><span class=\"rtmana\">Generates Fury relative to damage dealt</span><br/><span class=\"rtmeikoability2\">Can be queued during Global Cooldown</span>",
                 "levelLearned": 0,
-                "icon": "/images/i15931",
+                "icon": "/images/i15931.png",
                 "other": {},
                 "cooldown": 0,
                 "cost": 0,
@@ -1151,7 +1151,7 @@
                 "name": "Wild Swing",
                 "description": "Swing your hammer in a wide arc toward target enemy dealing <span class=\"rtwarning\">62% Strength</span> damage them and any nearby enemies.<br/><span class=\"rtabsorb\">Recklessness</span><br/>- Enemies have an increased chance to <span class=\"rtbold\">Dodge</span> Wild Swing.<br/>- Wild Swing cannot Critically Strike.<br/>- Damage of Wild Swing is increased by an amount equal to your Critical Strike chance percentage.<br/><span class=\"rtmana\">Generates Fury relative to damage dealt</span>",
                 "levelLearned": 0,
-                "icon": "/images/i15932",
+                "icon": "/images/i15932.png",
                 "other": {},
                 "cooldown": 0,
                 "cost": 0,
@@ -1164,7 +1164,7 @@
                 "name": "Face Breaker",
                 "description": "Instantly attack target enemy dealing <span class=\"rtwarning\">275% Strength</span> damage.<br/>Face Breaker can only be used after one of your attacks <span class=\"rtbold\">Misses</span> or is <span class=\"rtbold\">Dodged</span> by an enemy.<br/><span class=\"rtmana\">Generates Fury relative to damage dealt</span><br/><span class=\"rtmeikoability2\">Can be used during Global Cooldown</span>",
                 "levelLearned": 0,
-                "icon": "/images/i15933",
+                "icon": "/images/i15933.png",
                 "other": {},
                 "cooldown": 0,
                 "cost": 0,
@@ -1177,7 +1177,7 @@
                 "name": "Skull Crusher",
                 "description": "Instantly deal <span class=\"rtwarning\">340% Strength</span> damage to target enemy.<br/><span class=\"rtmeikoability1\">Skull Crusher resets the Swing Timer</span><br/><span class=\"rtabsorb\">Thunder Call</span><br/>Skull Crusher beckons a thunder bolt to strike the target from above, dealing <span class=\"rtwarning\">272% Strength</span> damage.",
                 "levelLearned": 0,
-                "icon": "/images/i15934",
+                "icon": "/images/i15934.png",
                 "other": {},
                 "cooldown": 0,
                 "cost": 0,
@@ -1191,7 +1191,7 @@
                 "name": "Hammer Storm",
                 "description": "Spin with your Hammer, dealing up to <span class=\"rtwarning\">224% Strength</span> damage over 2.8 seconds to all nearby enemies.<br/>Hammer Storm has an initial cost of <span class=\"rtmana\">26 Fury</span>, and an additional <span class=\"rtmana\">8 Fury</span> every 0.7 seconds until you have spent a maximum of <span class=\"rtmana\">50 Fury</span> per use.<br/><span class=\"rtmeikoability1\">Hammer Storm resets the Swing Timer</span><br/><span class=\"rtabsorb\">Thunder Call</span><br/>Hammer Storm causes lightning to strike you as you spin, shocking enemies hit for an additional <span class=\"rtwarning\">180% Strength</span> damage over 2.8 seconds.",
                 "levelLearned": 0,
-                "icon": "/images/i15935",
+                "icon": "/images/i15935.png",
                 "other": {},
                 "cooldown": 0,
                 "cost": 0,
@@ -1205,7 +1205,7 @@
                 "name": "Pummel",
                 "description": "Instantly interrupt target enemy's spell cast, and silence them for 4 seconds.<br/><span class=\"rtmeikoability2\">Can be used during Global Cooldown</span>",
                 "levelLearned": 0,
-                "icon": "/images/i15937",
+                "icon": "/images/i15937.png",
                 "other": {},
                 "cooldown": 0,
                 "cost": 0,
@@ -1218,7 +1218,7 @@
                 "name": "Thunder Call",
                 "description": "Call on Thunder to charge your hammer with immense power, enhancing your abilities for 20 seconds.<br/><span class=\"rtmana\">Generates 25 Fury</span><br/><span class=\"rtmeikoability2\">Can be used during Global Cooldown</span>",
                 "levelLearned": 0,
-                "icon": "/images/i15938",
+                "icon": "/images/i15938.png",
                 "other": {},
                 "cooldown": 0,
                 "cost": 0,
@@ -1231,7 +1231,7 @@
                 "name": "Chain Lightning",
                 "description": "Conjure an arc of lightning onto target enemy that chains between you and other enemies until it has dealt damage 5 times. Each hit of Chain Lightning deals <span class=\"rtwarning\">85% Strength</span> damage.<br/>Chain Lightning does not deal damage to you.<br/><span class=\"rtabsorb\">Thunder Call</span><br/>Chain Lightning requires you to have Thunder Call active.<br/><span class=\"rtmana\">Generates Fury relative to damage dealt</span>",
                 "levelLearned": 0,
-                "icon": "/images/i15939",
+                "icon": "/images/i15939.png",
                 "other": {},
                 "cooldown": 0,
                 "cost": 0,
@@ -1245,7 +1245,7 @@
                 "name": "Leap Smash",
                 "description": "Instantly Leap to target area and smash the ground, dealing <span class=\"rtwarning\">290% Strength</span> damage to all nearby enemies.<br/><span class=\"rtmana\">Generates 25 Fury</span><br/><span class=\"rtmeikoability2\">Can be used during Global Cooldown</span>",
                 "levelLearned": 2,
-                "icon": "/images/i15936",
+                "icon": "/images/i15936.png",
                 "other": {},
                 "cooldown": 0,
                 "cost": 0,
@@ -1258,7 +1258,7 @@
                 "name": "Unbreakable Will",
                 "description": "You take <span class=\"rtabsorb\">40% reduced damage</span> for 4 seconds.<br/><span class=\"rtmeikoability2\">Can be used during Global Cooldown</span>",
                 "levelLearned": 4,
-                "icon": "/images/i15944",
+                "icon": "/images/i15944.png",
                 "other": {},
                 "cooldown": 0,
                 "cost": 0,
@@ -1271,7 +1271,7 @@
                 "name": "Focused Wrath",
                 "description": "Your next two casts of <span class=\"rtabsorb\">Skull Crusher</span> or <span class=\"rtabsorb\">Hammer Storm</span> cost <span class=\"rtmana\">50% less Fury</span> and deal 30% increased damage.<br/><span class=\"rtmeikoability2\">Can be used during Global Cooldown</span>",
                 "levelLearned": 5,
-                "icon": "/images/i15942",
+                "icon": "/images/i15942.png",
                 "other": {},
                 "cooldown": 0,
                 "cost": 0,
@@ -1284,7 +1284,7 @@
                 "name": "Intimidate",
                 "description": "Instantly <span class=\"rtabsorb\">intimidate</span> up to 8 enemies around you for 10 seconds.<br/>If an <span class=\"rtabsorb\">Intimidated</span> enemy takes damage equal to 1000% of your Strength, they will break out of the effect.",
                 "levelLearned": 7,
-                "icon": "/images/i15941",
+                "icon": "/images/i15941.png",
                 "other": {},
                 "cooldown": 0,
                 "cost": 0,
@@ -1297,7 +1297,7 @@
                 "name": "Culling Strike",
                 "description": "Instantly deal <span class=\"rtwarning\">150% Strength</span> damage to target enemy. <span class=\"rtabsorb\">Culling Strike</span> spends up to <span class=\"rtmana\">20 Fury</span>, increasing its damage by 15% for each Fury spent up to 300%.<br/><span class=\"rtabsorb\">Execution</span><br/>Can only be used against enemies that have 30% or less health.",
                 "levelLearned": 9,
-                "icon": "/images/i15940",
+                "icon": "/images/i15940.png",
                 "other": {},
                 "cooldown": 0,
                 "cost": 0,
@@ -1307,7 +1307,7 @@
         ],
         "name": "Tariq",
         "description": "Tariq channels storm and fury to deal immense damage to his enemies.\r\n\r\nTariq is a Melee Damage Dealer that uses Builder/Spender and Timing Mechanics. He excels in the front lines to flank his enemies while they face the Tank.\r\n\r\nTiming his abilities around his Swing Timer will maximize his damage and Fury generation.\r\n\r\nFury is required for Tariq to perform powerful attacks.",
-        "icon": "/images/i15956",
+        "icon": "/images/i15956.png",
         "backgroundImage": "/images/T_HeroSelect_Ink_4K.png",
         "talents": [
             {
@@ -1316,7 +1316,7 @@
                 "level": 3,
                 "cost": 2,
                 "description": "<span class=\"bold\">Face Breaker</span> has 50% additional Critical Strike chance.<br/><span class=\"bold\">Passive:</span> Your <span class=\"bold\">Face Breaker</span> deals 20% increased damage.",
-                "icon": "/images/i15947"
+                "icon": "/images/i15947.png"
             },
             {
                 "id": "90037t",
@@ -1324,7 +1324,7 @@
                 "level": 3,
                 "cost": 2,
                 "description": "<span class=\"bold\">Heavy Strike</span> increases your Spirit by 2% for 12 seconds, stacking up to 10 times.<br/><span class=\"bold\">Passive:</span> Your swing timer is 50% faster.",
-                "icon": "/images/i15948"
+                "icon": "/images/i15948.png"
             },
             {
                 "id": "90038t",
@@ -1332,7 +1332,7 @@
                 "level": 3,
                 "cost": 2,
                 "description": "Wild Swing, Face Breaker, Leap Smash & Chain Lightning increase the damage of your next Heavy Strike by 12%, stacking up to 5 times.<br/><span class=\"bold\">Passive:</span> Your Critical Strike Power is increased by 8%.",
-                "icon": "/images/i15949"
+                "icon": "/images/i15949.png"
             },
             {
                 "id": "90039t",
@@ -1340,7 +1340,7 @@
                 "level": 6,
                 "cost": 1,
                 "description": "You take 10% reduced damage while performing <span class=\"bold\">Hammer Storm</span>.<br/><span class=\"bold\">Passive:</span> You take 10% less damage from Area of Effect attacks.",
-                "icon": "/images/i15950"
+                "icon": "/images/i15950.png"
             },
             {
                 "id": "90040t",
@@ -1348,7 +1348,7 @@
                 "level": 6,
                 "cost": 1,
                 "description": "Your <span class=\"bold\">Fury Generation</span> is increased by 10%.<br/><span class=\"bold\">Passive:</span> Your Movement Speed is increased by 10%",
-                "icon": "/images/i15951"
+                "icon": "/images/i15951.png"
             },
             {
                 "id": "90041t",
@@ -1356,7 +1356,7 @@
                 "level": 6,
                 "cost": 1,
                 "description": "Your <span class=\"bold\">Unbreakable Will</span> duration is increased by 4 seconds.<br/>While <span class=\"bold\">Unbreakable Will</span> is active, the ability is swapped out for <span class=\"bold\">\"Taunt\"</span>, allowing you to force target enemy to attack you for 8 seconds.<br/><span class=\"bold\">Passive:</span> You take 10% reduced Magic damage.",
-                "icon": "/images/i15952"
+                "icon": "/images/i15952.png"
             },
             {
                 "id": "90042t",
@@ -1364,7 +1364,7 @@
                 "level": 10,
                 "cost": 3,
                 "description": "<span class=\"bold\">Thunder Call</span> generates 60 additional Fury over 20 seconds.<br/><span class=\"bold\">Passive:</span> Your Lightning damage has 25% increased Critical Strike chance.",
-                "icon": "/images/i15953"
+                "icon": "/images/i15953.png"
             },
             {
                 "id": "90043t",
@@ -1372,7 +1372,7 @@
                 "level": 10,
                 "cost": 3,
                 "description": "Your <span class=\"bold\">Skull Crusher</span> has a chance to make your next <span class=\"bold\">Hammer Storm</span> deal 300% increased damage.<br/>Your <span class=\"bold\">Hammer Storm</span> has a chance to make your next <span class=\"bold\">Skull Crusher</span> deal 300% increased damage.",
-                "icon": "/images/i15954"
+                "icon": "/images/i15954.png"
             },
             {
                 "id": "90044t",
@@ -1380,13 +1380,13 @@
                 "level": 10,
                 "cost": 3,
                 "description": "Your <span class=\"bold\">Heavy Strike</span> has a chance to cast a free <span class=\"bold\">Chain Lightning</span> at the target.<br/><span class=\"bold\">Passive:</span> Your <span class=\"bold\">Chain Lightning</span> damage is increased by 20%.",
-                "icon": "/images/i15955"
+                "icon": "/images/i15955.png"
             }
         ],
         "id": "Tariq",
         "lore": "Tariq comes from a long line of champions. He is strong of hand and stronger of heart. He lived a simple life of calm and peace, but one fateful day, his partner and child were lost in the wars of the Clans.",
         "role": "DPS",
-        "roleIcon": "/images/i15957"
+        "roleIcon": "/images/i15957.png"
     },
     {
         "abilities": [
@@ -1396,7 +1396,7 @@
                 "name": "Twin Souls: Army of One",
                 "description": "You split your soul into the <span class=\"rtmeikoability2\">Sibling of Wind</span> and the <span class=\"rtmeikoability3\">Sibling of Earth</span> for 10 seconds.<br/><span class=\"rtmeikoability3\">SIBLING OF EARTH (controlled)</span><br/>While <span class=\"rtabsorb\">Twin Souls: Army of One</span> is active, the Sibling of Earth takes <span class=\"rtabsorb\">40% reduced damage</span>.<br/><span class=\"rtmeikoability2\">SIBLING OF WIND</span><br/>The Sibling of Wind swiftly teleports to, and strikes, nearby enemies up to 40 times dealing <span class=\"rtwarning\">92% agility</span> damage with each strike.<br/><span class=\"rtabsorb\">SPIRIT ABILITY</span><br/><span class=\"rtgreyitalic\">When you activate your Spirit ability you gain </span><span class=\"rtabsorb\">Spirit of Heroism</span><span class=\"rtgreyitalic\">, granting +30% Haste for 20 seconds.</span>",
                 "levelLearned": 1,
-                "icon": "/images/i15971",
+                "icon": "/images/i15971.png",
                 "other": {},
                 "cooldown": 0,
                 "cost": 0,
@@ -1410,7 +1410,7 @@
                 "name": "Spirit Palm",
                 "description": "Deals <span class=\"rtwarning\">40% Agility</span> damage to target enemy.<br/>Grants access to <span class=\"rtmeikoability1\">Palm Technique</span> finishers.<br/><span class=\"rtmana\">Combo Builder</span>",
                 "levelLearned": 0,
-                "icon": "/images/i15958",
+                "icon": "/images/i15958.png",
                 "other": {},
                 "cooldown": 0,
                 "cost": 0,
@@ -1423,7 +1423,7 @@
                 "name": "Wind Kick",
                 "description": "Deals <span class=\"rtwarning\">20% Agility</span> damage to your target and other enemies near your target.<br/>Grants access to <span class=\"rtmeikoability2\">Kick Technique</span> finishers.<br/><span class=\"rtmana\">Combo Builder</span>",
                 "levelLearned": 0,
-                "icon": "/images/i15959",
+                "icon": "/images/i15959.png",
                 "other": {},
                 "cooldown": 0,
                 "cost": 0,
@@ -1436,7 +1436,7 @@
                 "name": "Earth Fist",
                 "description": "Deals <span class=\"rtwarning\">40% Agility</span> damage to target enemy.<br/>Grants access to <span class=\"rtmeikoability3\">Fist Technique</span> finishers.<br/><span class=\"rtmana\">Combo Builder</span>",
                 "levelLearned": 0,
-                "icon": "/images/i15960",
+                "icon": "/images/i15960.png",
                 "other": {},
                 "cooldown": 0,
                 "cost": 0,
@@ -1449,7 +1449,7 @@
                 "name": "Fighting Techniques",
                 "description": "Grants access to <span class=\"rtmana\">Finishing Moves</span>  based on <span class=\"rtmana\">Combo Builders</span> used:<br/><span class=\"rtmeikoability2\">Finisher Techniques can be used during Global Cooldown</span><br/><span class=\"rtmeikoability1\">PALM TECHNIQUES</span> <br/><span class=\"rtmeikoability1\">Spirited Strikes</span> <br/>• Grants <span class=\"rtbold\">+10% Magic Damage reduction</span> & <span class=\"rtbold\">+5% Parry</span> for 15 sec.<br/><span class=\"rtmeikoability1\">Spirited Vortex</span> <br/>• Conjures a Vortex around you that provides <span class=\"rtbold\">+5% Dodge</span> and deals damage to nearby enemies over 18 sec.<br/><span class=\"rtmeikoability2\">KICK TECHNIQUES</span> <br/><span class=\"rtmeikoability2\">Rising Storm</span> <br/>• Deals damage to the target and grants <span class=\"rtbold\">2 Stormfall</span> charges, increasing the damage of your next 2 Lashing Stormkicks by 100%.<br/><span class=\"rtmeikoability2\">Lashing Stormkick</span> <br/>• Deals damage to target and nearby enemies nearby. Heals you for 200% of the damage it deals.<br/><span class=\"rtmeikoability3\">FIST TECHNIQUES</span> <br/><span class=\"rtmeikoability3\">Rising Earth</span> <br/>• Deals damage to the target and grants <span class=\"rtbold\">2 Earthfall</span> charges, increasing the damage of your next 2 Earthfist Barrages by 100%.<br/><span class=\"rtmeikoability3\">Earthfist Barrage</span> <br/>• Pummels target enemy over 2 seconds and heals you for 200% of the damage it deals.",
                 "levelLearned": 0,
-                "icon": "/images/i15961",
+                "icon": "/images/i15961.png",
                 "other": {},
                 "cooldown": 0,
                 "cost": 0,
@@ -1463,7 +1463,7 @@
                 "name": "Taunt",
                 "description": "<span class=\"rtabsorb\">Taunt</span> the target, forcing it to attack you for 6 sec.<br/><span class=\"rtmeikoability2\">Can be used during Global Cooldown</span>",
                 "levelLearned": 0,
-                "icon": "/images/i15962",
+                "icon": "/images/i15962.png",
                 "other": {},
                 "cooldown": 6,
                 "cost": 0,
@@ -1476,7 +1476,7 @@
                 "name": "Gust",
                 "description": "Quickly travel forward a short distance.<br/><span class=\"rtmeikoability2\">Can be used during Global Cooldown</span>",
                 "levelLearned": 0,
-                "icon": "/images/i15963",
+                "icon": "/images/i15963.png",
                 "other": {},
                 "cooldown": 30,
                 "cost": 0,
@@ -1491,7 +1491,7 @@
                 "name": "Stagger",
                 "description": "<span class=\"rtabsorb\">Interrupt</span> the target's spellcasting and prevent it from casting for 4 sec. <br/>Must interrupt a spell, or it will have no effect.<br/><span class=\"rtmeikoability2\">Can be used during Global Cooldown</span>",
                 "levelLearned": 0,
-                "icon": "/images/i15964",
+                "icon": "/images/i15964.png",
                 "other": {},
                 "cooldown": 12,
                 "cost": 0,
@@ -1504,7 +1504,7 @@
                 "name": "Stone Shield",
                 "description": "Summon 3 protective stones around you that spin in a wide circle, dealing <span class=\"rtwarning\">250% Agility</span> damage to all nearby enemies.<br/>Each stone <span class=\"rtbold\">increases armor by 35%, up to a maximum of 105%</span>.<br/>While at least one is active, the stones <span class=\"rtbold\">soak 35% of all damage you take</span>. When a stone has soaked damage equal to <span class=\"rtheal\">1200% Agility</span> it breaks, causing you to lose the Armor bonus provided by that stone.<br/><span class=\"rtmeikoability2\">Can be used during Global Cooldown</span>",
                 "levelLearned": 0,
-                "icon": "/images/i15966",
+                "icon": "/images/i15966.png",
                 "other": {},
                 "cooldown": 40,
                 "cost": 0,
@@ -1519,7 +1519,7 @@
                 "name": "Rising Storm",
                 "description": "Perform a powerful jump kick, dealing <span class=\"rtwarning\">80% Agility</span> damage to your target and nearby enemies. Damage is reduced beyond 3 targets. Grants you 2 charges of <span class=\"rtmana\">Stormfall</span>.<br/><span class=\"rtabsorb\">Stormfall</span><br/>Your next <span class=\"rtbold\">Lashing Stormkick</span> deals 100% increased damage.<br/><span class=\"rtmeikoability2\">Can be used during Global Cooldown</span>",
                 "levelLearned": 0,
-                "icon": "/images/i15972",
+                "icon": "/images/i15972.png",
                 "other": {},
                 "cooldown": 0,
                 "cost": " ",
@@ -1533,7 +1533,7 @@
                 "name": "Lashing Stormkick",
                 "description": "Perform a roundhouse kick, dealing <span class=\"rtwarning\">34% Agility</span> damage to your target and nearby enemies. Deals reduced damage beyond 3 targets.<br/>Lashing Stormkick heals you for 200% of the damage it deals.<br/><span class=\"rtabsorb\">Stormfall</span><br/>Using Lashing Stormkick will consume 1 <span class=\"rtmana\">Stormfall</span> and increase its damage by 100%.<br/><span class=\"rtmeikoability2\">Can be used during Global Cooldown</span>",
                 "levelLearned": 0,
-                "icon": "/images/i15973",
+                "icon": "/images/i15973.png",
                 "other": {},
                 "cooldown": 0,
                 "cost": " ",
@@ -1547,7 +1547,7 @@
                 "name": "Rising Earth",
                 "description": "Uppercut target enemy, dealing <span class=\"rtwarning\">126% Agility</span>. Grants you 2 charges of <span class=\"rtmana\">Earthfall</span>.<br/><span class=\"rtabsorb\">Earthfall</span><br/>Your next <span class=\"rtbold\">Earthfist Barrage</span> deals 100% increased damage.<br/><span class=\"rtmeikoability2\">Can be used during Global Cooldown</span>",
                 "levelLearned": 0,
-                "icon": "/images/i15974",
+                "icon": "/images/i15974.png",
                 "other": {},
                 "cooldown": 0,
                 "cost": " ",
@@ -1561,7 +1561,7 @@
                 "name": "Double Palm Strike",
                 "description": "Strike target enemy with both palms, dealing <span class=\"rtwarning\">130% Agility</span> damage. Grants <span class=\"rtabsorb\">Spirited Strikes</span> for 15 seconds.<br/><span class=\"rtabsorb\">SPIRITED STRIKES</span><br/>+20% Magic Damage Reduction<br/>+5% Parry<br/><span class=\"rtmeikoability2\">Can be used during Global Cooldown</span>",
                 "levelLearned": 0,
-                "icon": "/images/i15975",
+                "icon": "/images/i15975.png",
                 "other": {},
                 "cooldown": 0,
                 "cost": " ",
@@ -1575,7 +1575,7 @@
                 "name": "Earthfist Barrage",
                 "description": "Pummel your target for <span class=\"rtwarning\">42% Agility</span> damage while channeling over 1.5 seconds, ending with an uppercut that deals <span class=\"rtwarning\">42% Agility</span> damage. Meiko can <span class=\"rtbold\">Move</span> while <span class=\"rtbold\">channeling</span> Earthfist Barrage. <br/>Earthfist Barrage heals you for 100% of the damage it deals.<br/><span class=\"rtabsorb\">Affected by Earthfall</span><br/>Using <span class=\"rtbold\">Earthfist Barrage</span> will consume 1 <span class=\"rtabsorb\">Earthfall</span> and increase its damage by 100%.<br/><span class=\"rtmeikoability2\">Can be used during Global Cooldown</span>",
                 "levelLearned": 0,
-                "icon": "/images/i15976",
+                "icon": "/images/i15976.png",
                 "other": {},
                 "cooldown": 0,
                 "cost": " ",
@@ -1589,7 +1589,7 @@
                 "name": "Spirited Vortex",
                 "description": "Meiko creates a vortex of winds around her, providing <span class=\"rtmana\">+5% Dodge Chance</span> and dealing <span class=\"rtwarning\">30% Agility</span> damage to all nearby enemies every 2 sec for 18 sec.<br/><span class=\"rtmeikoability2\">Can be used during Global Cooldown</span>",
                 "levelLearned": 0,
-                "icon": "/images/i15977",
+                "icon": "/images/i15977.png",
                 "other": {},
                 "cooldown": 0,
                 "cost": " ",
@@ -1603,7 +1603,7 @@
                 "name": "Shatter Earth",
                 "description": "Leap and slam the ground at a target location, dealing <span class=\"rtwarning\">310% Agility</span> damage to all enemies in the area and leaving an area of quaking earth that deals <span class=\"rtwarning\">276% Agility</span> damage over 6 seconds to any enemy standing in in the effect.",
                 "levelLearned": 2,
-                "icon": "/images/i15965",
+                "icon": "/images/i15965.png",
                 "other": {},
                 "cooldown": 60,
                 "cost": 0,
@@ -1616,7 +1616,7 @@
                 "name": "Serenity",
                 "description": "Instantly heal yourself for <span class=\"rtheal\">140%</span> Agility.<br/>Each time you <span class=\"rtbold\">Auto Attack</span> an enemy, your <span class=\"rtabsorb\">Serenity</span> healing is increased by 30%, stacking up to 50 times.",
                 "levelLearned": 4,
-                "icon": "/images/i15969",
+                "icon": "/images/i15969.png",
                 "other": {},
                 "cooldown": 10,
                 "cost": 0,
@@ -1629,7 +1629,7 @@
                 "name": "Cyclone",
                 "description": "Create a <span class=\"rtabsorb\">Cyclone</span> of strong winds that instantly pulls in all enemies within the radius to you.",
                 "levelLearned": 5,
-                "icon": "/images/i15967",
+                "icon": "/images/i15967.png",
                 "other": {},
                 "cooldown": 60,
                 "cost": 0,
@@ -1642,7 +1642,7 @@
                 "name": "Twin Souls: Bulwark",
                 "description": "Split your soul into the <span class=\"rtmeikoability2\">Sibling of Wind</span> and the <span class=\"rtmeikoability3\">Sibling of Earth</span> for up to 20 seconds.<br/><span class=\"rtmeikoability2\">SIBLING OF WIND (controlled)</span><br/>The Sibling of Wind takes 20% of any damage dealt to the Sibling of Earth..<br/><span class=\"rtmeikoability3\">SIBLING OF EARTH</span><br/>The Sibling of Earth taunts all enemies in a 1000 radius around them every 1.5 seconds. If the Sibling of Earth is destroyed before the duration ends, <span class=\"rtabsorb\">Twin Souls: Bulwark</span> ends.<br/>",
                 "levelLearned": 7,
-                "icon": "/images/i15968",
+                "icon": "/images/i15968.png",
                 "other": {},
                 "cooldown": 180,
                 "cost": 0,
@@ -1655,7 +1655,7 @@
                 "name": "Stone Stomp",
                 "description": "Send a shockwave through the ground in front of you, dealing <span class=\"rtwarning\">476% Agility</span> damage to enemies in its wake and <span class=\"rtabsorb\">Stunning</span> them for 3 sec.",
                 "levelLearned": 9,
-                "icon": "/images/i15970",
+                "icon": "/images/i15970.png",
                 "other": {},
                 "cooldown": 120,
                 "cost": 0,
@@ -1666,7 +1666,7 @@
         ],
         "name": "Meiko",
         "description": "As a martial artist, Meiko utilizes a variety of fighting techniques to empower herself and defend her allies.\r\n\r\nMeiko is a Melee Tank that uses Ability Combo Mechanics. She excels in the front lines taking hits instead of her allies.\r\n\r\nShe uses Ability Combos to perform powerful Finishing Moves.\r\n\r\nBig cooldowns and self buffs allow her to mend her own wounds and survive dangerous attacks.",
-        "icon": "/images/i15987",
+        "icon": "/images/i15987.png",
         "backgroundImage": "/images/HeroSelect_Meiko_4K.png",
         "talents": [
             {
@@ -1675,7 +1675,7 @@
                 "level": 6,
                 "cost": 1,
                 "description": "Each hit with <span class=\"bold\">Earthfist Barrage</span> adds 1 Serenity charge.<br/><span class=\"bold\">Passive:</span> Your Earth abilities deal 10% increased damage",
-                "icon": "/images/i15978"
+                "icon": "/images/i15978.png"
             },
             {
                 "id": "90046t",
@@ -1683,7 +1683,7 @@
                 "level": 3,
                 "cost": 2,
                 "description": "When you activate <span class=\"bold\">Stone Shield</span> you take 20% reduced damage for 8 seconds.<br/><span class=\"bold\">Passive:</span> Your <span class=\"bold\">Threat Generation</span> is increased by 10%.",
-                "icon": "/images/i15979"
+                "icon": "/images/i15979.png"
             },
             {
                 "id": "90047t",
@@ -1691,7 +1691,7 @@
                 "level": 3,
                 "cost": 2,
                 "description": "Your <span class=\"bold\">Lashing Stormkick</span> has a 50% chance to deal damage an additional time for 30% of the initial hit.<br/><span class=\"bold\">Passive:</span><br/>Your <span class=\"bold\">Lashing Stormkick</span> has 10% increased Critical Strike chance.",
-                "icon": "/images/i15980"
+                "icon": "/images/i15980.png"
             },
             {
                 "id": "90048t",
@@ -1699,7 +1699,7 @@
                 "level": 6,
                 "cost": 1,
                 "description": "Each time you cast <span class=\"bold\">Gust</span> you release a burst of winds at your starting location, causing all enemies within 750 radius to have 50% reduced movement speed for 6 seconds.<br/><span class=\"bold\">Passive:</span> Your Movement Speed is increased by 10%.",
-                "icon": "/images/i15981"
+                "icon": "/images/i15981.png"
             },
             {
                 "id": "90049t",
@@ -1707,7 +1707,7 @@
                 "level": 3,
                 "cost": 2,
                 "description": "Your <span class=\"bold\">Shatter Earth</span> now also activates your <span class=\"bold\">Spirited Strikes</span> and <span class=\"bold\">Spirited Vortex</span> buffs.<br/><span class=\"bold\">Passive:</span> You take 10% less Magic Damage.",
-                "icon": "/images/i15982"
+                "icon": "/images/i15982.png"
             },
             {
                 "id": "90050t",
@@ -1715,7 +1715,7 @@
                 "level": 6,
                 "cost": 1,
                 "description": "Enemies hit by <span class=\"bold\">Spirited Vortex</span> have 20% reduced Attack Speed for 3 seconds.<br/><span class=\"bold\">Passive:</span> Your <span class=\"bold\">Spirited Vortex</span> damage is increased by 10%",
-                "icon": "/images/i15983"
+                "icon": "/images/i15983.png"
             },
             {
                 "id": "90051t",
@@ -1723,7 +1723,7 @@
                 "level": 10,
                 "cost": 3,
                 "description": "Your <span class=\"bold\">Serenity</span> applies 1% damage reduction for 8 seconds per stack consumed but its healing is reduced by 50%.<br/><span class=\"bold\">Passive:</span> Your <span class=\"bold\">Serenity</span> ability has 20% increased Critical Strike chance.",
-                "icon": "/images/i15984"
+                "icon": "/images/i15984.png"
             },
             {
                 "id": "90052t",
@@ -1731,7 +1731,7 @@
                 "level": 10,
                 "cost": 3,
                 "description": "Your <span class=\"bold\">Shatter Earth</span> now has 2 charges and each cast of <span class=\"bold\">Shatter Earth</span> reduces the cooldown of <span class=\"bold\">Twin Souls: Bulwark</span> by 15%.<br/><span class=\"bold\">Passive:</span><br/>The health and duration of your <span class=\"bold\">Twin Souls: Bulwark</span> sibling is increased by 20%.",
-                "icon": "/images/i15985"
+                "icon": "/images/i15985.png"
             },
             {
                 "id": "90053t",
@@ -1739,7 +1739,7 @@
                 "level": 10,
                 "cost": 3,
                 "description": "Your <span class=\"bold\">Double Palm Strike</span> finisher applies Forbidden Technique to the target for 15 seconds.<br/><span class=\"bold\">Forbidden Technique</span> accumulates 10% of all damage you deal to the target. Once it expires, is removed, or if the enemy dies while it is active -  you are healed for the accumulated amount and the same amount explodes outward to all nearby enemies in an 800 radius.<br/>You can only have one <span class=\"bold\">Forbidden Technique</span> active at any time.<br/><span class=\"bold\">Passive:</span><br/>Your Finishers have 10% increased Critical Strike chance.",
-                "icon": "/images/i15986"
+                "icon": "/images/i15986.png"
             }
         ],
         "id": "Meiko",
