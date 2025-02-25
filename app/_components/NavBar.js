@@ -17,19 +17,19 @@ export default async function NavBar() {
             name:e.name
         }
     })
-    var itemLinks = dungeons.map((e)=>{
+    /*var itemLinks = dungeons.map((e)=>{
         return {
             href:'/items/' + e.id,
             name:e.name
         }
-    })
+    })*/
 
     return (
         <div className="navBar">
             <span className="title"><a href='/'>FellowTools</a></span>
             <DropdownNav links={characterLinks} title="Characters" />
             <DropdownNav links={dungeonLinks} title="Dungeons" />
-            <DropdownNav links={itemLinks} title="Loot" />
+            {/*<DropdownNav links={itemLinks} title="Loot" />*/}
         </div>
     )
 }
