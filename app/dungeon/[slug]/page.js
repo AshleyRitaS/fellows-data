@@ -18,6 +18,7 @@ export default async function Dungeon({params}) {
     return (
         <>
         <DungeonMap dungeon={dungeon}/>
+        <p className="dungeonPSA">You can drag the map with left click, or zoom in/out with scrollwheel. You can also Ctrl + click to select a single mob from a pack.</p>
         </>
     )
 }
