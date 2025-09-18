@@ -10,7 +10,7 @@ export default function CanvasRoute({transformState, parentRect}) {
     var mapInfo = useSelector(selectCurrentMap);
     var pullInfo = useSelector(selectAllPullInfoCurrentMap);
     var currentPullID = useSelector(selectCurrentPullID);
-    console.log(pullInfo)
+    //console.log(pullInfo)
     var canvasRef = useRef();
 
 
@@ -22,7 +22,7 @@ export default function CanvasRoute({transformState, parentRect}) {
     useEffect(()=> {
         var ctx = canvasRef.current.getContext('2d');
         ctx.clearRect(0, 0, ctx.canvas.width, ctx.canvas.height)
-        console.log(currentPullID, convexHullPaths)
+        //console.log(currentPullID, convexHullPaths)
         convexHullPaths.forEach((val, pullID)=> {
             if(val.length < 3 ) {
                 return;
@@ -36,10 +36,10 @@ export default function CanvasRoute({transformState, parentRect}) {
             })
             
             ctx.beginPath();
-            console.log(currentPullID, pullID)
+            //console.log(currentPullID, pullID)
             if (currentPullID == pullID) {
                 ctx.setLineDash([15, 5])
-                console.log('selected')
+                //console.log('selected')
             } else {
                 ctx.setLineDash([0])
             }

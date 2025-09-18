@@ -5,6 +5,7 @@ import {cache} from 'react';
 const characterFile = 'data/characters.json'
 const dungeonFile = 'data/dungeons.json'
 const itemFile = 'data/items.json'
+const scalingFile = 'data/scaling.json'
 
 export default (function() {
     var data = {};
@@ -39,6 +40,11 @@ export default (function() {
         return items.filter(item => {
             return item.dungeonID === dungeonID;
         })
+    })
+
+    data.getScaling = cache(async () => {
+        var raw = fs.readFileSync(path.join(process.cwd(), scalingFile));
+        return JSON.parse(raw);
     })
 
     return data;

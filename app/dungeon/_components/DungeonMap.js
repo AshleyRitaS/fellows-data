@@ -12,15 +12,17 @@ import MapExpander from "./MapExpander";
 import Image from "next/image";
 import RouteExport from "./_route/RouteExport";
 import RouteImport from "./_route/RouteImport";
+import LevelSelector from "./LevelSelector";
 
 
 
-export default function DungeonMap({dungeon}) {
+export default function DungeonMap({dungeon, scaling}) {
     var initialized = useRef(false);
     var containerRef = useRef();
     var dispatch = useDispatch();
     if (!initialized.current) {
-        dispatch(initialize(dungeon))
+        dispatch(initialize({dungeon:dungeon, scaling:scaling}))
+        console.log(scaling);
         initialized.current = true;
     }
     var currentMap = useSelector(selectCurrentMap);

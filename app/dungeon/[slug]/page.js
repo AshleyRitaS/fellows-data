@@ -15,9 +15,10 @@ export async function generateStaticParams() {
 export default async function Dungeon({params}) {
     const {slug} = await params;
     const dungeon = await data.getDungeon(slug)
+    const scaling = await data.getScaling();
     return (
         <>
-        <DungeonMap dungeon={dungeon}/>
+        <DungeonMap dungeon={dungeon} scaling={scaling}/>
         <p className="dungeonPSA">You can drag the map with left click, or zoom in/out with scrollwheel. You can also Ctrl + click to select a single mob from a pack.</p>
         </>
     )

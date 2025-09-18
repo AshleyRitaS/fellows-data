@@ -14,6 +14,11 @@ const initialState = {
     pulls:[[]],
     selectedEnemyID:'',
     initialized:false,
+    scaling:{
+        health:[],
+        damage:[]
+    },
+    level:0
 }
 
 function removeFromPullsExcept(pulls, id, exemptedPull = -1) {
@@ -31,7 +36,7 @@ function removeFromPullsExcept(pulls, id, exemptedPull = -1) {
 function getAllEnemiesInGroup(components, groupID) {
     return components.filter(e => {
         if (e.group === groupID) {
-            console.log(e.id, e.group, groupID)
+            //console.log(e.id, e.group, groupID)
         }
         return e.group === groupID
 });
@@ -42,8 +47,9 @@ export const dungeonSlice = createSlice({
     initialState,
     reducers: {
         initialize: (state, action) => {
-            console.log(action.payload)
-            state.dungeon = action.payload;
+            //console.log(action.payload)
+            state.dungeon = action.payload.dungeon;
+            state.scaling = action.payload.scaling;
             state.currentMapID = Object.keys(state.dungeon?.maps || {})?.[0]
             state.selectedEnemyID = state.dungeon?.maps?.[state.currentMapID]?.components?.[0]?.id
         },
@@ -57,7 +63,7 @@ export const dungeonSlice = createSlice({
             var enemy = components.find(e => e.id === action.payload);
             var componentsToPull = getAllEnemiesInGroup(components, enemy.group);
             componentsToPull.forEach((e)=>{
-                console.log(e.id)
+                //console.log(e.id)
             })
             if (state.pulls?.[state.currentPullID].includes(action.payload)) {
                 componentsToPull.forEach(e => {
@@ -122,11 +128,18 @@ export const dungeonSlice = createSlice({
                     }
                 }
             }
+        },
+        changeLevel: (state, action) => {
+            if (action.payload < Math.min(state.scaling.health.length, state.scaling.damage.length)) {
+                state.level = action.payload;
+            } else {
+                state.level = Math.min(state.scaling.health.length, state.scaling.damage.length) - 1;
+            }
         }
     }
 })
 
-export const { importPulls, initialize, newEnemy, pullEnemy, pullEnemySingle, newPull, changePull, deletePull, setMap} = dungeonSlice.actions;
+export const { importPulls, initialize, newEnemy, pullEnemy, pullEnemySingle, newPull, changePull, deletePull, setMap, changeLevel} = dungeonSlice.actions;
 
 var selectMapFunctions = {};
 export const createSelectMapByID = (id) => {
@@ -144,6 +157,18 @@ export const selectCurrentMap = (state) => {
 
 export const selectCurrentMapID = (state) => {
     return state.dungeon.currentMapID;
+}
+
+export const selectLevel = (state) => {
+    return state.dungeon.level;
+}
+
+export const selectMaxLevel = (state) => {
+    return Math.min(state.dungeon.scaling.health.length, state.dungeon.scaling.damage.length)
+}
+
+export const selectHealthScaling = (state) => {
+    return state.dungeon.scaling.health[state.dungeon.level]
 }
 
 var selectEnemyFunctions = {};
@@ -276,6 +301,43 @@ export const selectSaveStateExport = function(state) {
     var jsonString = JSON.stringify(compressedPulls);
     var exportString = LZString.compressToEncodedURIComponent(jsonString);
     return state.dungeon.dungeon.prefix + exportString;
+}
+
+export const selectSimfellExport = function(state) {
+    var output = {
+        level: state.dungeon.level,
+        pulls:[]
+    }
+    var healthScaling = selectHealthScaling(state);
+
+    state.dungeon.pulls.forEach((pull) => {
+        var enemies = pull.map((e)=> {
+            return createSelectEnemyByID(e)(state);
+        })
+        output.pulls.push({
+            enemies: enemies.filter((enemy) => {
+                return enemy.health > 0;
+            }).map((enemy) => {
+                return {
+                    name:enemy.name,
+                    score:enemy.score,
+                    health:Math.floor(enemy.health * healthScaling),
+                }
+            }),
+            location: {
+                x:enemies.reduce((acc, cur) => {
+                    return acc + cur.location.x;
+                }, 0) / (pull.length || 1),
+                y:enemies.reduce((acc, cur) => {
+                    return acc + cur.location.y;
+                }, 0) / (pull.length || 1),
+                z:enemies.reduce((acc, cur) => {
+                    return acc + cur.location.z;
+                }, 0) / (pull.length || 1)
+            }
+        })
+    })
+    return output;
 }
 
 var allPullInfo = [];

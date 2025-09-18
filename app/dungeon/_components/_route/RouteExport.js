@@ -1,11 +1,12 @@
 'use client'
-import { selectDungeonInfo, selectSaveStateExport } from "@/app/_state/_dungeon/dungeonSlice";
+import { selectDungeonInfo, selectSaveStateExport, selectSimfellExport} from "@/app/_state/_dungeon/dungeonSlice";
 import { useSelector } from "react-redux";
 import Modal from 'react-modal'
 import { useState, useRef } from "react";
 
 export default function RouteExport() {
     var exportString = useSelector(selectSaveStateExport);
+    var simfellExport = useSelector(selectSimfellExport);
     var dungeonInfo = useSelector(selectDungeonInfo);
     var [isOpen, setIsOpen] = useState(false);
     var textRef = useRef();
@@ -39,7 +40,9 @@ export default function RouteExport() {
 
                 <button onClick={()=>{textRefDiscordURL.current.select(); document.execCommand('copy')}} >Copy Discord Link</button>
 
-
+                <a href={"data:text/plain;charset=utf-8," + encodeURIComponent(JSON.stringify(simfellExport, null, 2))} download="Simfell Route.json">
+                    <button>Simfell Download</button>
+                </a>
 
                 <button onClick={()=>setIsOpen(false)}>Close</button>
             </Modal>

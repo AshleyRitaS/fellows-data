@@ -3,6 +3,7 @@ import "./globals.css";
 import StoreProvider from "./_components/StoreProvider";
 import Head from "next/head";
 import NavBar from "./_components/NavBar";
+import Updating from "./_components/Updating";
 import { SpeedInsights } from "@vercel/speed-insights/next"
 
 import {GoogleAnalytics} from '@next/third-parties/google';
@@ -41,6 +42,7 @@ export default function RootLayout({ children }) {
       <body className={`${geistSans.variable} ${geistMono.variable}`}>
         <StoreProvider>
           <NavBar />
+          <Updating />
           <div className="content">
             {children}
           </div>

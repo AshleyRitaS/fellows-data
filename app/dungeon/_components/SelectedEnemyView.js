@@ -1,12 +1,15 @@
 'use client'
 import { useSelector, } from "react-redux"
-import { selectCurrentEnemy, selectCurrentEnemyID } from "@/app/_state/_dungeon/dungeonSlice"
+import { selectCurrentEnemy, selectCurrentEnemyID, selectHealthScaling } from "@/app/_state/_dungeon/dungeonSlice"
 import Draggable from "react-draggable";
 import { useRef } from "react";
 import Image from "next/image";
+import LevelSelector from "./LevelSelector";
 
 export default function SelectedEnemyView({draggable}) {
     const currentEnemy=useSelector(selectCurrentEnemy);
+    const currentHealthScaling = useSelector(selectHealthScaling);
+    //console.log('health',currentHealthScaling)
     if (process.env.NODE_ENV == "development") {
         var extraDetails = (<><p>ID: {currentEnemy?.id}</p><p>Group: {currentEnemy?.group}</p>
             <p>Loc: {JSON.stringify(currentEnemy?.location)}</p>
@@ -21,7 +24,8 @@ export default function SelectedEnemyView({draggable}) {
             <div className="currentEnemyStats">
                 <h4 className="currentEnemyName">{currentEnemy?.name}</h4>
                 <p>Score: {currentEnemy?.score}</p>
-                <p>Health: {Math.floor(currentEnemy?.health)}</p>
+                <p>Health: {Math.floor(currentEnemy?.health * currentHealthScaling)}</p>
+                <p>Dungeon Level: <LevelSelector /></p>
                 {extraDetails || <></>}
             </div>
         </div>

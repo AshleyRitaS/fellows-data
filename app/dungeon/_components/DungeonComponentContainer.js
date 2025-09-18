@@ -12,7 +12,7 @@ export default function DungeonComponentContainer({children}) {
     var sizeRef = useRef(null);
     var map = useSelector(selectCurrentMap);
     var enemies = map.components;
-    console.log(enemies);
+    //console.log(enemies);
     var [transformState, setTransformState] = useState({scale:1,positionX:0,positionY:0});
 
     useTransformEffect((state) => {
