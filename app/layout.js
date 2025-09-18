@@ -42,7 +42,6 @@ export default function RootLayout({ children }) {
       <body className={`${geistSans.variable} ${geistMono.variable}`}>
         <StoreProvider>
           <NavBar />
-          <Updating />
           <div className="content">
             {children}
           </div>
