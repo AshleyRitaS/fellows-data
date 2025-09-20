@@ -9,7 +9,7 @@ export default function ComponentIcon({enemyID, usePatrols=true}) {
     var pull = useSelector(createSelectPullByEnemyID(enemyID))
     var color = 'black'
     var group = useSelector(selectCurrentGroup);
-    console.log('currentGroup', group)
+    //console.log('currentGroup', group)
     if (pull >= 0) {
         color = pullColors[pull]
     }
