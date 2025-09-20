@@ -22,19 +22,19 @@ export default function DungeonMap({dungeon, scaling}) {
     var dispatch = useDispatch();
     if (!initialized.current) {
         dispatch(initialize({dungeon:dungeon, scaling:scaling}))
-        console.log(scaling);
+        //console.log(scaling);
         initialized.current = true;
     }
     var currentMap = useSelector(selectCurrentMap);
     var unExpander = () => {
         containerRef.current.classList.remove('expand');
         setExpanded(false);
-        console.log('remove;')
+        //console.log('remove;')
     }
     var expander = () => {
         containerRef.current.classList.add('expand');
         setExpanded(true);
-        console.log('add')
+        //console.log('add')
     }
 
     var expandAction;
