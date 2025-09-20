@@ -11,7 +11,7 @@ export default function PullComponent({id}) {
     var dispatch = useDispatch();
 
     var enemies = pull.reduce((acc, cur) => {
-        return <>{acc} <ComponentIcon enemyID={cur}></ComponentIcon></>
+        return <>{acc} <ComponentIcon enemyID={cur} usePatrols={false}></ComponentIcon></>
     }, <></>)
     return (
         <>

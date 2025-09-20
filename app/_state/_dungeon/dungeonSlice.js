@@ -13,6 +13,7 @@ const initialState = {
     currentPullID:0,
     pulls:[[]],
     selectedEnemyID:'',
+    hoveredGroupID:-1,
     initialized:false,
     scaling:{
         health:[],
@@ -52,6 +53,12 @@ export const dungeonSlice = createSlice({
             state.scaling = action.payload.scaling;
             state.currentMapID = Object.keys(state.dungeon?.maps || {})?.[0]
             state.selectedEnemyID = state.dungeon?.maps?.[state.currentMapID]?.components?.[0]?.id
+            state.hoveredGroupID = -1;
+        },
+        newHoverGroup: (state, action) => {
+            if (state.hoveredGroupID !== action.payload) {
+                state.hoveredGroupID = action.payload;
+            }
         },
         newEnemy: (state, action) => {
             if (state.selectedEnemyID !== action.payload) {
@@ -61,7 +68,9 @@ export const dungeonSlice = createSlice({
         pullEnemy: (state, action) => {
             var components = state.dungeon.maps[state.currentMapID].components;
             var enemy = components.find(e => e.id === action.payload);
-            var componentsToPull = getAllEnemiesInGroup(components, enemy.group);
+            var componentsToPull = getAllEnemiesInGroup(components, enemy.group).filter((enemy) => {
+                return enemy.className !== 'patrolNode'
+            });
             componentsToPull.forEach((e)=>{
                 //console.log(e.id)
             })
@@ -139,7 +148,7 @@ export const dungeonSlice = createSlice({
     }
 })
 
-export const { importPulls, initialize, newEnemy, pullEnemy, pullEnemySingle, newPull, changePull, deletePull, setMap, changeLevel} = dungeonSlice.actions;
+export const { newHoverGroup, importPulls, initialize, newEnemy, pullEnemy, pullEnemySingle, newPull, changePull, deletePull, setMap, changeLevel} = dungeonSlice.actions;
 
 var selectMapFunctions = {};
 export const createSelectMapByID = (id) => {
@@ -211,7 +220,11 @@ export const selectCurrentEnemyID = (state) => {
 
 export const selectCurrentEnemy = (state) => {
     return createSelectEnemyByIDAllMaps(selectCurrentEnemyID(state))(state);
-};
+}
+
+export const selectCurrentGroup = (state) => {
+    return state.dungeon.hoveredGroupID;
+}
 
 export const selectAllMapIDs = (state) => {
     return Object.keys(state.dungeon.dungeon.maps || {});
@@ -316,7 +329,7 @@ export const selectSimfellExport = function(state) {
         })
         output.pulls.push({
             enemies: enemies.filter((enemy) => {
-                return enemy.health > 0;
+                return enemy?.health > 0;
             }).map((enemy) => {
                 return {
                     name:enemy.name,
@@ -326,13 +339,13 @@ export const selectSimfellExport = function(state) {
             }),
             location: {
                 x:enemies.reduce((acc, cur) => {
-                    return acc + cur.location.x;
+                    return acc + cur?.location?.x;
                 }, 0) / (pull.length || 1),
                 y:enemies.reduce((acc, cur) => {
-                    return acc + cur.location.y;
+                    return acc + cur?.location?.y;
                 }, 0) / (pull.length || 1),
                 z:enemies.reduce((acc, cur) => {
-                    return acc + cur.location.z;
+                    return acc + cur?.location?.z;
                 }, 0) / (pull.length || 1)
             }
         })
