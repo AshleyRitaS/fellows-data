@@ -54,6 +54,8 @@ export const dungeonSlice = createSlice({
             state.currentMapID = Object.keys(state.dungeon?.maps || {})?.[0]
             state.selectedEnemyID = state.dungeon?.maps?.[state.currentMapID]?.components?.[0]?.id
             state.hoveredGroupID = -1;
+            state.pulls = [[]];
+            state.currentPullID = 0;
         },
         newHoverGroup: (state, action) => {
             if (state.hoveredGroupID !== action.payload) {
