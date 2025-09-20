@@ -29,7 +29,7 @@ export default function ComponentIcon({enemyID, usePatrols=true}) {
         dispatch(newHoverGroup(enemy.group))
     }
 
-    if (!usePatrols && enemy.className === 'patrolNode') {
+    if (!usePatrols && enemy?.className === 'patrolNode') {
         return <></>
     }
 
